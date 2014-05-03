@@ -52,8 +52,14 @@ public class connect {
     
         String userName = "eecs450@iw74js5v20"; // 用户名
         String userPwd = "p@ssw0rd"; // 密码
+        
+        // output file
         //File file = new File("output.txt");
+        
+        // parse file
         File file = new File("parse.txt");
+        
+        //File file = new File("links.txt");
         file.createNewFile(); // 创建新文件  
         BufferedWriter out = new BufferedWriter(new FileWriter(file));  
         //out.write("我会写入文件啦\r\n"); // \r\n即为换行
@@ -65,8 +71,12 @@ public class connect {
             Connection connect = DriverManager.getConnection(dbURL, userName,userPwd);
             Statement stmt = connect.createStatement();
             //ResultSet rs = stmt.executeQuery("select top 10 * from [dbo].[Page] nolock where Head like '%X-Webkit-CSP%';");
-            //ResultSet rs = stmt.executeQuery("select  count(*) from [dbo].[Page] nolock where Head like '%X-Webkit-CSP%';");
-            ResultSet rs = stmt.executeQuery("select * from [dbo].[Page] nolock where Head like '%Content-Security-Policy%';");
+            ResultSet rs = stmt.executeQuery("select  count(*) from [dbo].[Page] nolock where Content like '%Content-Security-Policy%';");
+            
+            // contains CSP
+            //ResultSet rs = stmt.executeQuery("select * from [dbo].[Page] nolock where Head like '%Content-Security-Policy%';");
+            
+            //ResultSet rs = stmt.executeQuery("select top 20 Id, WebsiteId, URL, Content, ParentId from [dbo].[Page] nolock;");
             ResultSetMetaData metaData = rs.getMetaData();
             // get the count of column
             int columnCount = metaData.getColumnCount();
@@ -91,16 +101,19 @@ public class connect {
             **/
             while(rs.next())
             {
-            	//System.out.println(rs.getString(1));
-            	// write into txt file
+            	// print count
+            	System.out.println(rs.getString(1));
             	
+            	// write into txt file
+            	/**
             	out.write(metaData.getColumnLabel(1) + ", \r\n" + rs.getString(1) + "\r\n");
             	out.write(metaData.getColumnLabel(2) + ", \r\n" + rs.getString(2) + "\r\n");
             	out.write(metaData.getColumnLabel(3) + ", \r\n" + rs.getString(3) + "\r\n");
-            	//out.write(metaData.getColumnLabel(6) + ", \r\n" + rs.getString(6) + "\r\n");
+            	out.write(metaData.getColumnLabel(6) + ", \r\n" + rs.getString(6) + "\r\n");
             	out.write(metaData.getColumnLabel(8) + ", \r\n" + rs.getString(8) + "\r\n");
+            	out.write("\r\n");
+            	out.write("\r\n");
             	
-            	/**
             	System.out.println(metaData.getColumnLabel(1) + ", \r\n" + rs.getString(1) + "\r\n");
             	System.out.println(metaData.getColumnLabel(2) + ", \r\n" + rs.getString(2) + "\r\n");
             	System.out.println(metaData.getColumnLabel(3) + ", \r\n" + rs.getString(3) + "\r\n");
@@ -109,15 +122,19 @@ public class connect {
             	System.out.println("\r\n");
             	System.out.println("\r\n");
             	**/
-            	out.write("Parse Outcome: \r\n");
-            	parseHead(rs.getString(1), rs.getString(2), rs.getString(3), rs.getString(6), rs.getString(8), out);
-            	out.write("\r\n");
-            	out.write("\r\n");
+            	
+            	// parse
+            	//out.write(metaData.getColumnLabel(1) + ", \r\n" + rs.getString(1) + "\r\n");
+            	//out.write(metaData.getColumnLabel(2) + ", \r\n" + rs.getString(2) + "\r\n");
+            	//out.write(metaData.getColumnLabel(3) + ", \r\n" + rs.getString(3) + "\r\n");
+            	//out.write(metaData.getColumnLabel(8) + ", \r\n" + rs.getString(8) + "\r\n");
+            	//out.write("Parse Outcome: \r\n");
+            	//parseHead(rs.getString(1), rs.getString(2), rs.getString(3), rs.getString(6), rs.getString(8), out);
+            	
+            	//out.write("\r\n");
             }
             out.close();
             //System.out.println("finished!!");
-            
-            
             
         } catch (ClassNotFoundException e) {
             System.out.print("Error loading SQLServer Driver!");

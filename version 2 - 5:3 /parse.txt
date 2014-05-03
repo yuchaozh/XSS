@@ -1,0 +1,3399 @@
+Id, 
+4471
+WebsiteId, 
+26
+URL, 
+http://www.pinterest.com
+ParentId, 
+0
+Parse Outcome: 
+Content-Security-Policy-Report-Only=default-src 'self' *.pinterest.com *.pinimg.com *.google.com connect.facebook.net *.google-analytics.com https://*.facebook.com *.facebook.com www.googleadservices.com googleads.g.doubleclick.net *.tiles.mapbox.com *.4sqi.net media.pinterest.com.s3.amazonaws.com 'unsafe-inline' 'unsafe-eval'
+img-src *
+object-src *
+frame-src *
+report-uri /_/_/csp_report/
+
+Id, 
+4472
+WebsiteId, 
+26
+URL, 
+http://enable-javascript.com/
+ParentId, 
+4471
+Parse Outcome: 
+Content-Security-Policy-Report-Only=default-src 'self' *.pinterest.com *.pinimg.com *.google.com connect.facebook.net *.google-analytics.com https://*.facebook.com *.facebook.com www.googleadservices.com googleads.g.doubleclick.net *.tiles.mapbox.com *.4sqi.net media.pinterest.com.s3.amazonaws.com 'unsafe-inline' 'unsafe-eval'
+img-src *
+object-src *
+frame-src *
+report-uri /_/_/csp_report/
+
+Id, 
+21923
+WebsiteId, 
+183
+URL, 
+http://www.github.com
+ParentId, 
+0
+Parse Outcome: 
+Content-Security-Policy=default-src *
+script-src https://github.global.ssl.fastly.net https://ssl.google-analytics.com https://collector-cdn.github.com
+style-src 'self' 'unsafe-inline' 'unsafe-eval' https://github.global.ssl.fastly.net
+object-src https://github.global.ssl.fastly.net
+
+Id, 
+21924
+WebsiteId, 
+183
+URL, 
+https://enterprise.github.com/
+ParentId, 
+21923
+Parse Outcome: 
+Content-Security-Policy=default-src *
+script-src https://github.global.ssl.fastly.net https://ssl.google-analytics.com https://collector-cdn.github.com
+style-src 'self' 'unsafe-inline' 'unsafe-eval' https://github.global.ssl.fastly.net
+object-src https://github.global.ssl.fastly.net
+
+Id, 
+21925
+WebsiteId, 
+183
+URL, 
+https://help.github.com/terms
+ParentId, 
+21923
+Parse Outcome: 
+Content-Security-Policy=default-src *
+script-src https://github.global.ssl.fastly.net https://ssl.google-analytics.com https://collector-cdn.github.com
+style-src 'self' 'unsafe-inline' 'unsafe-eval' https://github.global.ssl.fastly.net
+object-src https://github.global.ssl.fastly.net
+
+Id, 
+21926
+WebsiteId, 
+183
+URL, 
+https://help.github.com/privacy
+ParentId, 
+21923
+Parse Outcome: 
+Content-Security-Policy=default-src *
+script-src https://github.global.ssl.fastly.net https://ssl.google-analytics.com https://collector-cdn.github.com
+style-src 'self' 'unsafe-inline' 'unsafe-eval' https://github.global.ssl.fastly.net
+object-src https://github.global.ssl.fastly.net
+
+Id, 
+21927
+WebsiteId, 
+183
+URL, 
+http://github.com/explore
+ParentId, 
+21923
+Parse Outcome: 
+Content-Security-Policy=default-src *
+script-src https://github.global.ssl.fastly.net https://ssl.google-analytics.com https://collector-cdn.github.com
+style-src 'self' 'unsafe-inline' 'unsafe-eval' https://github.global.ssl.fastly.net
+object-src https://github.global.ssl.fastly.net
+
+Id, 
+21928
+WebsiteId, 
+183
+URL, 
+http://mac.github.com
+ParentId, 
+21923
+Parse Outcome: 
+Content-Security-Policy=default-src *
+script-src https://github.global.ssl.fastly.net https://ssl.google-analytics.com https://collector-cdn.github.com
+style-src 'self' 'unsafe-inline' 'unsafe-eval' https://github.global.ssl.fastly.net
+object-src https://github.global.ssl.fastly.net
+
+Id, 
+21929
+WebsiteId, 
+183
+URL, 
+http://windows.github.com
+ParentId, 
+21923
+Parse Outcome: 
+Content-Security-Policy=default-src *
+script-src https://github.global.ssl.fastly.net https://ssl.google-analytics.com https://collector-cdn.github.com
+style-src 'self' 'unsafe-inline' 'unsafe-eval' https://github.global.ssl.fastly.net
+object-src https://github.global.ssl.fastly.net
+
+Id, 
+21930
+WebsiteId, 
+183
+URL, 
+https://enterprise.github.com
+ParentId, 
+21923
+Parse Outcome: 
+Content-Security-Policy=default-src *
+script-src https://github.global.ssl.fastly.net https://ssl.google-analytics.com https://collector-cdn.github.com
+style-src 'self' 'unsafe-inline' 'unsafe-eval' https://github.global.ssl.fastly.net
+object-src https://github.global.ssl.fastly.net
+
+Id, 
+21931
+WebsiteId, 
+183
+URL, 
+https://status.github.com/
+ParentId, 
+21923
+Parse Outcome: 
+Content-Security-Policy=default-src *
+script-src https://github.global.ssl.fastly.net https://ssl.google-analytics.com https://collector-cdn.github.com
+style-src 'self' 'unsafe-inline' 'unsafe-eval' https://github.global.ssl.fastly.net
+object-src https://github.global.ssl.fastly.net
+
+Id, 
+21932
+WebsiteId, 
+183
+URL, 
+http://developer.github.com
+ParentId, 
+21923
+Parse Outcome: 
+Content-Security-Policy=default-src *
+script-src https://github.global.ssl.fastly.net https://ssl.google-analytics.com https://collector-cdn.github.com
+style-src 'self' 'unsafe-inline' 'unsafe-eval' https://github.global.ssl.fastly.net
+object-src https://github.global.ssl.fastly.net
+
+Id, 
+21933
+WebsiteId, 
+183
+URL, 
+http://training.github.com
+ParentId, 
+21923
+Parse Outcome: 
+Content-Security-Policy=default-src *
+script-src https://github.global.ssl.fastly.net https://ssl.google-analytics.com https://collector-cdn.github.com
+style-src 'self' 'unsafe-inline' 'unsafe-eval' https://github.global.ssl.fastly.net
+object-src https://github.global.ssl.fastly.net
+
+Id, 
+21934
+WebsiteId, 
+183
+URL, 
+http://shop.github.com
+ParentId, 
+21923
+Parse Outcome: 
+Content-Security-Policy=default-src *
+script-src https://github.global.ssl.fastly.net https://ssl.google-analytics.com https://collector-cdn.github.com
+style-src 'self' 'unsafe-inline' 'unsafe-eval' https://github.global.ssl.fastly.net
+object-src https://github.global.ssl.fastly.net
+
+Id, 
+108161
+WebsiteId, 
+646
+URL, 
+http://www.mega.co.nz
+ParentId, 
+0
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' *.mega.co.nz http://*.mega.co.nz
+script-src 'self' 'unsafe-eval' mega.co.nz data: blob:
+style-src 'self' 'unsafe-inline' *.mega.co.nz data: blob:
+frame-src 'self' mega:
+img-src 'self' *.mega.co.nz data: blob:
+
+Id, 
+199551
+WebsiteId, 
+1340
+URL, 
+http://www.zhihu.com
+ParentId, 
+0
+Parse Outcome: 
+Content-Security-Policy=frame-src *.zhihu.com note.youdao.com
+script-src *.zhihu.com *.google-analytics.com 'unsafe-eval'
+
+Id, 
+199552
+WebsiteId, 
+1340
+URL, 
+http://api.zhihu.com/client/download/appstore?utm_source=zhihu_register&utm_medium=appstore_link&utm_campaign=appdownload
+ParentId, 
+199551
+Parse Outcome: 
+Content-Security-Policy=frame-src *.zhihu.com note.youdao.com
+script-src *.zhihu.com *.google-analytics.com 'unsafe-eval'
+
+Id, 
+199553
+WebsiteId, 
+1340
+URL, 
+http://api.zhihu.com/client/download/play?utm_source=zhihu_register&utm_medium=googleplay_link&utm_campaign=appdownload
+ParentId, 
+199551
+Parse Outcome: 
+Content-Security-Policy=frame-src *.zhihu.com note.youdao.com
+script-src *.zhihu.com *.google-analytics.com 'unsafe-eval'
+
+Id, 
+199554
+WebsiteId, 
+1340
+URL, 
+http://api.zhihu.com/client/download/wandoujia?utm_source=zhihu_register&utm_medium=wandoujia&utm_campaign=appdownload
+ParentId, 
+199551
+Parse Outcome: 
+Content-Security-Policy=frame-src *.zhihu.com note.youdao.com
+script-src *.zhihu.com *.google-analytics.com 'unsafe-eval'
+
+Id, 
+199555
+WebsiteId, 
+1340
+URL, 
+http://api.zhihu.com/client/download/apk?utm_source=zhihu_register&utm_medium=apk_link&utm_campaign=appdownload
+ParentId, 
+199551
+Parse Outcome: 
+Content-Security-Policy=frame-src *.zhihu.com note.youdao.com
+script-src *.zhihu.com *.google-analytics.com 'unsafe-eval'
+
+Id, 
+199556
+WebsiteId, 
+1340
+URL, 
+http://www.miibeian.gov.cn/
+ParentId, 
+199551
+Parse Outcome: 
+Content-Security-Policy=frame-src *.zhihu.com note.youdao.com
+script-src *.zhihu.com *.google-analytics.com 'unsafe-eval'
+
+Id, 
+199557
+WebsiteId, 
+1340
+URL, 
+http://api.zhihu.com/client/download/appstore
+ParentId, 
+199551
+Parse Outcome: 
+Content-Security-Policy=frame-src *.zhihu.com note.youdao.com
+script-src *.zhihu.com *.google-analytics.com 'unsafe-eval'
+
+Id, 
+199558
+WebsiteId, 
+1340
+URL, 
+http://api.zhihu.com/client/download/play
+ParentId, 
+199551
+Parse Outcome: 
+Content-Security-Policy=frame-src *.zhihu.com note.youdao.com
+script-src *.zhihu.com *.google-analytics.com 'unsafe-eval'
+
+Id, 
+246892
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com
+ParentId, 
+0
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246893
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/brasilia/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246894
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/portoalegre/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246895
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/rio/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246896
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/salvador/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246897
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/sao-paulo-sp/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246898
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/ahmedabad/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246899
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/bangalore/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246900
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/chandigarh/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246901
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/chennai/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246902
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/ncr/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246903
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/guwahati/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246904
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/hyderabad/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246905
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/indore/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246906
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/jaipur/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246907
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/kolkata/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246908
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/lucknow/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246909
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/ludhiana/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246910
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/mumbai/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246911
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/pune/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246912
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/jakarta/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246913
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/auckland/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246914
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/hamilton/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246915
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/wellington/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246916
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manila/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246917
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/lisboa/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246918
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/doha/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246919
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/capetown/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246920
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/durban/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246921
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/johannesburg/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246922
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/pretoria/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246923
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/colombo/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246924
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/ankara/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246925
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/istanbul/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246926
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/abudhabi/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246927
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/dubai/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246928
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/sharjah/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246929
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/birmingham/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246930
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/edinburgh/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246931
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/glasgow/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246932
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/london/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246933
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manchester/
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246934
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/?lang=en&user_lang_change=1
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246935
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/?lang=tr&user_lang_change=1
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246936
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/?lang=id&user_lang_change=1
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246937
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/?lang=pt&user_lang_change=1
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246938
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/brasilia
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246939
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/portoalegre
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246940
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/rio
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246941
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/salvador
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246942
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/sao-paulo-sp
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246943
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/por/saopaulo
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246944
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/por/rio
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246945
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/por/brasilia
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246946
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/por/portoalegre
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246947
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/por/salvador
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246948
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/por/saopaulo
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246949
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/por/saopaulo/top
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246950
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/por/rio/top
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246951
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/por/salvador/top
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246952
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/por/brasilia/top
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246953
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/por/portoalegre/top
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246954
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/ahmedabad
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246955
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/bangalore
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246956
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/chandigarh
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246957
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/chennai
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246958
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/ncr
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246959
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/guwahati
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246960
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/hyderabad
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246961
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/indore
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246962
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/jaipur
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246963
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/kolkata
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246964
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/lucknow
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246965
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/ludhiana
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246966
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/mumbai
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246967
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/pune
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246968
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/ncr/restaurants/gurgaon
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246969
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/ncr/restaurants/noida
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246970
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/ncr/restaurants/faridabad
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246971
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/ncr/restaurants/ghaziabad
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246972
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/ncr
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246973
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/ncr/top
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246974
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/india
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246975
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/ncr/restaurants/south-delhi
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246976
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/ncr/restaurants/gurgaon
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246977
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/ncr/restaurants/central-delhi/connaught-place
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246978
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/ncr/restaurants/noida
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246979
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/ncr
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246980
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/mumbai/restaurants/west/bandra-west
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246981
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/mumbai/restaurants/central/andheri-east
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246982
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/mumbai/restaurants/south
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246983
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/mumbai/restaurants/west/juhu
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246984
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/mumbai/top
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246985
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/bangalore
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246986
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/bangalore/top
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246987
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/bangalore/restaurants/east/indiranagar
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246988
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/bangalore/restaurants/south/koramangala
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246989
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/pune
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246990
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/pune/top
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246991
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/pune/restaurants?45s=1
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246992
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/pune/restaurants/kp-kalyani-sassoon/koregaon-park
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246993
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/pune
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246994
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/hyderabad/restaurants?buffet=1
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246995
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/hyderabad/restaurants/secunderabad
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246996
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/chennai
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246997
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/chennai/top
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246998
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/chennai/restaurants?45s=1
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+246999
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/mobile
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247000
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/jakarta
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247001
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/jakarta
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247002
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/jakarta/top
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247003
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/auckland
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247004
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/hamilton
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247005
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/wellington
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247006
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/wellington
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247007
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/wellington/top
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247008
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/auckland
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247009
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/auckland/top
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247010
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/auckland/restaurants/italian
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247011
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manila
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247012
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manila/restaurants/makati
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247013
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manila/restaurants/mandaluyong
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247014
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manila/restaurants/manila
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247015
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manila/restaurants/marikina-city
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247016
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manila/restaurants/muntinlupa-city
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247017
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manila/restaurants/paranaque-city
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247018
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manila/restaurants/pasay-city
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247019
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manila/restaurants/pasig
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247020
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manila/restaurants/pateros
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247021
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manila/restaurants/quezon-city
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247022
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manila/restaurants/san-juan
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247023
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manila/restaurants/taguig
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247024
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manila/restaurants/makati
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247025
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manila
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247026
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manila/top
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247027
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manila/top
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247028
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manila/restaurants/pasig
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247029
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manila/restaurants/pasay-city
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247030
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manila/restaurants/paranaque-city
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247031
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manila/restaurants/taguig
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247032
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manila/restaurants/taguig/bonifacio-global-city
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247033
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manila/restaurants/marikina-city
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247034
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manila/restaurants/quezon-city
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247035
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manila/restaurants/san-juan
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247036
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/lisboa
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247037
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/doha
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247038
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/capetown
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247039
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/durban
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247040
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/johannesburg
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247041
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/pretoria
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247042
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/capetown
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247043
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/capetown/restaurants/bay-area/camps-bay
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247044
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/capetown/top
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247045
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/johannesburg/restaurants
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247046
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/johannesburg/top
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247047
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/johannesburg/restaurants/sandton
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247048
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/pretoria
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247049
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/colombo
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247050
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/colombo/top
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247051
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/colombo
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247052
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/ankara
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247053
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/istanbul
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247054
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/tr/istanbul
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247055
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/tr/istanbul/top
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247056
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/tr/ankara
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247057
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/tr/ankara/top
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247058
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/tr/istanbul/be?ikta?-restaurants
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247059
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/tr/istanbul/taksim-restaurants
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247060
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/tr/istanbul/ortak?y-restaurants
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247061
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/abudhabi
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247062
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/dubai
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247063
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/sharjah
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247064
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/dubai
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247065
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/dubai/top
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247066
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/dubai/restaurants/downtown/dubai-mall
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247067
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/dubai/restaurants/indian
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247068
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/dubai/restaurants/jumeirah
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247069
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/dubai/restaurants/new-dubai/dubai-marina
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247070
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/abudhabi
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247071
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/sharjah
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247072
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/birmingham
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247073
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/edinburgh
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247074
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/glasgow
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247075
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/london
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247076
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manchester
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247077
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manchester
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247078
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manchester/top
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247079
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manchester/restaurants/italian
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247080
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/manchester/restaurants/indian
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247081
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/birmingham
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247082
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/birmingham/top
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247083
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/london
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247084
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/london/top
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247085
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/edinburgh
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247086
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/glasgow
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247087
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/edinburgh/top
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247088
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/glasgow/top
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247089
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247090
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/?lang=en&user_lang_change=1
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247091
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/?lang=tr&user_lang_change=1
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247092
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/?lang=id&user_lang_change=1
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247093
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/?lang=pt&user_lang_change=1
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247094
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com/conditions
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247095
+WebsiteId, 
+1651
+URL, 
+http://www.zomato.com
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+247096
+WebsiteId, 
+1651
+URL, 
+https://plus.google.com/104017429609258707097
+ParentId, 
+246892
+Parse Outcome: 
+Content-Security-Policy=default-src 'self' 'unsafe-inline' 'unsafe-eval' *
+
+Id, 
+305121
+WebsiteId, 
+2200
+URL, 
+http://www.blockchain.info
+ParentId, 
+0
+Parse Outcome: 
+Content-Security-Policy=img-src 'self' data: https://blockchain.info
+style-src 'self' 'unsafe-inline'
+frame-src 'none'
+script-src 'self'
+connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info
+object-src 'none'
+media-src 'none'
+font-src 'self'
+
+Id, 
+305122
+WebsiteId, 
+2200
+URL, 
+http://markets.blockchain.info
+ParentId, 
+305121
+Parse Outcome: 
+Content-Security-Policy=img-src 'self' data: https://blockchain.info
+style-src 'self' 'unsafe-inline'
+frame-src 'none'
+script-src 'self'
+connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info
+object-src 'none'
+media-src 'none'
+font-src 'self'
+
+Id, 
+305123
+WebsiteId, 
+2200
+URL, 
+https://blockchain.info/wallet
+ParentId, 
+305121
+Parse Outcome: 
+Content-Security-Policy=img-src 'self' data: https://blockchain.info
+style-src 'self' 'unsafe-inline'
+frame-src 'none'
+script-src 'self'
+connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info
+object-src 'none'
+media-src 'none'
+font-src 'self'
+
+Id, 
+305124
+WebsiteId, 
+2200
+URL, 
+https://blockchain.info/r?url=https%3A%2F%2Fupdown.bt%2F
+ParentId, 
+305121
+Parse Outcome: 
+Content-Security-Policy=img-src 'self' data: https://blockchain.info
+style-src 'self' 'unsafe-inline'
+frame-src 'none'
+script-src 'self'
+connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info
+object-src 'none'
+media-src 'none'
+font-src 'self'
+
+Id, 
+305125
+WebsiteId, 
+2200
+URL, 
+https://blockchain.info/r?url=http%3A%2F%2Fbitzillions.com%2Fsatoshibones
+ParentId, 
+305121
+Parse Outcome: 
+Content-Security-Policy=img-src 'self' data: https://blockchain.info
+style-src 'self' 'unsafe-inline'
+frame-src 'none'
+script-src 'self'
+connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info
+object-src 'none'
+media-src 'none'
+font-src 'self'
+
+Id, 
+305126
+WebsiteId, 
+2200
+URL, 
+https://blockchain.info/r?url=https%3A%2F%2Fmedium.com%2Fp%2Fba5f3fcce103
+ParentId, 
+305121
+Parse Outcome: 
+Content-Security-Policy=img-src 'self' data: https://blockchain.info
+style-src 'self' 'unsafe-inline'
+frame-src 'none'
+script-src 'self'
+connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info
+object-src 'none'
+media-src 'none'
+font-src 'self'
+
+Id, 
+305127
+WebsiteId, 
+2200
+URL, 
+https://blockchain.info/r?url=https%3A%2F%2Fbitcointalk.org%2Findex.php%3Ftopic%3D591000.0
+ParentId, 
+305121
+Parse Outcome: 
+Content-Security-Policy=img-src 'self' data: https://blockchain.info
+style-src 'self' 'unsafe-inline'
+frame-src 'none'
+script-src 'self'
+connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info
+object-src 'none'
+media-src 'none'
+font-src 'self'
+
+Id, 
+305128
+WebsiteId, 
+2200
+URL, 
+https://blockchain.info/r?url=http%3A%2F%2Fnewsbtc.com%2F2014%2F04%2F30%2Fvoting-bitcoin-foundation-board-seats-ends-tonight%2F
+ParentId, 
+305121
+Parse Outcome: 
+Content-Security-Policy=img-src 'self' data: https://blockchain.info
+style-src 'self' 'unsafe-inline'
+frame-src 'none'
+script-src 'self'
+connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info
+object-src 'none'
+media-src 'none'
+font-src 'self'
+
+Id, 
+305129
+WebsiteId, 
+2200
+URL, 
+https://blockchain.info/r?url=http%3A%2F%2Fwww.madbitcoins.com%2F2014%2F04%2Fmit-bitcointopia-dark-wallet-makes.html
+ParentId, 
+305121
+Parse Outcome: 
+Content-Security-Policy=img-src 'self' data: https://blockchain.info
+style-src 'self' 'unsafe-inline'
+frame-src 'none'
+script-src 'self'
+connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info
+object-src 'none'
+media-src 'none'
+font-src 'self'
+
+Id, 
+305130
+WebsiteId, 
+2200
+URL, 
+https://blockchain.info/r?url=http%3A%2F%2Fwww.cryptocoinsnews.com%2Fnews%2Fwhy-banks-hate-bitcoin-banks-longer-need%2F2014%2F05%2F01
+ParentId, 
+305121
+Parse Outcome: 
+Content-Security-Policy=img-src 'self' data: https://blockchain.info
+style-src 'self' 'unsafe-inline'
+frame-src 'none'
+script-src 'self'
+connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info
+object-src 'none'
+media-src 'none'
+font-src 'self'
+
+Id, 
+305131
+WebsiteId, 
+2200
+URL, 
+https://blockchain.info/r?url=http%3A%2F%2Fwww.tomsguide.com%2Fus%2Fdark-wallet-bitcoin%2Cnews-18715.html
+ParentId, 
+305121
+Parse Outcome: 
+Content-Security-Policy=img-src 'self' data: https://blockchain.info
+style-src 'self' 'unsafe-inline'
+frame-src 'none'
+script-src 'self'
+connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info
+object-src 'none'
+media-src 'none'
+font-src 'self'
+
+Id, 
+305132
+WebsiteId, 
+2200
+URL, 
+https://blockchain.info/r?url=http%3A%2F%2Fbitcoinexaminer.org%2Fbitcoin-seal-approval-cryptocurrency-price-bloomberg%2F
+ParentId, 
+305121
+Parse Outcome: 
+Content-Security-Policy=img-src 'self' data: https://blockchain.info
+style-src 'self' 'unsafe-inline'
+frame-src 'none'
+script-src 'self'
+connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info
+object-src 'none'
+media-src 'none'
+font-src 'self'
+
+Id, 
+305133
+WebsiteId, 
+2200
+URL, 
+https://blockchain.info/r?url=http%3A%2F%2Fwww.coindesk.com%2Fbitcoin-foundation-voting-round-end-no-clear-winners%2F
+ParentId, 
+305121
+Parse Outcome: 
+Content-Security-Policy=img-src 'self' data: https://blockchain.info
+style-src 'self' 'unsafe-inline'
+frame-src 'none'
+script-src 'self'
+connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info
+object-src 'none'
+media-src 'none'
+font-src 'self'
+
+Id, 
+305134
+WebsiteId, 
+2200
+URL, 
+https://blockchain.info/r?url=https%3A%2F%2Fbitcointalk.org%2Findex.php%3Ftopic%3D590977.0
+ParentId, 
+305121
+Parse Outcome: 
+Content-Security-Policy=img-src 'self' data: https://blockchain.info
+style-src 'self' 'unsafe-inline'
+frame-src 'none'
+script-src 'self'
+connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info
+object-src 'none'
+media-src 'none'
+font-src 'self'
+
+Id, 
+305135
+WebsiteId, 
+2200
+URL, 
+https://blockchain.info/r?url=http%3A%2F%2Fwww.coindesk.com%2Fformer-obama-advisor-larry-summers-critics-dont-write-bitcoin%2F
+ParentId, 
+305121
+Parse Outcome: 
+Content-Security-Policy=img-src 'self' data: https://blockchain.info
+style-src 'self' 'unsafe-inline'
+frame-src 'none'
+script-src 'self'
+connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info
+object-src 'none'
+media-src 'none'
+font-src 'self'
+
+Id, 
+305136
+WebsiteId, 
+2200
+URL, 
+https://blockchain.info/r?url=https%3A%2F%2Fbitcointalk.org%2Findex.php%3Ftopic%3D590955.0
+ParentId, 
+305121
+Parse Outcome: 
+Content-Security-Policy=img-src 'self' data: https://blockchain.info
+style-src 'self' 'unsafe-inline'
+frame-src 'none'
+script-src 'self'
+connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info
+object-src 'none'
+media-src 'none'
+font-src 'self'
+
+Id, 
+305137
+WebsiteId, 
+2200
+URL, 
+https://blockchain.info/r?url=http%3A%2F%2Fmoneyandtech.com%2Fapr30-news-update%2F%3Futm_source%3Drss%26amp%3Butm_medium%3Drss%26amp%3Butm_campaign%3Dapr30-news-update
+ParentId, 
+305121
+Parse Outcome: 
+Content-Security-Policy=img-src 'self' data: https://blockchain.info
+style-src 'self' 'unsafe-inline'
+frame-src 'none'
+script-src 'self'
+connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info
+object-src 'none'
+media-src 'none'
+font-src 'self'
+
+Id, 
+305138
+WebsiteId, 
+2200
+URL, 
+https://blockchain.info/r?url=http%3A%2F%2Fwww.ibtimes.com%2Fbloomberg-terminal-gets-bitcoin-exposure-mainstream-investors-could-stabilize-price-1578645
+ParentId, 
+305121
+Parse Outcome: 
+Content-Security-Policy=img-src 'self' data: https://blockchain.info
+style-src 'self' 'unsafe-inline'
+frame-src 'none'
+script-src 'self'
+connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info
+object-src 'none'
+media-src 'none'
+font-src 'self'
+
+Id, 
+305139
+WebsiteId, 
+2200
+URL, 
+https://blockchain.info/r?url=http%3A%2F%2Fwww.forexminute.com%2Fbitcoin%2Fbitcoin-prices-to-feature-on-bloomberg-terminals-30684
+ParentId, 
+305121
+Parse Outcome: 
+Content-Security-Policy=img-src 'self' data: https://blockchain.info
+style-src 'self' 'unsafe-inline'
+frame-src 'none'
+script-src 'self'
+connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info
+object-src 'none'
+media-src 'none'
+font-src 'self'
+
+Id, 
+305140
+WebsiteId, 
+2200
+URL, 
+https://blockchain.info/r?url=http%3A%2F%2Fwww.usatoday.com%2Fstory%2Ftech%2F2014%2F04%2F30%2Fdark-web-counterfeit-goods-eset-bitcoins%2F8430303%2F
+ParentId, 
+305121
+Parse Outcome: 
+Content-Security-Policy=img-src 'self' data: https://blockchain.info
+style-src 'self' 'unsafe-inline'
+frame-src 'none'
+script-src 'self'
+connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info
+object-src 'none'
+media-src 'none'
+font-src 'self'
+
+Id, 
+305141
+WebsiteId, 
+2200
+URL, 
+https://blockchain.info/r?url=http%3A%2F%2Fblockchain.anxpro.com
+ParentId, 
+305121
+Parse Outcome: 
+Content-Security-Policy=img-src 'self' data: https://blockchain.info
+style-src 'self' 'unsafe-inline'
+frame-src 'none'
+script-src 'self'
+connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info
+object-src 'none'
+media-src 'none'
+font-src 'self'
+
+Id, 
+305142
+WebsiteId, 
+2200
+URL, 
+https://blockchain.info/wallet
+ParentId, 
+305121
+Parse Outcome: 
+Content-Security-Policy=img-src 'self' data: https://blockchain.info
+style-src 'self' 'unsafe-inline'
+frame-src 'none'
+script-src 'self'
+connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info
+object-src 'none'
+media-src 'none'
+font-src 'self'
+
+Id, 
+398992
+WebsiteId, 
+2990
+URL, 
+http://www.volusion.com
+ParentId, 
+0
+Parse Outcome: 
+X-Content-Security-Policy=default-src 'self' *.volusion.com *.optimizely.com *.vzaar.com *.wistia.com
+script-src 'self' *.facebook.net *.g.doubleclick.net *.volusion.com *.wistia.com *.optimizely.com *.googleadservices.com *.googletagmanager.com *.cloudfront.net *.marketo.net *.google-analytics.com *.amazonaws.com
+style-src 'self' *.webink.com *.volusion.com
+font-src 'self' *.cloudfront.net
+frame-src 'self' *
+img-src *
+object-src 'self' *.wistia.com *.vzaar.com *.loggly.com *.kuonamaoni.com *.google-analytics.com
+
+Id, 
+398993
+WebsiteId, 
+2990
+URL, 
+http://my.volusion.com/
+ParentId, 
+398992
+Parse Outcome: 
+X-Content-Security-Policy=default-src 'self' *.volusion.com *.optimizely.com *.vzaar.com *.wistia.com
+script-src 'self' *.facebook.net *.g.doubleclick.net *.volusion.com *.wistia.com *.optimizely.com *.googleadservices.com *.googletagmanager.com *.cloudfront.net *.marketo.net *.google-analytics.com *.amazonaws.com
+style-src 'self' *.webink.com *.volusion.com
+font-src 'self' *.cloudfront.net
+frame-src 'self' *
+img-src *
+object-src 'self' *.wistia.com *.vzaar.com *.loggly.com *.kuonamaoni.com *.google-analytics.com
+
+Id, 
+398994
+WebsiteId, 
+2990
+URL, 
+http://store.volusion.com/ShoppingCart.asp
+ParentId, 
+398992
+Parse Outcome: 
+X-Content-Security-Policy=default-src 'self' *.volusion.com *.optimizely.com *.vzaar.com *.wistia.com
+script-src 'self' *.facebook.net *.g.doubleclick.net *.volusion.com *.wistia.com *.optimizely.com *.googleadservices.com *.googletagmanager.com *.cloudfront.net *.marketo.net *.google-analytics.com *.amazonaws.com
+style-src 'self' *.webink.com *.volusion.com
+font-src 'self' *.cloudfront.net
+frame-src 'self' *
+img-src *
+object-src 'self' *.wistia.com *.vzaar.com *.loggly.com *.kuonamaoni.com *.google-analytics.com
+
+Id, 
+398995
+WebsiteId, 
+2990
+URL, 
+http://ecommerce-templates.volusion.com/?price=0
+ParentId, 
+398992
+Parse Outcome: 
+X-Content-Security-Policy=default-src 'self' *.volusion.com *.optimizely.com *.vzaar.com *.wistia.com
+script-src 'self' *.facebook.net *.g.doubleclick.net *.volusion.com *.wistia.com *.optimizely.com *.googleadservices.com *.googletagmanager.com *.cloudfront.net *.marketo.net *.google-analytics.com *.amazonaws.com
+style-src 'self' *.webink.com *.volusion.com
+font-src 'self' *.cloudfront.net
+frame-src 'self' *
+img-src *
+object-src 'self' *.wistia.com *.vzaar.com *.loggly.com *.kuonamaoni.com *.google-analytics.com
+
+Id, 
+398996
+WebsiteId, 
+2990
+URL, 
+http://apps.volusion.com
+ParentId, 
+398992
+Parse Outcome: 
+X-Content-Security-Policy=default-src 'self' *.volusion.com *.optimizely.com *.vzaar.com *.wistia.com
+script-src 'self' *.facebook.net *.g.doubleclick.net *.volusion.com *.wistia.com *.optimizely.com *.googleadservices.com *.googletagmanager.com *.cloudfront.net *.marketo.net *.google-analytics.com *.amazonaws.com
+style-src 'self' *.webink.com *.volusion.com
+font-src 'self' *.cloudfront.net
+frame-src 'self' *
+img-src *
+object-src 'self' *.wistia.com *.vzaar.com *.loggly.com *.kuonamaoni.com *.google-analytics.com
+
+Id, 
+398997
+WebsiteId, 
+2990
+URL, 
+http://experts.volusion.com
+ParentId, 
+398992
+Parse Outcome: 
+X-Content-Security-Policy=default-src 'self' *.volusion.com *.optimizely.com *.vzaar.com *.wistia.com
+script-src 'self' *.facebook.net *.g.doubleclick.net *.volusion.com *.wistia.com *.optimizely.com *.googleadservices.com *.googletagmanager.com *.cloudfront.net *.marketo.net *.google-analytics.com *.amazonaws.com
+style-src 'self' *.webink.com *.volusion.com
+font-src 'self' *.cloudfront.net
+frame-src 'self' *
+img-src *
+object-src 'self' *.wistia.com *.vzaar.com *.loggly.com *.kuonamaoni.com *.google-analytics.com
+
+Id, 
+398998
+WebsiteId, 
+2990
+URL, 
+http://support.volusion.com/
+ParentId, 
+398992
+Parse Outcome: 
+X-Content-Security-Policy=default-src 'self' *.volusion.com *.optimizely.com *.vzaar.com *.wistia.com
+script-src 'self' *.facebook.net *.g.doubleclick.net *.volusion.com *.wistia.com *.optimizely.com *.googleadservices.com *.googletagmanager.com *.cloudfront.net *.marketo.net *.google-analytics.com *.amazonaws.com
+style-src 'self' *.webink.com *.volusion.com
+font-src 'self' *.cloudfront.net
+frame-src 'self' *
+img-src *
+object-src 'self' *.wistia.com *.vzaar.com *.loggly.com *.kuonamaoni.com *.google-analytics.com
+
+Id, 
+398999
+WebsiteId, 
+2990
+URL, 
+http://support.volusion.com/all/videos
+ParentId, 
+398992
+Parse Outcome: 
+X-Content-Security-Policy=default-src 'self' *.volusion.com *.optimizely.com *.vzaar.com *.wistia.com
+script-src 'self' *.facebook.net *.g.doubleclick.net *.volusion.com *.wistia.com *.optimizely.com *.googleadservices.com *.googletagmanager.com *.cloudfront.net *.marketo.net *.google-analytics.com *.amazonaws.com
+style-src 'self' *.webink.com *.volusion.com
+font-src 'self' *.cloudfront.net
+frame-src 'self' *
+img-src *
+object-src 'self' *.wistia.com *.vzaar.com *.loggly.com *.kuonamaoni.com *.google-analytics.com
+
+Id, 
+399000
+WebsiteId, 
+2990
+URL, 
+http://status.volusion.com/
+ParentId, 
+398992
+Parse Outcome: 
+X-Content-Security-Policy=default-src 'self' *.volusion.com *.optimizely.com *.vzaar.com *.wistia.com
+script-src 'self' *.facebook.net *.g.doubleclick.net *.volusion.com *.wistia.com *.optimizely.com *.googleadservices.com *.googletagmanager.com *.cloudfront.net *.marketo.net *.google-analytics.com *.amazonaws.com
+style-src 'self' *.webink.com *.volusion.com
+font-src 'self' *.cloudfront.net
+frame-src 'self' *
+img-src *
+object-src 'self' *.wistia.com *.vzaar.com *.loggly.com *.kuonamaoni.com *.google-analytics.com
+
+Id, 
+399001
+WebsiteId, 
+2990
+URL, 
+http://onlinebusiness.volusion.com/
+ParentId, 
+398992
+Parse Outcome: 
+X-Content-Security-Policy=default-src 'self' *.volusion.com *.optimizely.com *.vzaar.com *.wistia.com
+script-src 'self' *.facebook.net *.g.doubleclick.net *.volusion.com *.wistia.com *.optimizely.com *.googleadservices.com *.googletagmanager.com *.cloudfront.net *.marketo.net *.google-analytics.com *.amazonaws.com
+style-src 'self' *.webink.com *.volusion.com
+font-src 'self' *.cloudfront.net
+frame-src 'self' *
+img-src *
+object-src 'self' *.wistia.com *.vzaar.com *.loggly.com *.kuonamaoni.com *.google-analytics.com
+
+Id, 
+399002
+WebsiteId, 
+2990
+URL, 
+https://livechat03.volusion.com/livechat.aspx?ID=24342&amp;location=http%3A//www.volusion.com/%2523chat/&amp;auto=0&amp;cookieGuid=rcorhn2jdb011v55qbcqex55&amp;DeptID=10&amp;Agent=&amp;tType=
+ParentId, 
+398992
+Parse Outcome: 
+X-Content-Security-Policy=default-src 'self' *.volusion.com *.optimizely.com *.vzaar.com *.wistia.com
+script-src 'self' *.facebook.net *.g.doubleclick.net *.volusion.com *.wistia.com *.optimizely.com *.googleadservices.com *.googletagmanager.com *.cloudfront.net *.marketo.net *.google-analytics.com *.amazonaws.com
+style-src 'self' *.webink.com *.volusion.com
+font-src 'self' *.cloudfront.net
+frame-src 'self' *
+img-src *
+object-src 'self' *.wistia.com *.vzaar.com *.loggly.com *.kuonamaoni.com *.google-analytics.com
+
+Id, 
+399003
+WebsiteId, 
+2990
+URL, 
+http://ecommerce-templates.volusion.com/
+ParentId, 
+398992
+Parse Outcome: 
+X-Content-Security-Policy=default-src 'self' *.volusion.com *.optimizely.com *.vzaar.com *.wistia.com
+script-src 'self' *.facebook.net *.g.doubleclick.net *.volusion.com *.wistia.com *.optimizely.com *.googleadservices.com *.googletagmanager.com *.cloudfront.net *.marketo.net *.google-analytics.com *.amazonaws.com
+style-src 'self' *.webink.com *.volusion.com
+font-src 'self' *.cloudfront.net
+frame-src 'self' *
+img-src *
+object-src 'self' *.wistia.com *.vzaar.com *.loggly.com *.kuonamaoni.com *.google-analytics.com
+
+Id, 
+399004
+WebsiteId, 
+2990
+URL, 
+http://ecommerce-templates.volusion.com/
+ParentId, 
+398992
+Parse Outcome: 
+X-Content-Security-Policy=default-src 'self' *.volusion.com *.optimizely.com *.vzaar.com *.wistia.com
+script-src 'self' *.facebook.net *.g.doubleclick.net *.volusion.com *.wistia.com *.optimizely.com *.googleadservices.com *.googletagmanager.com *.cloudfront.net *.marketo.net *.google-analytics.com *.amazonaws.com
+style-src 'self' *.webink.com *.volusion.com
+font-src 'self' *.cloudfront.net
+frame-src 'self' *
+img-src *
+object-src 'self' *.wistia.com *.vzaar.com *.loggly.com *.kuonamaoni.com *.google-analytics.com
+
+Id, 
+399005
+WebsiteId, 
+2990
+URL, 
+http://www.facebook.com/volusion
+ParentId, 
+398992
+Parse Outcome: 
+X-Content-Security-Policy=default-src 'self' *.volusion.com *.optimizely.com *.vzaar.com *.wistia.com
+script-src 'self' *.facebook.net *.g.doubleclick.net *.volusion.com *.wistia.com *.optimizely.com *.googleadservices.com *.googletagmanager.com *.cloudfront.net *.marketo.net *.google-analytics.com *.amazonaws.com
+style-src 'self' *.webink.com *.volusion.com
+font-src 'self' *.cloudfront.net
+frame-src 'self' *
+img-src *
+object-src 'self' *.wistia.com *.vzaar.com *.loggly.com *.kuonamaoni.com *.google-analytics.com
+
+Id, 
+399006
+WebsiteId, 
+2990
+URL, 
+http://www.twitter.com/volusion
+ParentId, 
+398992
+Parse Outcome: 
+X-Content-Security-Policy=default-src 'self' *.volusion.com *.optimizely.com *.vzaar.com *.wistia.com
+script-src 'self' *.facebook.net *.g.doubleclick.net *.volusion.com *.wistia.com *.optimizely.com *.googleadservices.com *.googletagmanager.com *.cloudfront.net *.marketo.net *.google-analytics.com *.amazonaws.com
+style-src 'self' *.webink.com *.volusion.com
+font-src 'self' *.cloudfront.net
+frame-src 'self' *
+img-src *
+object-src 'self' *.wistia.com *.vzaar.com *.loggly.com *.kuonamaoni.com *.google-analytics.com
+
+Id, 
+399007
+WebsiteId, 
+2990
+URL, 
+http://www.pintrest.com/volusion
+ParentId, 
+398992
+Parse Outcome: 
+X-Content-Security-Policy=default-src 'self' *.volusion.com *.optimizely.com *.vzaar.com *.wistia.com
+script-src 'self' *.facebook.net *.g.doubleclick.net *.volusion.com *.wistia.com *.optimizely.com *.googleadservices.com *.googletagmanager.com *.cloudfront.net *.marketo.net *.google-analytics.com *.amazonaws.com
+style-src 'self' *.webink.com *.volusion.com
+font-src 'self' *.cloudfront.net
+frame-src 'self' *
+img-src *
+object-src 'self' *.wistia.com *.vzaar.com *.loggly.com *.kuonamaoni.com *.google-analytics.com
+
+Id, 
+399008
+WebsiteId, 
+2990
+URL, 
+http://www.linkedin.com/company/volusion
+ParentId, 
+398992
+Parse Outcome: 
+X-Content-Security-Policy=default-src 'self' *.volusion.com *.optimizely.com *.vzaar.com *.wistia.com
+script-src 'self' *.facebook.net *.g.doubleclick.net *.volusion.com *.wistia.com *.optimizely.com *.googleadservices.com *.googletagmanager.com *.cloudfront.net *.marketo.net *.google-analytics.com *.amazonaws.com
+style-src 'self' *.webink.com *.volusion.com
+font-src 'self' *.cloudfront.net
+frame-src 'self' *
+img-src *
+object-src 'self' *.wistia.com *.vzaar.com *.loggly.com *.kuonamaoni.com *.google-analytics.com
+
+Id, 
+399009
+WebsiteId, 
+2990
+URL, 
+http://www.youtube.com/volusion
+ParentId, 
+398992
+Parse Outcome: 
+X-Content-Security-Policy=default-src 'self' *.volusion.com *.optimizely.com *.vzaar.com *.wistia.com
+script-src 'self' *.facebook.net *.g.doubleclick.net *.volusion.com *.wistia.com *.optimizely.com *.googleadservices.com *.googletagmanager.com *.cloudfront.net *.marketo.net *.google-analytics.com *.amazonaws.com
+style-src 'self' *.webink.com *.volusion.com
+font-src 'self' *.cloudfront.net
+frame-src 'self' *
+img-src *
+object-src 'self' *.wistia.com *.vzaar.com *.loggly.com *.kuonamaoni.com *.google-analytics.com
+
+Id, 
+399010
+WebsiteId, 
+2990
+URL, 
+https://plus.google.com/+volusion/posts
+ParentId, 
+398992
+Parse Outcome: 
+X-Content-Security-Policy=default-src 'self' *.volusion.com *.optimizely.com *.vzaar.com *.wistia.com
+script-src 'self' *.facebook.net *.g.doubleclick.net *.volusion.com *.wistia.com *.optimizely.com *.googleadservices.com *.googletagmanager.com *.cloudfront.net *.marketo.net *.google-analytics.com *.amazonaws.com
+style-src 'self' *.webink.com *.volusion.com
+font-src 'self' *.cloudfront.net
+frame-src 'self' *
+img-src *
+object-src 'self' *.wistia.com *.vzaar.com *.loggly.com *.kuonamaoni.com *.google-analytics.com
+
+Id, 
+399011
+WebsiteId, 
+2990
+URL, 
+http://support.volusion.com/
+ParentId, 
+398992
+Parse Outcome: 
+X-Content-Security-Policy=default-src 'self' *.volusion.com *.optimizely.com *.vzaar.com *.wistia.com
+script-src 'self' *.facebook.net *.g.doubleclick.net *.volusion.com *.wistia.com *.optimizely.com *.googleadservices.com *.googletagmanager.com *.cloudfront.net *.marketo.net *.google-analytics.com *.amazonaws.com
+style-src 'self' *.webink.com *.volusion.com
+font-src 'self' *.cloudfront.net
+frame-src 'self' *
+img-src *
+object-src 'self' *.wistia.com *.vzaar.com *.loggly.com *.kuonamaoni.com *.google-analytics.com
+
+Id, 
+399012
+WebsiteId, 
+2990
+URL, 
+http://onlinebusiness.volusion.com/
+ParentId, 
+398992
+Parse Outcome: 
+X-Content-Security-Policy=default-src 'self' *.volusion.com *.optimizely.com *.vzaar.com *.wistia.com
+script-src 'self' *.facebook.net *.g.doubleclick.net *.volusion.com *.wistia.com *.optimizely.com *.googleadservices.com *.googletagmanager.com *.cloudfront.net *.marketo.net *.google-analytics.com *.amazonaws.com
+style-src 'self' *.webink.com *.volusion.com
+font-src 'self' *.cloudfront.net
+frame-src 'self' *
+img-src *
+object-src 'self' *.wistia.com *.vzaar.com *.loggly.com *.kuonamaoni.com *.google-analytics.com
+
+Id, 
+399013
+WebsiteId, 
+2990
+URL, 
+http://onlinebusiness.volusion.com/articles/how-to-create-content-with-a-purpose/
+ParentId, 
+398992
+Parse Outcome: 
+X-Content-Security-Policy=default-src 'self' *.volusion.com *.optimizely.com *.vzaar.com *.wistia.com
+script-src 'self' *.facebook.net *.g.doubleclick.net *.volusion.com *.wistia.com *.optimizely.com *.googleadservices.com *.googletagmanager.com *.cloudfront.net *.marketo.net *.google-analytics.com *.amazonaws.com
+style-src 'self' *.webink.com *.volusion.com
+font-src 'self' *.cloudfront.net
+frame-src 'self' *
+img-src *
+object-src 'self' *.wistia.com *.vzaar.com *.loggly.com *.kuonamaoni.com *.google-analytics.com
+
+Id, 
+399014
+WebsiteId, 
+2990
+URL, 
+http://onlinebusiness.volusion.com/articles/how-to-create-content-with-a-purpose/
+ParentId, 
+398992
+Parse Outcome: 
+X-Content-Security-Policy=default-src 'self' *.volusion.com *.optimizely.com *.vzaar.com *.wistia.com
+script-src 'self' *.facebook.net *.g.doubleclick.net *.volusion.com *.wistia.com *.optimizely.com *.googleadservices.com *.googletagmanager.com *.cloudfront.net *.marketo.net *.google-analytics.com *.amazonaws.com
+style-src 'self' *.webink.com *.volusion.com
+font-src 'self' *.cloudfront.net
+frame-src 'self' *
+img-src *
+object-src 'self' *.wistia.com *.vzaar.com *.loggly.com *.kuonamaoni.com *.google-analytics.com
+
+Id, 
+474855
+WebsiteId, 
+3692
+URL, 
+http://www.800notes.com
+ParentId, 
+0
+Parse Outcome: 
+Content-Security-Policy-Report-Only=default-src http: https:
+img-src data: http: https:
+script-src 'unsafe-inline' 'unsafe-eval' http: https:
+style-src 'unsafe-inline' http: https:
+connect-src 800notes.com
+report-uri /~sys~/csp-report
+
+Id, 
+474856
+WebsiteId, 
+3692
+URL, 
+http://whocallsme.com
+ParentId, 
+474855
+Parse Outcome: 
+Content-Security-Policy-Report-Only=default-src http: https:
+img-src data: http: https:
+script-src 'unsafe-inline' 'unsafe-eval' http: https:
+style-src 'unsafe-inline' http: https:
+connect-src 800notes.com
+report-uri /~sys~/csp-report
+
+Id, 
+474857
+WebsiteId, 
+3692
+URL, 
+http://complaintwire.org/Category.aspx/Qm_3SnpnpwBpMAjJcRAEpQ
+ParentId, 
+474855
+Parse Outcome: 
+Content-Security-Policy-Report-Only=default-src http: https:
+img-src data: http: https:
+script-src 'unsafe-inline' 'unsafe-eval' http: https:
+style-src 'unsafe-inline' http: https:
+connect-src 800notes.com
+report-uri /~sys~/csp-report
+
