@@ -57,7 +57,7 @@ public class connect {
         //File file = new File("output.txt");
         
         // parse file
-        File file = new File("parse.txt");
+        File file = new File("facebook.txt");
         
         //File file = new File("links.txt");
         file.createNewFile(); // 创建新文件  
@@ -71,8 +71,10 @@ public class connect {
             Connection connect = DriverManager.getConnection(dbURL, userName,userPwd);
             Statement stmt = connect.createStatement();
             //ResultSet rs = stmt.executeQuery("select top 10 * from [dbo].[Page] nolock where Head like '%X-Webkit-CSP%';");
-            ResultSet rs = stmt.executeQuery("select  count(*) from [dbo].[Page] nolock where Content like '%Content-Security-Policy%';");
             
+            //ResultSet rs = stmt.executeQuery("select  count(*) from [dbo].[Page] nolock where Head like '%Content-Security-Policy%';");
+            
+            ResultSet rs = stmt.executeQuery("select * from [dbo].[Page] nolock where URL like '%facebook.com%';");
             // contains CSP
             //ResultSet rs = stmt.executeQuery("select * from [dbo].[Page] nolock where Head like '%Content-Security-Policy%';");
             
@@ -105,15 +107,16 @@ public class connect {
             	System.out.println(rs.getString(1));
             	
             	// write into txt file
-            	/**
+            	
             	out.write(metaData.getColumnLabel(1) + ", \r\n" + rs.getString(1) + "\r\n");
             	out.write(metaData.getColumnLabel(2) + ", \r\n" + rs.getString(2) + "\r\n");
             	out.write(metaData.getColumnLabel(3) + ", \r\n" + rs.getString(3) + "\r\n");
+            	out.write(metaData.getColumnLabel(5) + ", \r\n" + rs.getString(5) + "\r\n");
             	out.write(metaData.getColumnLabel(6) + ", \r\n" + rs.getString(6) + "\r\n");
             	out.write(metaData.getColumnLabel(8) + ", \r\n" + rs.getString(8) + "\r\n");
             	out.write("\r\n");
             	out.write("\r\n");
-            	
+            	/**
             	System.out.println(metaData.getColumnLabel(1) + ", \r\n" + rs.getString(1) + "\r\n");
             	System.out.println(metaData.getColumnLabel(2) + ", \r\n" + rs.getString(2) + "\r\n");
             	System.out.println(metaData.getColumnLabel(3) + ", \r\n" + rs.getString(3) + "\r\n");
