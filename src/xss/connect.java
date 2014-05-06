@@ -72,9 +72,9 @@ public class connect {
             Statement stmt = connect.createStatement();
             //ResultSet rs = stmt.executeQuery("select top 10 * from [dbo].[Page] nolock where Head like '%X-Webkit-CSP%';");
             
-            //ResultSet rs = stmt.executeQuery("select  count(*) from [dbo].[Page] nolock where Head like '%Content-Security-Policy%';");
+            ResultSet rs = stmt.executeQuery("select  count(*) from [dbo].[Page] nolock where Head like '%Content-security-policy%';");
             
-            ResultSet rs = stmt.executeQuery("select * from [dbo].[Page] nolock where URL like '%facebook.com%';");
+            //ResultSet rs = stmt.executeQuery("select * from [dbo].[Page] nolock where URL like '%facebook.com%';");
             // contains CSP
             //ResultSet rs = stmt.executeQuery("select * from [dbo].[Page] nolock where Head like '%Content-Security-Policy%';");
             
@@ -107,7 +107,7 @@ public class connect {
             	System.out.println(rs.getString(1));
             	
             	// write into txt file
-            	
+            	/**
             	out.write(metaData.getColumnLabel(1) + ", \r\n" + rs.getString(1) + "\r\n");
             	out.write(metaData.getColumnLabel(2) + ", \r\n" + rs.getString(2) + "\r\n");
             	out.write(metaData.getColumnLabel(3) + ", \r\n" + rs.getString(3) + "\r\n");
@@ -116,7 +116,7 @@ public class connect {
             	out.write(metaData.getColumnLabel(8) + ", \r\n" + rs.getString(8) + "\r\n");
             	out.write("\r\n");
             	out.write("\r\n");
-            	/**
+            	
             	System.out.println(metaData.getColumnLabel(1) + ", \r\n" + rs.getString(1) + "\r\n");
             	System.out.println(metaData.getColumnLabel(2) + ", \r\n" + rs.getString(2) + "\r\n");
             	System.out.println(metaData.getColumnLabel(3) + ", \r\n" + rs.getString(3) + "\r\n");
