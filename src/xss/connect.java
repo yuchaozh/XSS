@@ -57,9 +57,9 @@ public class connect {
         //File file = new File("output.txt");
         
         // parse file
-        File file = new File("facebook.txt");
+        //File file = new File("facebook.txt");
         
-        //File file = new File("links.txt");
+        File file = new File("links.txt");
         file.createNewFile(); // 创建新文件  
         BufferedWriter out = new BufferedWriter(new FileWriter(file));  
         //out.write("我会写入文件啦\r\n"); // \r\n即为换行
@@ -72,9 +72,11 @@ public class connect {
             Statement stmt = connect.createStatement();
             //ResultSet rs = stmt.executeQuery("select top 10 * from [dbo].[Page] nolock where Head like '%X-Webkit-CSP%';");
             
-            ResultSet rs = stmt.executeQuery("select  count(*) from [dbo].[Page] nolock where Head like '%Content-security-policy%';");
+            ResultSet rs = stmt.executeQuery("select  count(*) from [dbo].[Page] nolock;");
             
-            //ResultSet rs = stmt.executeQuery("select * from [dbo].[Page] nolock where URL like '%facebook.com%';");
+            //ResultSet rs = stmt.executeQuery("select * from [dbo].[Page] nolock where WebsiteId >= '4858';");
+            
+            
             // contains CSP
             //ResultSet rs = stmt.executeQuery("select * from [dbo].[Page] nolock where Head like '%Content-Security-Policy%';");
             
@@ -134,7 +136,13 @@ public class connect {
             	//out.write("Parse Outcome: \r\n");
             	//parseHead(rs.getString(1), rs.getString(2), rs.getString(3), rs.getString(6), rs.getString(8), out);
             	
+            	// record all links
+            	//out.write(metaData.getColumnLabel(1) + ":" + rs.getString(1) + ",");
+            	//out.write(metaData.getColumnLabel(2) + ":" + rs.getString(2) + ",");
+            	//out.write(metaData.getColumnLabel(8) + ":" + rs.getString(8) + ",");
+            	//out.write(rs.getString(3));
             	//out.write("\r\n");
+            	//System.out.println(metaData.getColumnLabel(3) + ":" + rs.getString(3));
             }
             out.close();
             //System.out.println("finished!!");
