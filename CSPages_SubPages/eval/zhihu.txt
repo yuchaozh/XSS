@@ -1,0 +1,7 @@
+http://www.zhihu.com
+http://api.zhihu.com/client/download/appstore?utm_source=zhihu_register&utm_medium=appstore_link&utm_campaign=appdownload
+http://api.zhihu.com/client/download/play?utm_source=zhihu_register&utm_medium=googleplay_link&utm_campaign=appdownload
+http://api.zhihu.com/client/download/wandoujia?utm_source=zhihu_register&utm_medium=wandoujia&utm_campaign=appdownload
+http://api.zhihu.com/client/download/apk?utm_source=zhihu_register&utm_medium=apk_link&utm_campaign=appdownload
+http://api.zhihu.com/client/download/appstore
+http://api.zhihu.com/client/download/play

@@ -1,0 +1,28 @@
+1: http://www.toodledo.com
+Date: Tue, 20 May 2014 15:56:41 GMT
+Server: Apache/2.2.3 (Red Hat)
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Last-Modified: Tue, 20 May 2014 15:56:41 GMT
+Cache-Control: no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: script-src 'self' 'unsafe-inline' 'unsafe-eval' http://*.toodledo.com https://*.toodledo.com https://*.stripe.com https://*.filepicker.io http://*.filepicker.io http://*.twitter.com https://*.twitter.com https://apis.google.com https://*.googleapis.com https://maps.gstatic.com http://apis.google.com http://*.googleapis.com http://maps.gstatic.com http://www.google-analytics.com https://www.google-analytics.com https://ssl.google-analytics.com http://www.googleadservices.com https://www.googleadservices.com http://d1h9d4exwfthxc.cloudfront.net; report-uri /ajax/csp_report.php;
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+2: http://www.toodledo.com/info/news_rss.php
+Date: Tue, 20 May 2014 15:56:41 GMT
+Server: Apache/2.2.3 (Red Hat)
+Content-Length: 4707
+Connection: close
+Content-Type: application/xml
+
+3: http://api.toodledo.com
+Date: Tue, 20 May 2014 15:56:41 GMT
+Server: Apache/2.2.3 (Red Hat)
+X-Frame-Options: SAMEORIGIN
+Content-Length: 4265
+Connection: close
+Content-Type: text/html; charset=UTF-8
+

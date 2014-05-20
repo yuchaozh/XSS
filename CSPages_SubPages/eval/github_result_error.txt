@@ -1,0 +1,2 @@
+3: https://assets-cdn.github.com/
+4: https://ghconduit.com:25035/

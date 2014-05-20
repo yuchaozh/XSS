@@ -1,0 +1,399 @@
+1: http://www.centrum24.pl
+Server: centrum24.pl
+Date: Tue, 20 May 2014 15:40:12 GMT
+Content-length: 26044
+Content-type: text/html; charset=UTF-8
+X-xss-protection: 1; mode=block
+X-content-type-options: nosniff
+Strict-transport-security: max-age=8640000; includeSubDomains
+X-frame-options: DENY
+Content-security-policy: default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'
+Pragma: no-cache
+Cache-control: no-cache, max-age=0, must-revalidate
+Content-language: pl
+Set-cookie: JSESSIONID=00003udC2p37xic7Gn_dAt4aHBm+17a3nkveo; Path=/; Secure; HttpOnly
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Connection: close
+Set-Cookie: BIGipServeronline_82=2355800256.20992.0000; path=/
+
+2: http://www.bzwbk.pl
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Server: Unknown
+Content-Length: 120732
+Accept-Ranges: bytes
+Date: Tue, 20 May 2014 15:43:38 GMT
+Connection: close
+X-Cache: MISS
+
+3: http://www.bzwbk.pl/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Server: Unknown
+Content-Length: 120732
+Accept-Ranges: bytes
+Date: Tue, 20 May 2014 15:43:38 GMT
+Connection: close
+X-Cache: MISS
+
+4: http://www.bzwbk.pl/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Server: Unknown
+Content-Length: 120732
+Accept-Ranges: bytes
+Date: Tue, 20 May 2014 15:43:39 GMT
+Connection: close
+X-Cache: MISS
+
+5: http://www.bzwbk.pl/informacje-o-banku/kontakt/menu-infolinii/menu-infolinii-1-9999.html
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Server: Unknown
+Content-Length: 112353
+Accept-Ranges: bytes
+Date: Tue, 20 May 2014 15:43:39 GMT
+Connection: close
+X-Cache: MISS
+
+6: http://www.bzwbk.pl/informacje-o-banku/kontakt/menu-infolinii/menu-infolinii-801-360-360.html
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Server: Unknown
+Content-Length: 112426
+Accept-Ranges: bytes
+Date: Tue, 20 May 2014 15:43:40 GMT
+Connection: close
+X-Cache: MISS
+
+7: http://www.bzwbk.pl/informacje-o-banku/kontakt/kontakt-zadaj-pytanie.html
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Server: Unknown
+Content-Length: 122759
+Accept-Ranges: bytes
+Date: Tue, 20 May 2014 15:43:40 GMT
+Connection: close
+X-Cache: MISS
+
+8: http://www.nk.pl/bankzachodniwbk
+Date: Tue, 20 May 2014 15:43:47 GMT
+Set-Cookie: nk_session=duoUTbD3CQBTbLYajikzYBN36A0; path=/; domain=.nk.pl; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: basic_auth=5384b2b4df6f300f05f86ae0; expires=Tue, 27-May-2014 15:43:48 GMT; path=/; domain=.nk.pl
+X-UA-Compatible: IE=edge
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Server: NK
+Set-Cookie: nkd=1256|U3t4N|U3t4N; path=/
+
+9: http://blog.bzwbk.pl
+Server: nginx/1.4.1
+Date: Tue, 20 May 2014 15:43:49 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 649956
+Connection: close
+X-Powered-By: PHP/5.3.27-1~dotdeb.0
+Vary: Accept-Encoding, Cookie
+Cache-Control: max-age=3, must-revalidate
+WP-Super-Cache: Served supercache file from PHP
+Last-Modified: Tue, 20 May 2014 08:07:20 GMT
+
+10: http://bankpomyslow.bzwbk.pl
+Content-Type: text/html; charset=utf-8
+Content-Length: 30197
+Connection: close
+Status: 200 OK
+X-UA-Compatible: IE=Edge
+ETag: "45c976816d460b1c343fa8fa30a68a3e"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: _idealnybank_session_new_v2=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWIzZjgwNWVjMGZjZWIyNzhkMzM0ZmIzODVkOTBkYjg4BjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMW8vOVpPSjBqQ2x0ak53UVpkcHFhWCtrMnd4b3FSTWkyRVdlOTVPQ1hMc0E9BjsARkkiDnJldHVybl90bwY7AEYiBi8%3D--98c7f9f2d8647eaa303129682442a86c2b45166c; path=/; HttpOnly
+X-Request-Id: 8bea64eb472ec594e66a6933240b5cd1
+X-Runtime: 0.366648
+Date: Tue, 20 May 2014 15:43:51 GMT
+X-Rack-Cache: miss
+X-Powered-By: Phusion Passenger 4.0.10
+Server: nginx/1.4.1 + Phusion Passenger 4.0.10
+
+11: http://www.bzwbk.pl/przydatne-informacje/wyszukiwarka-placowek-i-bankomatow/wyszukiwarka-placowek-i-bankomatow.html
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Server: Unknown
+Content-Length: 148920
+Accept-Ranges: bytes
+Date: Tue, 20 May 2014 15:43:46 GMT
+Connection: close
+X-Cache: MISS
+
+12: https://www.kb24.pl/
+Cache-Control: no-store,no-cache="Set-Cookie"
+Connection: close
+Date: Tue, 20 May 2014 15:42:20 GMT
+Pragma: no-cache
+Content-Length: 18629
+Content-Type: text/html; charset=iso-8859-2
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Set-Cookie: JSESSIONID=TQtnT73cpq1SQhShRlsbVPDSjKJTryvW6F19ZK2JdV2Wc6V62TJ51vL9yNVnXs8kGTtp1fykkHfTZGJJMLgpFD9XQBYsgmVP0Gh!315650858; path=/; HttpOnly
+
+13: https://www.kbnet.pl/web/guest/login
+Date: Tue, 20 May 2014 16:09:26 GMT
+Server: ngnix
+Set-Cookie: JSESSIONID=Bsth77qax8EJV8CqKRLi1Jj52RuIWGRkkW+Tw0aMxWOaZ5ScCb3+2Nd6WkC74xSKCxzvkj99lyKgKaic+IflQg==.chba044; Path=/; Secure
+Set-Cookie: GUEST_LANGUAGE_ID=pl_PL; Expires=Wed, 20-May-2015 15:43:55 GMT; Path=/
+Expires: Tue, 6 May 1975 12:00:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+Content-Length: 8070
+Connection: close
+Content-Type: text/html;charset=UTF-8
+
+14: https://www.kb-envoice.pl/
+Date: Tue, 20 May 2014 15:50:29 GMT
+Server: Apache/2.2.3 (Red Hat)
+Last-Modified: Fri, 20 Aug 2010 11:10:29 GMT
+ETag: "30100-33c-48e3f58b23340"
+Accept-Ranges: bytes
+Content-Length: 828
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+15: https://www.centrum24.pl/centrum24-web/login
+Server: centrum24.pl
+Date: Tue, 20 May 2014 15:40:26 GMT
+Content-length: 26044
+Content-type: text/html; charset=UTF-8
+X-xss-protection: 1; mode=block
+X-content-type-options: nosniff
+Strict-transport-security: max-age=8640000; includeSubDomains
+X-frame-options: DENY
+Content-security-policy: default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'
+Pragma: no-cache
+Cache-control: no-cache, max-age=0, must-revalidate
+Content-language: pl
+Set-cookie: JSESSIONID=0000OKN50P2A5ck7velyGvyI_PG+17a3nkfuv; Path=/; Secure; HttpOnly
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Connection: close
+Set-Cookie: BIGipServeronline_82=2355800256.20992.0000; path=/
+
+16: https://m.bzwbk24.pl/centrum24-mobile-web/login
+Server: centrum24.pl
+Date: Tue, 20 May 2014 15:40:27 GMT
+Content-length: 2923
+Content-type: text/html; charset=UTF-8
+X-powered-by: Servlet/3.0
+X-frame-options: DENY
+Pragma: no-cache
+Cache-control: no-store, no-cache, must-revalidate, max-age=0, post-check=0, pre-check=0
+Content-language: en-US
+Set-cookie: JSESSIONID=0001I4PQY_7jL-EQZbl4bvOb3Nd+17alt7rgs; HTTPOnly; Path=/centrum24-mobile-web; Secure; HttpOnly
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Connection: close
+Set-Cookie: BIGipServeronline_82=2355800256.20992.0000; path=/
+
+17: https://www.centrum24.pl/bzwbk24_pl.html
+Server: centrum24.pl
+Date: Tue, 20 May 2014 15:40:28 GMT
+Content-length: 469
+Content-type: text/html
+X-powered-by: Servlet/3.0
+Last-modified: Thu, 24 Mar 2005 14:37:40 GMT
+Content-language: us-US
+Connection: close
+Set-Cookie: BIGipServeronline=2355800256.20736.0000; path=/
+
+18: https://www.centrum24.pl/centrum24-web/login
+Server: centrum24.pl
+Date: Tue, 20 May 2014 15:40:28 GMT
+Content-length: 26044
+Content-type: text/html; charset=UTF-8
+X-xss-protection: 1; mode=block
+X-content-type-options: nosniff
+Strict-transport-security: max-age=8640000; includeSubDomains
+X-frame-options: DENY
+Content-security-policy: default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'
+Pragma: no-cache
+Cache-control: no-cache, max-age=0, must-revalidate
+Content-language: pl
+Set-cookie: JSESSIONID=0000UzCbvTOMMgq1Dj7MB-L-lGX+17a3nkveo; Path=/; Secure; HttpOnly
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Connection: close
+Set-Cookie: BIGipServeronline_82=2355800256.20992.0000; path=/
+
+19: https://ibiznes24.pl/bzwbk24biznes-client/login.html
+Date: Tue, 20 May 2014 15:44:01 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Language: en-US
+Content-Length: 8555
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-Control: no-cache="set-cookie, set-cookie2"
+Set-Cookie: JSESSIONID=0000bUhO-BXKSsLZGep7okmCubp:17q8eneqe; Path=/
+Vary: Accept-Encoding
+Connection: close
+
+20: https://www.inwestoronline.pl/cbm/
+Set-Cookie: BIDIOL=1bd5b40f-8ecf-4488-a61b-e75e49883c8e; Path=/cbm
+Set-Cookie: JSESSIONIOL=D0C37D38FDFE39AD60C8565DCCDEFDAC; Path=/cbm
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: no-cache
+Cache-Control: no-store
+Content-Type: text/html;charset=UTF-8
+Content-Language: pl
+Transfer-Encoding: chunked
+Vary: Accept-Encoding
+Date: Tue, 20 May 2014 15:44:16 GMT
+Server: DMBZWBK
+Connection: close
+Set-Cookie: BIGipServerinwestoronline_www=2892671168.37151.0000; path=/
+
+21: https://www.centrum24.pl/prepaid/index?index=1491
+Date: Tue, 20 May 2014 15:41:33 GMT
+Server: Apache
+Pragma: no-cache
+Cache-Control: no-store, no-cache, must-revalidate, max-age=0, post-check=0, pre-check=0
+Set-Cookie: JSESSIONID=B78FDE8B6B27AD0779978AB740064D31.kpp_1; Path=/prepaid
+Transfer-Encoding: chunked
+Content-Type: text/html;charset=UTF-8
+Connection: close
+Set-Cookie: BIGipServeronline_85=493529280.21760.0000; path=/
+
+22: https://www.kb24.pl/
+Cache-Control: no-store,no-cache="Set-Cookie"
+Connection: close
+Date: Tue, 20 May 2014 15:43:28 GMT
+Pragma: no-cache
+Content-Length: 18629
+Content-Type: text/html; charset=iso-8859-2
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Set-Cookie: JSESSIONID=YS10T74QZGSD4vS4n4g2Ff9vp1nt3yltyVnWpvP31jVVQvf7GSFBhK1yPThMH9Bx09SXFTWWY4tkDyL51Ls9FNnyW2CrJJplpd2!-82661577; path=/; HttpOnly
+
+23: https://www.kbnet.pl/web/guest/login
+Date: Tue, 20 May 2014 16:09:36 GMT
+Server: ngnix
+Set-Cookie: JSESSIONID=Sqk+3UOm9ENGHOP6utqHmhadjP+Mc93ZX40UeL6tCmX2F6Is9RtEayhdOBIWL/i2vOtq6X/PsZ/FcXbmPdPOXQ==.chba044; Path=/; Secure
+Set-Cookie: GUEST_LANGUAGE_ID=pl_PL; Expires=Wed, 20-May-2015 15:44:05 GMT; Path=/
+Expires: Tue, 6 May 1975 12:00:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+Content-Length: 8070
+Connection: close
+Content-Type: text/html;charset=UTF-8
+
+24: https://www.kb-envoice.pl/
+Date: Tue, 20 May 2014 15:50:38 GMT
+Server: Apache/2.2.3 (Red Hat)
+Last-Modified: Fri, 20 Aug 2010 11:10:29 GMT
+ETag: "30100-33c-48e3f58b23340"
+Accept-Ranges: bytes
+Content-Length: 828
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+25: http://www.knf.gov.pl/Images/KNF_podawanie_danych_dostepu_do_rachunku_18_11_2013_tcm75-36300.pdf
+Date: Tue, 20 May 2014 15:43:44 GMT
+Server: Apache/2.2.22 (Win32) mod_ssl/2.2.22 OpenSSL/0.9.8t mod_jk/1.2.32 PHP/5.3.8
+Set-Cookie: JSESSIONID=19AF82178CA1A8A60DD73FEA1F703502.portal1; Path=/; HttpOnly
+Accept-Ranges: bytes
+ETag: W/"157758-1384763672615"
+Last-Modified: Mon, 18 Nov 2013 08:34:32 GMT
+Content-Length: 157758
+Connection: close
+Content-Type: application/pdf
+
+26: http://www.bzwbk.pl/bankowosc-elektroniczna/bezpieczenstwo-i-prywatnosc/komunikat-dotyczacy-bezpieczenstwa/komunikat-dotyczacy-bezpieczenstwa.html
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Server: Unknown
+Content-Length: 117694
+Accept-Ranges: bytes
+Date: Tue, 20 May 2014 15:44:00 GMT
+Connection: close
+X-Cache: MISS
+
+27: http://www.bzwbk.pl/bankowosc-elektroniczna/bezpieczenstwo-i-prywatnosc/bezpieczenstwo-i-prywatnosc.html
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Server: Unknown
+Content-Length: 112591
+Accept-Ranges: bytes
+Date: Tue, 20 May 2014 15:44:01 GMT
+Connection: close
+X-Cache: MISS
+
+28: http://www.bzwbk.pl/bankowosc-elektroniczna/bzwbk24-internet/konfiguracja/konfiguracja-bzwbk24-internet.html
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Server: Unknown
+Content-Length: 112309
+Accept-Ranges: bytes
+Date: Tue, 20 May 2014 15:44:01 GMT
+Connection: close
+X-Cache: MISS
+
+29: http://bzwbk.pl/_items/bzwbk.pl/pdf/metoda_wnioskowania_o_produkty_banku_w_formule_na_klik.PDF
+Last-Modified: Mon, 28 Apr 2014 12:15:06 GMT
+ETag: "4b61ce-4f8194406a680"
+Content-Type: application/pdf
+Server: Unknown
+Content-Length: 4940238
+Accept-Ranges: bytes
+Date: Tue, 20 May 2014 15:44:03 GMT
+Connection: close
+X-Cache: MISS
+
+30: https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.CENTRUM24.PL&lang=en
+Server: Apache-Coyote/1.1
+Content-Type: html/text
+Content-Length: 0
+Date: Tue, 20 May 2014 15:44:09 GMT
+Connection: close
+
+32: http://www.bzwbk.pl/mikrosite/oferta-na-klik/kredyt-gotowkowy.html
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Server: Unknown
+Content-Length: 17811
+Accept-Ranges: bytes
+Date: Tue, 20 May 2014 15:44:04 GMT
+Connection: close
+X-Cache: MISS
+
+33: https://www.centrum24.pl/redirect?http://napodroz.bzwbkaviva.pl/turystyka/form.html?utm_source=BZWBK24&utm_medium=Komunikat&utm_campaign=NaPodroz04-2014
+Date: Tue, 20 May 2014 15:44:14 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Pragma: no-cache
+Cache-Control: no-cache, must-revalidate
+Set-Cookie: sid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Set-Cookie: sid=7c3e1f7f25e4c572862761c0c86fbe3e; path=/
+Server: Unknown
+
+34: http://www.bzwbk.pl/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Server: Unknown
+Content-Length: 120732
+Accept-Ranges: bytes
+Date: Tue, 20 May 2014 15:44:08 GMT
+Connection: close
+X-Cache: MISS
+
+35: http://www.bzwbk.pl/bankowosc-elektroniczna/bezpieczenstwo-i-prywatnosc/zalecenia-dla-uzytkownikow/zalecenia-dla-uzytkownikow-uslug-bzwbk24.html
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Server: Unknown
+Content-Length: 119588
+Accept-Ranges: bytes
+Date: Tue, 20 May 2014 15:44:09 GMT
+Connection: close
+X-Cache: MISS
+

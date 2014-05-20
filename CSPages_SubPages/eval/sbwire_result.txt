@@ -1,0 +1,40 @@
+1: http://www.sbwire.com
+Date: Tue, 20 May 2014 15:53:46 GMT
+Server: Apache
+P3P: CP="CAO DSP COR CUR ADMa DEVa IVDa CONo OUR PUBi IND PHY ONL UNI PUR FIN COM NAV INT CNT STA"
+X-XSS-Protection: 1; mode=block
+Set-Cookie: wwwsbwirecom=ke5ka6mc0q0p2rd7rnkje7p4e1; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+content-security-policy-report-only: img-src  *.hostednr.com *.sbwire.com ssl.gstatic.com images.shrinktheweb.com ssl.google-analytics.com *.addthis.com data:; script-src  *.sbwire.com *.hostednr.com *.google-analytics.com ajax.googleapis.com *.addthis.com *.adroll.com; default-src 'self'  www.googleadservices.com help.sbwire.com; connect-src 'self'; font-src 'self' themes.googleusercontent.com media.sbwire.com fonts.googleapis.com;  media-src 'self' media.sbwire.com; object-src 'self' media.sbwire.com; style-src 'self' 'unsafe-inline' media.sbwire.com help.sbwire.com www.sprymedia.co.uk fonts.googleapis.com *.addthis.com *.rp-api.com;  report-uri /about/trust/csp-reports/;frame-src *.sbwire.com *.hostednr.com www.facebook.com *.addthis.com apis.google.com accounts.google.com player.vimeo.com;
+Vary: Accept-Encoding,User-Agent
+X-UA-Compatible: IE=Edge,chrome=1
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+2: http://feeds.sbwire.com/
+Date: Tue, 20 May 2014 15:53:46 GMT
+Server: Apache
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/xml;charset=UTF-8
+
+3: http://feeds.sbwire.com/rss/full/latest
+Date: Tue, 20 May 2014 15:53:46 GMT
+Server: Apache
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/xml;charset=UTF-8
+
+4: http://help.sbwire.com/
+Date: Tue, 20 May 2014 15:53:48 GMT
+Server: Apache/2.2.15 (CentOS)
+X-Powered-By: PHP/5.4.28
+Set-Cookie: SWIFT_client=a%3A1%3A%7Bs%3A15%3A%22templategroupid%22%3Bs%3A1%3A%221%22%3B%7D; expires=Wed, 20-May-2015 15:53:48 GMT; path=/; httponly
+Set-Cookie: SWIFT_sessionid40=a5cox8cyjvezx8ekpsfop8ge5v1iz8i8; path=/; httponly
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+

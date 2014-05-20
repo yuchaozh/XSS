@@ -1,0 +1,327 @@
+1: http://www.blockchain.info
+Server: cloudflare-nginx
+Date: Tue, 20 May 2014 15:42:36 GMT
+Content-Type: text/html;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=de7c88879f2e8516ddb6872ae31d418631400600556194; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.blockchain.info; HttpOnly
+Content-Language: en
+Content-Security-Policy: img-src 'self' data: https://blockchain.info; style-src 'self' 'unsafe-inline'; frame-src 'none'; script-src 'self'; connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info; object-src 'none'; media-src 'none'; font-src 'self';
+Strict-Transport-Security: max-age=604800
+X-Frame-Options: SAMEORIGIN
+Vary: Accept-Encoding
+CF-RAY: 12d9a5243b4a041e-ORD
+
+2: http://markets.blockchain.info
+Server: nginx
+Date: Tue, 20 May 2014 15:42:00 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: 0
+X-UA-Compatible: IE=Edge,chrome=1
+Set-Cookie: _bitcoinity_session=BAh7CDoKdGhlbWVJIgpsaWdodAY6BkVUOhBfY3NyZl90b2tlbkkiMW15aDhTMVdTQWFpYVNZNHJxeUJNOTZYRzV5c1NxVENLTnNmTXVtOGJMKzA9BjsGRkkiD3Nlc3Npb25faWQGOwZGSSIlYmIwNTZjZjkwNTlkZGFmYzNkYjY2MmJkNTY0YzE4YjIGOwZU--cf5b36685eaa084b52a781ce5a52c251e74a21f0; path=/; HttpOnly
+X-Request-Id: 2dc906f5cbecbd7e0cd004e9f79ed7ec
+X-Runtime: 0.133967
+X-Rack-Cache: invalidate, pass
+
+3: https://blockchain.info/wallet
+Server: cloudflare-nginx
+Date: Tue, 20 May 2014 15:42:38 GMT
+Content-Type: text/html;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=da0b976fada1f625ad317816d74b9e8061400600558731; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.blockchain.info; HttpOnly
+Content-Language: en
+Content-Security-Policy: img-src 'self' data:; style-src 'self' 'unsafe-inline'; frame-src 'self' https://*.youtube.com;; script-src 'self'; connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info; object-src 'none'; media-src 'self'; font-src 'none';
+Strict-Transport-Security: max-age=604800
+X-Frame-Options: SAMEORIGIN
+Vary: Accept-Encoding
+CF-RAY: 12d9a53417d709b8-ORD
+
+4: https://blockchain.info/r?url=https%3A%2F%2Fupdown.bt%2F
+Server: cloudflare-nginx
+Date: Tue, 20 May 2014 15:42:39 GMT
+Content-Type: application/octet-stream
+Content-Length: 0
+Connection: close
+Set-Cookie: __cfduid=d78487cdd54f413069a55bf8fe5b642ae1400600559003; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.blockchain.info; HttpOnly
+Content-Language: en
+Content-Security-Policy: img-src 'self' data: https://blockchain.info; style-src 'self' 'unsafe-inline'; frame-src 'none'; script-src 'self'; connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info; object-src 'none'; media-src 'none'; font-src 'none';
+Strict-Transport-Security: max-age=604800
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+CF-RAY: 12d9a535c5c609b8-ORD
+
+5: https://blockchain.info/r?url=http%3A%2F%2Fsatoshidice.com
+Server: cloudflare-nginx
+Date: Tue, 20 May 2014 15:42:39 GMT
+Content-Type: application/octet-stream
+Content-Length: 0
+Connection: close
+Set-Cookie: __cfduid=d2426814c033a3fda32b4c2e1f21e0c231400600559372; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.blockchain.info; HttpOnly
+Content-Language: en
+Content-Security-Policy: img-src 'self' data: https://blockchain.info; style-src 'self' 'unsafe-inline'; frame-src 'none'; script-src 'self'; connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info; object-src 'none'; media-src 'none'; font-src 'none';
+Strict-Transport-Security: max-age=604800
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+CF-RAY: 12d9a53815e409b8-ORD
+
+6: https://blockchain.info/r?url=https%3A%2F%2Fmedium.com%2Fp%2Fba5f3fcce103
+Server: cloudflare-nginx
+Date: Tue, 20 May 2014 15:42:39 GMT
+Content-Type: application/octet-stream
+Content-Length: 0
+Connection: close
+Set-Cookie: __cfduid=dabac76f1a2efb607ab8670463f8f6e771400600559605; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.blockchain.info; HttpOnly
+Content-Language: en
+Content-Security-Policy: img-src 'self' data: https://blockchain.info; style-src 'self' 'unsafe-inline'; frame-src 'none'; script-src 'self'; connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info; object-src 'none'; media-src 'none'; font-src 'none';
+Strict-Transport-Security: max-age=604800
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+CF-RAY: 12d9a53981cf09b8-ORD
+
+7: https://blockchain.info/r?url=https%3A%2F%2Fbitcointalk.org%2Findex.php%3Ftopic%3D610486.0
+Server: cloudflare-nginx
+Date: Tue, 20 May 2014 15:42:39 GMT
+Content-Type: application/octet-stream
+Content-Length: 0
+Connection: close
+Set-Cookie: __cfduid=debfefdb546359e978dc153d63863b7321400600559734; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.blockchain.info; HttpOnly
+Content-Language: en
+Content-Security-Policy: img-src 'self' data: https://blockchain.info; style-src 'self' 'unsafe-inline'; frame-src 'none'; script-src 'self'; connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info; object-src 'none'; media-src 'none'; font-src 'none';
+Strict-Transport-Security: max-age=604800
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+CF-RAY: 12d9a53a560409b8-ORD
+
+8: https://blockchain.info/r?url=http%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2F25ngz9%2Fcoinkite_taps_bitcoin_developer_peter_todd_for%2F
+Server: cloudflare-nginx
+Date: Tue, 20 May 2014 15:42:39 GMT
+Content-Type: application/octet-stream
+Content-Length: 0
+Connection: close
+Set-Cookie: __cfduid=d73bb1e1a40a8f7284e2399209d45b5401400600559865; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.blockchain.info; HttpOnly
+Content-Language: en
+Content-Security-Policy: img-src 'self' data: https://blockchain.info; style-src 'self' 'unsafe-inline'; frame-src 'none'; script-src 'self'; connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info; object-src 'none'; media-src 'none'; font-src 'none';
+Strict-Transport-Security: max-age=604800
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+CF-RAY: 12d9a53b282b09b8-ORD
+
+9: https://blockchain.info/r?url=http%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2F25nc2p%2Famagi_metals_slams_precious_metals_magazine_for%2F
+Server: cloudflare-nginx
+Date: Tue, 20 May 2014 15:42:40 GMT
+Content-Type: application/octet-stream
+Content-Length: 0
+Connection: close
+Set-Cookie: __cfduid=d7af279724f2b5e08b0ae398e00f9e5551400600559988; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.blockchain.info; HttpOnly
+Content-Language: en
+Content-Security-Policy: img-src 'self' data: https://blockchain.info; style-src 'self' 'unsafe-inline'; frame-src 'none'; script-src 'self'; connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info; object-src 'none'; media-src 'none'; font-src 'none';
+Strict-Transport-Security: max-age=604800
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+CF-RAY: 12d9a53be82f09b8-ORD
+
+10: https://blockchain.info/r?url=http%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2F25naqt%2Fthe_first_street_in_america_where_you_can_pay_for%2F
+Server: cloudflare-nginx
+Date: Tue, 20 May 2014 15:42:40 GMT
+Content-Type: application/octet-stream
+Content-Length: 0
+Connection: close
+Set-Cookie: __cfduid=d0de4146854a232bc26b57d82b91170631400600560124; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.blockchain.info; HttpOnly
+Content-Language: en
+Content-Security-Policy: img-src 'self' data: https://blockchain.info; style-src 'self' 'unsafe-inline'; frame-src 'none'; script-src 'self'; connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info; object-src 'none'; media-src 'none'; font-src 'none';
+Strict-Transport-Security: max-age=604800
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+CF-RAY: 12d9a53cc43609b8-ORD
+
+11: https://blockchain.info/r?url=http%3A%2F%2Fwww.ihavebitcoins.com%2Ffeatured%2Fla-homes-can-now-pay-bitcoin-heating-plumbing%2F
+Server: cloudflare-nginx
+Date: Tue, 20 May 2014 15:42:40 GMT
+Content-Type: application/octet-stream
+Content-Length: 0
+Connection: close
+Set-Cookie: __cfduid=dfac66fcdf0a2e25914e68a43db2dba301400600560253; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.blockchain.info; HttpOnly
+Content-Language: en
+Content-Security-Policy: img-src 'self' data: https://blockchain.info; style-src 'self' 'unsafe-inline'; frame-src 'none'; script-src 'self'; connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info; object-src 'none'; media-src 'none'; font-src 'none';
+Strict-Transport-Security: max-age=604800
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+CF-RAY: 12d9a53d963909b8-ORD
+
+12: https://blockchain.info/r?url=https%3A%2F%2Fbitcointalk.org%2Findex.php%3Ftopic%3D610462.0
+Server: cloudflare-nginx
+Date: Tue, 20 May 2014 15:42:40 GMT
+Content-Type: application/octet-stream
+Content-Length: 0
+Connection: close
+Set-Cookie: __cfduid=ddadb346b33a982c5faa1c094cce7a18d1400600560446; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.blockchain.info; HttpOnly
+Content-Language: en
+Content-Security-Policy: img-src 'self' data: https://blockchain.info; style-src 'self' 'unsafe-inline'; frame-src 'none'; script-src 'self'; connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info; object-src 'none'; media-src 'none'; font-src 'none';
+Strict-Transport-Security: max-age=604800
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+CF-RAY: 12d9a53ec64e09b8-ORD
+
+13: https://blockchain.info/r?url=https%3A%2F%2Fbitcointalk.org%2Findex.php%3Ftopic%3D610453.0
+Server: cloudflare-nginx
+Date: Tue, 20 May 2014 15:42:40 GMT
+Content-Type: application/octet-stream
+Content-Length: 0
+Connection: close
+Set-Cookie: __cfduid=ddaa7fadb861d4f81bff9d6f6fed4b75a1400600560577; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.blockchain.info; HttpOnly
+Content-Language: en
+Content-Security-Policy: img-src 'self' data: https://blockchain.info; style-src 'self' 'unsafe-inline'; frame-src 'none'; script-src 'self'; connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info; object-src 'none'; media-src 'none'; font-src 'none';
+Strict-Transport-Security: max-age=604800
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+CF-RAY: 12d9a53f95b709b8-ORD
+
+14: https://blockchain.info/r?url=http%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2F25na4p%2Frussian_authorities_softened_about_crypto_there%2F
+Server: cloudflare-nginx
+Date: Tue, 20 May 2014 15:42:40 GMT
+Content-Type: application/octet-stream
+Content-Length: 0
+Connection: close
+Set-Cookie: __cfduid=de78cc14c2ea06d8f73d98a7dbcf973411400600560709; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.blockchain.info; HttpOnly
+Content-Language: en
+Content-Security-Policy: img-src 'self' data: https://blockchain.info; style-src 'self' 'unsafe-inline'; frame-src 'none'; script-src 'self'; connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info; object-src 'none'; media-src 'none'; font-src 'none';
+Strict-Transport-Security: max-age=604800
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+CF-RAY: 12d9a54065c409b8-ORD
+
+15: https://blockchain.info/r?url=http%3A%2F%2Fwww.coindesk.com%2Fcoinkite-taps-bitcoin-developer-peter-todd-advisory-role%2F
+Server: cloudflare-nginx
+Date: Tue, 20 May 2014 15:42:41 GMT
+Content-Type: application/octet-stream
+Content-Length: 0
+Connection: close
+Set-Cookie: __cfduid=deb1425b1ad4e96b82f1344e216ca15831400600560839; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.blockchain.info; HttpOnly
+Content-Language: en
+Content-Security-Policy: img-src 'self' data: https://blockchain.info; style-src 'self' 'unsafe-inline'; frame-src 'none'; script-src 'self'; connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info; object-src 'none'; media-src 'none'; font-src 'none';
+Strict-Transport-Security: max-age=604800
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+CF-RAY: 12d9a54135d009b8-ORD
+
+16: https://blockchain.info/r?url=https%3A%2F%2Fbitcointalk.org%2Findex.php%3Ftopic%3D610447.0
+Server: cloudflare-nginx
+Date: Tue, 20 May 2014 15:42:41 GMT
+Content-Type: application/octet-stream
+Content-Length: 0
+Connection: close
+Set-Cookie: __cfduid=dcedf0203f553f7bd3462596d4ace08e61400600561024; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.blockchain.info; HttpOnly
+Content-Language: en
+Content-Security-Policy: img-src 'self' data: https://blockchain.info; style-src 'self' 'unsafe-inline'; frame-src 'none'; script-src 'self'; connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info; object-src 'none'; media-src 'none'; font-src 'none';
+Strict-Transport-Security: max-age=604800
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+CF-RAY: 12d9a542644b09b8-ORD
+
+17: https://blockchain.info/r?url=http%3A%2F%2Fwww.bloomberg.com%2Fnews%2F2014-05-15%2Finflation-soars-in-the-bitcoin-consumer-price-index.html
+Server: cloudflare-nginx
+Date: Tue, 20 May 2014 15:42:41 GMT
+Content-Type: application/octet-stream
+Content-Length: 0
+Connection: close
+Set-Cookie: __cfduid=d604a7205abeab7ae4a93e3a352ed09ea1400600561163; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.blockchain.info; HttpOnly
+Content-Language: en
+Content-Security-Policy: img-src 'self' data: https://blockchain.info; style-src 'self' 'unsafe-inline'; frame-src 'none'; script-src 'self'; connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info; object-src 'none'; media-src 'none'; font-src 'none';
+Strict-Transport-Security: max-age=604800
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+CF-RAY: 12d9a543468f09b8-ORD
+
+18: https://blockchain.info/r?url=https%3A%2F%2Fbitcointalk.org%2Findex.php%3Ftopic%3D610432.0
+Server: cloudflare-nginx
+Date: Tue, 20 May 2014 15:42:41 GMT
+Content-Type: application/octet-stream
+Content-Length: 0
+Connection: close
+Set-Cookie: __cfduid=dbf780b3c9720b2a72341c14a036dda8a1400600561290; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.blockchain.info; HttpOnly
+Content-Language: en
+Content-Security-Policy: img-src 'self' data: https://blockchain.info; style-src 'self' 'unsafe-inline'; frame-src 'none'; script-src 'self'; connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info; object-src 'none'; media-src 'none'; font-src 'none';
+Strict-Transport-Security: max-age=604800
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+CF-RAY: 12d9a544160f09b8-ORD
+
+19: https://blockchain.info/r?url=http%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2F25n3vx%2Fvisualtouch_pos_system_by_toshiba_used_in_the%2F
+Server: cloudflare-nginx
+Date: Tue, 20 May 2014 15:42:41 GMT
+Content-Type: application/octet-stream
+Content-Length: 0
+Connection: close
+Set-Cookie: __cfduid=d46dd9aba6be20247168818fbc5f80cc91400600561490; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.blockchain.info; HttpOnly
+Content-Language: en
+Content-Security-Policy: img-src 'self' data: https://blockchain.info; style-src 'self' 'unsafe-inline'; frame-src 'none'; script-src 'self'; connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info; object-src 'none'; media-src 'none'; font-src 'none';
+Strict-Transport-Security: max-age=604800
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+CF-RAY: 12d9a54556b209b8-ORD
+
+20: https://blockchain.info/r?url=http%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2F25n8vb%2Feff_has_been_accepting_bitcoin_donations_for%2F
+Server: cloudflare-nginx
+Date: Tue, 20 May 2014 15:42:41 GMT
+Content-Type: application/octet-stream
+Content-Length: 0
+Connection: close
+Set-Cookie: __cfduid=d3934a1c739c0640a3b95c0aeaca11efa1400600561630; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.blockchain.info; HttpOnly
+Content-Language: en
+Content-Security-Policy: img-src 'self' data: https://blockchain.info; style-src 'self' 'unsafe-inline'; frame-src 'none'; script-src 'self'; connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info; object-src 'none'; media-src 'none'; font-src 'none';
+Strict-Transport-Security: max-age=604800
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+CF-RAY: 12d9a54636b909b8-ORD
+
+21: https://blockchain.info/r?url=http%3A%2F%2Fwww.btcchicago.com&aid=5655
+Server: cloudflare-nginx
+Date: Tue, 20 May 2014 15:42:41 GMT
+Content-Type: application/octet-stream
+Content-Length: 0
+Connection: close
+Set-Cookie: __cfduid=dee97620d8f5d3f5724dac9bf0ada08af1400600561756; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.blockchain.info; HttpOnly
+Content-Language: en
+Content-Security-Policy: img-src 'self' data: https://blockchain.info; style-src 'self' 'unsafe-inline'; frame-src 'none'; script-src 'self'; connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info; object-src 'none'; media-src 'none'; font-src 'none';
+Strict-Transport-Security: max-age=604800
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+CF-RAY: 12d9a546f8a409b8-ORD
+
+22: https://blockchain.info/wallet
+Server: cloudflare-nginx
+Date: Tue, 20 May 2014 15:42:42 GMT
+Content-Type: text/html;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d1d06c7a1322b389eb7835843e281400b1400600562008; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.blockchain.info; HttpOnly
+Content-Language: en
+Content-Security-Policy: img-src 'self' data:; style-src 'self' 'unsafe-inline'; frame-src 'self' https://*.youtube.com;; script-src 'self'; connect-src 'self' *.blockchain.info wss://*.blockchain.info ws://*.blockchain.info; object-src 'none'; media-src 'self'; font-src 'none';
+Strict-Transport-Security: max-age=604800
+X-Frame-Options: SAMEORIGIN
+Vary: Accept-Encoding
+CF-RAY: 12d9a548848509b8-ORD
+

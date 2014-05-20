@@ -1,0 +1,3 @@
+http://www.toodledo.com
+http://www.toodledo.com/info/news_rss.php
+http://api.toodledo.com

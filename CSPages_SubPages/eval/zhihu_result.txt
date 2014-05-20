@@ -1,0 +1,67 @@
+1: http://www.zhihu.com
+Server: zhihu_nginx
+Date: Tue, 20 May 2014 16:38:51 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+Content-Security-Policy: default-src *; frame-src *.zhihu.com note.youdao.com; script-src *.zhihu.com *.google-analytics.com 'unsafe-eval'; style-src *.zhihu.com 'unsafe-inline'
+Expires: Fri, 02 Jan 2000 00:00:00 GMT
+Cache-Control: private, no-store, max-age=0, no-cache, must-revalidate, post-check=0, pre-check=0
+Set-Cookie: q_c1=30b05f9df2b34b8caf35dbeacb79967b|1400603224000|1400603224000; Domain=zhihu.com; expires=Fri, 19 May 2017 16:27:04 GMT; Path=/
+Set-Cookie: _xsrf=e145526eafc448299186f77e1f816cd8; Path=/
+
+2: http://api.zhihu.com/client/download/appstore?utm_source=zhihu_register&utm_medium=appstore_link&utm_campaign=appdownload
+Server: zhihu_nginx
+Date: Tue, 20 May 2014 16:38:55 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 2123
+Connection: close
+Vary: Accept-Encoding
+Etag: "9cf3d0c29b6d3823521ad36e1f316d8142b8925a"
+
+3: http://api.zhihu.com/client/download/play?utm_source=zhihu_register&utm_medium=googleplay_link&utm_campaign=appdownload
+Server: zhihu_nginx
+Date: Tue, 20 May 2014 16:38:58 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 2143
+Connection: close
+Vary: Accept-Encoding
+Etag: "2d89dca989041c7f9fcf71af33a1acc70e155615"
+
+4: http://api.zhihu.com/client/download/wandoujia?utm_source=zhihu_register&utm_medium=wandoujia&utm_campaign=appdownload
+Server: zhihu_nginx
+Date: Tue, 20 May 2014 16:39:00 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 2127
+Connection: close
+Vary: Accept-Encoding
+Etag: "057c26c2f267925ee407327cce25d18b9b447556"
+
+5: http://api.zhihu.com/client/download/apk?utm_source=zhihu_register&utm_medium=apk_link&utm_campaign=appdownload
+Server: zhihu_nginx
+Date: Tue, 20 May 2014 16:39:04 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 2134
+Connection: close
+Vary: Accept-Encoding
+Etag: "90db49fba431384f0e66edf344f9e42a51ae91d8"
+
+6: http://api.zhihu.com/client/download/appstore
+Server: zhihu_nginx
+Date: Tue, 20 May 2014 16:39:19 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 2123
+Connection: close
+Vary: Accept-Encoding
+Etag: "9cf3d0c29b6d3823521ad36e1f316d8142b8925a"
+
+7: http://api.zhihu.com/client/download/play
+Server: zhihu_nginx
+Date: Tue, 20 May 2014 16:39:21 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 2143
+Connection: close
+Vary: Accept-Encoding
+Etag: "2d89dca989041c7f9fcf71af33a1acc70e155615"
+

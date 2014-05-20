@@ -1,0 +1,5 @@
+http://www.npmjs.org
+https://www.npmjs.org/
+http://npmjs.org/doc/
+http://blog.npmjs.org/
+http://www.npmjs.com/jobs/

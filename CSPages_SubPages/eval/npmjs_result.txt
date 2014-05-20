@@ -1,0 +1,104 @@
+1: http://www.npmjs.org
+Date: Tue, 20 May 2014 15:52:31 GMT
+Server: nginx/1.1.19
+Content-Type: text/html
+strict-transport-security: max-age=2592000000; includeSubDomains
+Content-Security-Policy: default-src 'self'; img-src *; script-src 'self' 'unsafe-eval' https://ssl.google-analytics.com https://checkout.stripe.com; frame-src https://checkout.stripe.com; style-src 'self' 'unsafe-inline'; report-uri /-/csplog;
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+etag: "oRA5CvbFVLf8OL3Zj70E3mp2bU4="
+x-templar-stamp: pid=8780 worker=10 509a585e366d2b6a956804d26292e32d40ac2296 https://www.npmjs.org aws-west-2.www.internal.npmjs.com undefined
+Via: 1.1 varnish
+Cache-Control: max-age=0
+Accept-Ranges: bytes
+Via: 1.1 varnish
+Age: 0
+X-Served-By: cache-v44-ASH, cache-c31-CHI
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+set-cookie: s=YOMoZG/KNeVPFV+5vyWYV79O5yzF7Va1G49d+In5; path=/; expires=Tue, 03 Jun 2014 15:52:31 GMT; secure; httponly
+set-cookie: s.sig=APvwoZwqSK-CYXkFPDo22NyceZg; path=/; expires=Tue, 03 Jun 2014 15:52:31 GMT; secure; httponly
+Connection: close
+Transfer-Encoding: chunked
+
+2: https://www.npmjs.org/
+Date: Tue, 20 May 2014 15:52:31 GMT
+Server: nginx/1.1.19
+Content-Type: text/html
+strict-transport-security: max-age=2592000000; includeSubDomains
+Content-Security-Policy: default-src 'self'; img-src *; script-src 'self' 'unsafe-eval' https://ssl.google-analytics.com https://checkout.stripe.com; frame-src https://checkout.stripe.com; style-src 'self' 'unsafe-inline'; report-uri /-/csplog;
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+etag: "g8YFGCBGHtaugrs8OHsx4eCEmZs="
+x-templar-stamp: pid=8061 worker=8 509a585e366d2b6a956804d26292e32d40ac2296 https://www.npmjs.org aws-east-1.www.internal.npmjs.com undefined
+Accept-Ranges: bytes
+Via: 1.1 varnish
+Cache-Control: max-age=0
+Accept-Ranges: bytes
+Via: 1.1 varnish
+X-Served-By: cache-v42-ASH, cache-c31-CHI
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+set-cookie: s=mLgScS6pyuNWKI/FFkMAEPmf2G2aWl+RdnDrJvNR; path=/; expires=Tue, 03 Jun 2014 15:52:31 GMT; secure; httponly
+set-cookie: s.sig=qKddZM_8XQXy9LTFEtbqO_S3m9U; path=/; expires=Tue, 03 Jun 2014 15:52:31 GMT; secure; httponly
+Connection: close
+Transfer-Encoding: chunked
+
+3: http://npmjs.org/doc/
+Date: Tue, 20 May 2014 15:52:31 GMT
+Server: AmazonS3
+x-amz-id-2: QNgo3c6z9ORvwYLs/RdIlKldLltFXY6SXH30FLr630LWKET08AnolxXKAvYw471BnnWCdWW4hb4=
+x-amz-request-id: 21AB3ECF13083A39
+x-amz-meta-syncfilehash: 89769ea6f6cfe9a17b9c8dd28db702fc
+Last-Modified: Fri, 02 May 2014 00:04:34 GMT
+ETag: "730fa4676279fcbcca1d78069d2c00a5"
+Content-Type: text/html
+Cache-Control: max-age=3600
+Content-Length: 13638
+Accept-Ranges: bytes
+Via: 1.1 varnish
+Age: 6148
+X-Served-By: cache-c48-CHI
+X-Cache: HIT
+X-Cache-Hits: 1
+Connection: close
+
+4: http://blog.npmjs.org/
+Server: nginx
+Date: Tue, 20 May 2014 15:52:32 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+Set-Cookie: tmgioct=537b7a3fc746960807303810; expires=Fri, 17-May-2024 15:52:31 GMT; path=/; httponly
+P3P: CP="ALL ADM DEV PSAi COM OUR OTRo STP IND ONL"
+X-Tumblr-User: npmjs
+X-Tumblr-Pixel-0: http://www.tumblr.com/impixu?T=1400601151&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvYmxvZy5ucG1qcy5vcmdcLyIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC8ifQ==&U=ABIDGAGCAD&K=2fdcf8fc432f11036c7a12c9414168ec6138e1549da7072a8c922ac109fc315c--http://www.tumblr.com/impixu?T=1400601151&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2Jsb2cubnBtanMub3JnXC8iLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvIiwicG9zdHMiOlt7InBvc3RpZCI6Ijg1NDg0NzcxMzc1IiwiYmxvZ2lkIjoiMTYyMjYxOTU3Iiwic291cmNlIjozM30seyJwb3N0aWQiOiI4NDE3NzY4NTU3NSIs
+X-Tumblr-Pixel-1: ImJsb2dpZCI6IjE2MjI2MTk1NyIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiODM3NzQ2MTY4NjIiLCJibG9naWQiOiIxNjIyNjE5NTciLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjgyOTI2OTI2NDk5IiwiYmxvZ2lkIjoiMTYyMjYxOTU3Iiwic291cmNlIjozM30seyJwb3N0aWQiOiI4MjcwNDcxMDc0NSIsImJsb2dpZCI6IjE2MjI2MTk1NyIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiODIxMjg3ODM2MjIiLCJibG9naWQiOiIxNjIyNjE5NTciLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjgyMTA3MTE0NDg5IiwiYmxvZ2lkIjoiMTYyMjYxOTU3Iiwic291cmNlIjozM30seyJwb3N0aWQiOiI4MTY5MjcyNzY4NCIsImJsb2dpZCI6IjE2MjI2MTk1Ny
+X-Tumblr-Pixel-2: IsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiODE2MjA5NzUxODAiLCJibG9naWQiOiIxNjIyNjE5NTciLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjgxNjE0ODUyMTIxIiwiYmxvZ2lkIjoiMTYyMjYxOTU3Iiwic291cmNlIjozM31dfQ==&U=LFHIBJEIDA&K=977aeae1dce5f6414e83b7f556302cb09fb58033fe58f35918f46a6842278ad6
+X-Tumblr-Pixel: 3
+Link: <http://24.media.tumblr.com/avatar_dea45f551865_128.png>; rel=icon
+X-UA-Compatible: IE=Edge,chrome=1
+
+5: http://www.npmjs.com/jobs/
+Date: Tue, 20 May 2014 15:52:32 GMT
+X-ServedBy: ny1-prod6-web039.int.peer1.squarespace.net
+Set-Cookie: JSESSIONID=5jijtx35jfzjg6ptei0m4dzj;Path=/
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: crumb=339b7bf07f;Path=/
+Set-Cookie: SS_MID=e2b3247d-64b4-4207-879f-e11668674eaahvfdri3h;Path=/;Domain=.npmjs.com;Expires=Fri, 17-May-2024 15:52:32 GMT
+Accept-Ranges: bytes
+Content-Type: text/html; charset=UTF-8
+X-PC-AppVer: 217
+X-PC-Date: Tue, 13 May 2014 17:54:47 GMT
+X-PC-Host: 10.100.101.11
+Last-Modified: Mon, 19 May 2014 18:07:53 GMT
+X-PC-Key: _ti-4A3BjlCiKVEvzKqcWUJi2B8-npm-inc
+X-PC-Hit: true
+Vary: Accept-Encoding, User-Agent
+ETag: W/"a2451892b49a1f13c709c380ac97ead9"
+Content-Length: 26911
+Connection: close
+X-ContextId: y1GkOLzl/5VRyHCZa
+X-Via: 1.1 nyc-echo10
+

@@ -1,0 +1,127 @@
+~~~~~~~~~~~~~~~~
+facebook:
+total: 48
+ture: 31
+https://facebook.com - count:
+2, 3, 4, 5, 6, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29
+external links:
+16, 17, 18
+no csp:
+4
+https://www.facebook.com/directory/
+~~~~~~~~~~~~~~~~~
+pinterest:
+total: 27
+ture: 20
+has csp: 19
+external links: 7 
+no csp: 1
+http://www.pinterest.com/html_sitemap/pinners_a.html
+~~~~~~~~~~~~~~
+github:
+total: 21
+ture: 19
+has csp: 3
+no csp: 16
+~~~~~~~~~~~~~
+mego.co:
+total: 3
+ture: 1
+has csp: 1
+no csp: 0
+~~~~~~~~~~~~~
+zhihu.com
+total: 17
+ture: 6
+has csp: 1
+no csp: 5
+~~~~~~~~~~~~~
+zomato.com
+total: 225
+true: 218
+has csp: 218
+no csp: 0
+~~~~~~~~~~~~
+blockchain.info
+total: 22
+ture: 22
+has csp: 21
+no csp:1
+~~~~~~~~~~~~
+searchfunmoods.com
+total: 7
+true: 5
+has csp: 1
+no csp: 6
+~~~~~~~~~~~~
+volusion.com
+total: 20
+true: 13
+has csp: 1
+no csp: 12
+~~~~~~~~~~~~
+dnb.no
+total: 23
+true: 19
+has csp: 19
+no csp: 0
+~~~~~~~~~~~~
+centrum24.pl
+total: 37
+true: 6 
+has csp: 4
+no csp: 2
+~~~~~~~~~~~~
+simplemachines.org
+total: 50
+true: 44
+has csp: 13
+no csp: 31
+~~~~~~~~~~~~
+lastpass.com
+total: 36
+true: 26
+has csp: 16
+no csp: 10
+~~~~~~~~~~~~
+sbwire.com
+total: 12
+true: 4
+has csp: 1
+no csp: 3
+~~~~~~~~~~~~
+qbank.ru
+total: 1
+true: 1
+has csp: 1
+no csp: 0
+~~~~~~~~~~~~
+toodledo.com
+total: 4
+true: 3
+has csp: 1
+no csp: 2
+~~~~~~~~~~~~
+npmjs.org
+total: 16
+true: 5 
+has csp: 1
+no csp: 4
+~~~~~~~~~~~~
+adblockplus.org
+total: 15
+true: 6
+has csp: 1
+no csp: 5
+~~~~~~~~~~~~
+fbcdn.net
+total: 48
+true: 31
+has csp: 27
+no csp: 4
+~~~~~~~~~~~~
+fbsbx.com
+total: 48
+true: 31 
+has csp: 27
+no csp: 4

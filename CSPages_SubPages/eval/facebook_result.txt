@@ -1,0 +1,553 @@
+1: http://www.facebook.com
+Pragma: no-cache
+Strict-Transport-Security: max-age=7776000
+X-Frame-Options: DENY
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Content-Security-Policy: default-src *;script-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' https://*.akamaihd.net http://*.akamaihd.net *.atlassolutions.com chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl;style-src * 'unsafe-inline';connect-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.spotilocal.com:* https://*.akamaihd.net ws://*.facebook.com:* http://*.akamaihd.net https://fb.scanandcleanlocal.com:* *.atlassolutions.com http://attachment.fbsbx.com https://attachment.fbsbx.com;
+X-XSS-Protection: 0
+X-Content-Type-Options: nosniff
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=NHl7U8g3zVdFfJroppszdTZh; expires=Thu, 19-May-2016 15:48:04 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: 8tLAYQhFHTC/KX6o1Ru8L2E1+A8Dm3L6OBDWzABZaTo=
+Date: Tue, 20 May 2014 15:48:04 GMT
+Connection: close
+
+2: https://es-la.facebook.com/
+Pragma: no-cache
+X-Frame-Options: DENY
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Content-Security-Policy: default-src *;script-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' https://*.akamaihd.net http://*.akamaihd.net *.atlassolutions.com chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl;style-src * 'unsafe-inline';connect-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.spotilocal.com:* https://*.akamaihd.net ws://*.facebook.com:* http://*.akamaihd.net https://fb.scanandcleanlocal.com:* *.atlassolutions.com http://attachment.fbsbx.com https://attachment.fbsbx.com;
+X-XSS-Protection: 0
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+X-Content-Type-Options: nosniff
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fes-la.facebook.com%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fes-la.facebook.com%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=NHl7UzgUfzfuAyw_Ji9VBoIz; expires=Thu, 19-May-2016 15:48:04 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: xlmj9Lnqe1YSpCnPqvHhheibsYIclcW0vU1x9s+YOQo=
+Date: Tue, 20 May 2014 15:48:04 GMT
+Connection: close
+
+3: https://es-es.facebook.com/
+Pragma: no-cache
+X-Frame-Options: DENY
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Content-Security-Policy: default-src *;script-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' https://*.akamaihd.net http://*.akamaihd.net *.atlassolutions.com chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl;style-src * 'unsafe-inline';connect-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.spotilocal.com:* https://*.akamaihd.net ws://*.facebook.com:* http://*.akamaihd.net https://fb.scanandcleanlocal.com:* *.atlassolutions.com http://attachment.fbsbx.com https://attachment.fbsbx.com;
+X-XSS-Protection: 0
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+X-Content-Type-Options: nosniff
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fes-es.facebook.com%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fes-es.facebook.com%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=NHl7U0PUBCiewyR3FR30aN2x; expires=Thu, 19-May-2016 15:48:04 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: fDou4xuslfVHzc+ygCK1xyhU4HC3VxTqMc8GdOeI8EE=
+Date: Tue, 20 May 2014 15:48:04 GMT
+Connection: close
+
+4: https://fr-fr.facebook.com/
+Pragma: no-cache
+X-Frame-Options: DENY
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Content-Security-Policy: default-src *;script-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' https://*.akamaihd.net http://*.akamaihd.net *.atlassolutions.com chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl;style-src * 'unsafe-inline';connect-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.spotilocal.com:* https://*.akamaihd.net ws://*.facebook.com:* http://*.akamaihd.net https://fb.scanandcleanlocal.com:* *.atlassolutions.com http://attachment.fbsbx.com https://attachment.fbsbx.com;
+X-XSS-Protection: 0
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+X-Content-Type-Options: nosniff
+Set-Cookie: reg_fb_gate=https%3A%2F%2Ffr-fr.facebook.com%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Ffr-fr.facebook.com%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=NHl7U1Nf2TXo7tphw9EJlJkD; expires=Thu, 19-May-2016 15:48:04 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: rEPaoDBIgXJrXxokm0ygsm9U1gZqSis2AtvISCrqp6w=
+Date: Tue, 20 May 2014 15:48:04 GMT
+Connection: close
+
+5: https://fr-ca.facebook.com/
+Pragma: no-cache
+X-Frame-Options: DENY
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Content-Security-Policy: default-src *;script-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' https://*.akamaihd.net http://*.akamaihd.net *.atlassolutions.com chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl;style-src * 'unsafe-inline';connect-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.spotilocal.com:* https://*.akamaihd.net ws://*.facebook.com:* http://*.akamaihd.net https://fb.scanandcleanlocal.com:* *.atlassolutions.com http://attachment.fbsbx.com https://attachment.fbsbx.com;
+X-XSS-Protection: 0
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+X-Content-Type-Options: nosniff
+Set-Cookie: reg_fb_gate=https%3A%2F%2Ffr-ca.facebook.com%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Ffr-ca.facebook.com%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=NHl7U_iJng8ET5EcDZEPeYXD; expires=Thu, 19-May-2016 15:48:04 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: 6TxLlEu6NvxbNfdNqHqF+alWwta/232z3DqhFGBia44=
+Date: Tue, 20 May 2014 15:48:04 GMT
+Connection: close
+
+6: https://id-id.facebook.com/
+Pragma: no-cache
+X-Frame-Options: DENY
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Content-Security-Policy: default-src *;script-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' https://*.akamaihd.net http://*.akamaihd.net *.atlassolutions.com chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl;style-src * 'unsafe-inline';connect-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.spotilocal.com:* https://*.akamaihd.net ws://*.facebook.com:* http://*.akamaihd.net https://fb.scanandcleanlocal.com:* *.atlassolutions.com http://attachment.fbsbx.com https://attachment.fbsbx.com;
+X-XSS-Protection: 0
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+X-Content-Type-Options: nosniff
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fid-id.facebook.com%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fid-id.facebook.com%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=NHl7UwrTCBoeAvpxD1QNlwts; expires=Thu, 19-May-2016 15:48:04 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: HNFo37qISvU+60Xs4f3ZaKYFjroZymXOmwvYe0ZkK4w=
+Date: Tue, 20 May 2014 15:48:04 GMT
+Connection: close
+
+7: https://it-it.facebook.com/
+Pragma: no-cache
+X-Frame-Options: DENY
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Content-Security-Policy: default-src *;script-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' https://*.akamaihd.net http://*.akamaihd.net *.atlassolutions.com chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl;style-src * 'unsafe-inline';connect-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.spotilocal.com:* https://*.akamaihd.net ws://*.facebook.com:* http://*.akamaihd.net https://fb.scanandcleanlocal.com:* *.atlassolutions.com http://attachment.fbsbx.com https://attachment.fbsbx.com;
+X-XSS-Protection: 0
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+X-Content-Type-Options: nosniff
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fit-it.facebook.com%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fit-it.facebook.com%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=NXl7U9BzsIM_UtSGhnSLtkyJ; expires=Thu, 19-May-2016 15:48:05 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: rAPEChdeHwlFMezsgX9a3NES8OtB+duUJ+qGWNoiyf4=
+Date: Tue, 20 May 2014 15:48:05 GMT
+Connection: close
+
+8: https://ko-kr.facebook.com/
+Pragma: no-cache
+X-Frame-Options: DENY
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Content-Security-Policy: default-src *;script-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' https://*.akamaihd.net http://*.akamaihd.net *.atlassolutions.com chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl;style-src * 'unsafe-inline';connect-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.spotilocal.com:* https://*.akamaihd.net ws://*.facebook.com:* http://*.akamaihd.net https://fb.scanandcleanlocal.com:* *.atlassolutions.com http://attachment.fbsbx.com https://attachment.fbsbx.com;report-uri https://ko-kr.facebook.com/csp.php
+X-XSS-Protection: 0
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+X-Content-Type-Options: nosniff
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fko-kr.facebook.com%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fko-kr.facebook.com%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=NXl7UzKBsfEooM6PSM6Qo4H5; expires=Thu, 19-May-2016 15:48:05 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: RXlFlN/MkbgCG8dARHT1zczeNj0lpnr/gsmGQNdZKfA=
+Date: Tue, 20 May 2014 15:48:05 GMT
+Connection: close
+
+9: https://th-th.facebook.com/
+Pragma: no-cache
+X-Frame-Options: DENY
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Content-Security-Policy: default-src *;script-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' https://*.akamaihd.net http://*.akamaihd.net *.atlassolutions.com chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl;style-src * 'unsafe-inline';connect-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.spotilocal.com:* https://*.akamaihd.net ws://*.facebook.com:* http://*.akamaihd.net https://fb.scanandcleanlocal.com:* *.atlassolutions.com http://attachment.fbsbx.com https://attachment.fbsbx.com;
+X-XSS-Protection: 0
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+X-Content-Type-Options: nosniff
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fth-th.facebook.com%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fth-th.facebook.com%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=NXl7U8d52-tNapM3FjpEvD8_; expires=Thu, 19-May-2016 15:48:05 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: uts66sJhEJDhh0lcWX10wYrrZwZP2qd0whMe92HzBZU=
+Date: Tue, 20 May 2014 15:48:05 GMT
+Connection: close
+
+10: https://vi-vn.facebook.com/
+Pragma: no-cache
+X-Frame-Options: DENY
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Content-Security-Policy: default-src *;script-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' https://*.akamaihd.net http://*.akamaihd.net *.atlassolutions.com chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl;style-src * 'unsafe-inline';connect-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.spotilocal.com:* https://*.akamaihd.net ws://*.facebook.com:* http://*.akamaihd.net https://fb.scanandcleanlocal.com:* *.atlassolutions.com http://attachment.fbsbx.com https://attachment.fbsbx.com;
+X-XSS-Protection: 0
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+X-Content-Type-Options: nosniff
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fvi-vn.facebook.com%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fvi-vn.facebook.com%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=NXl7UxQDHNDTxMQ6d1miO6zN; expires=Thu, 19-May-2016 15:48:05 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: LzRY9IQwSNvT56Kar2t/o70mPxWwcgoCshXfRBZZyqg=
+Date: Tue, 20 May 2014 15:48:05 GMT
+Connection: close
+
+11: https://www.facebook.com/recover/initiate
+Pragma: no-cache
+Strict-Transport-Security: max-age=7776000
+X-Frame-Options: DENY
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Content-Security-Policy: default-src *;script-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' https://*.akamaihd.net http://*.akamaihd.net *.atlassolutions.com chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl;style-src * 'unsafe-inline';connect-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.spotilocal.com:* https://*.akamaihd.net ws://*.facebook.com:* http://*.akamaihd.net https://fb.scanandcleanlocal.com:* *.atlassolutions.com http://attachment.fbsbx.com https://attachment.fbsbx.com;
+X-XSS-Protection: 0
+X-Content-Type-Options: nosniff
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Flogin%2Fidentify%3Fctx%3Drecover; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Flogin%2Fidentify%3Fctx%3Drecover; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=NXl7U6rA1gEJbhuHKZ8ZFcMT; expires=Thu, 19-May-2016 15:48:05 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: W/pg1w6CrkCAuv5vXVBk+mZ5sna5eUe6tJvbcpYG8oU=
+Date: Tue, 20 May 2014 15:48:05 GMT
+Connection: close
+
+12: https://www.facebook.com/mobile/?ref=pf
+Pragma: no-cache
+Strict-Transport-Security: max-age=7776000
+X-Frame-Options: DENY
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Content-Security-Policy: default-src *;script-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' https://*.akamaihd.net http://*.akamaihd.net *.atlassolutions.com chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl;style-src * 'unsafe-inline';connect-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.spotilocal.com:* https://*.akamaihd.net ws://*.facebook.com:* http://*.akamaihd.net https://fb.scanandcleanlocal.com:* *.atlassolutions.com http://attachment.fbsbx.com https://attachment.fbsbx.com;
+X-XSS-Protection: 0
+X-Content-Type-Options: nosniff
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Fmobile%2F%3Fref%3Dpf; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fmobile%2F%3Fref%3Dpf; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=NXl7U_KcF3fmPo7IHJw__Pdt; expires=Thu, 19-May-2016 15:48:05 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: 08Lk8B1i/IKgj7jWIyM0FLqfTTTEFdIP6270woPJscs=
+Date: Tue, 20 May 2014 15:48:05 GMT
+Connection: close
+
+13: https://www.facebook.com/find-friends?ref=pf
+Pragma: no-cache
+Strict-Transport-Security: max-age=7776000
+X-Frame-Options: DENY
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Content-Security-Policy: default-src *;script-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' https://*.akamaihd.net http://*.akamaihd.net *.atlassolutions.com chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl;style-src * 'unsafe-inline';connect-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.spotilocal.com:* https://*.akamaihd.net ws://*.facebook.com:* http://*.akamaihd.net https://fb.scanandcleanlocal.com:* *.atlassolutions.com http://attachment.fbsbx.com https://attachment.fbsbx.com;
+X-XSS-Protection: 0
+X-Content-Type-Options: nosniff
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Ffind-friends%3Fref%3Dpf; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Ffind-friends%3Fref%3Dpf; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=NXl7U3-quZ_vaMnDDHvnUttL; expires=Thu, 19-May-2016 15:48:05 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: jqd6aLEXNxoNGfCQGNIeogoT0L4gsv0I1tVf/BWM9sk=
+Date: Tue, 20 May 2014 15:48:05 GMT
+Connection: close
+
+14: https://www.facebook.com/badges/?ref=pf
+Pragma: no-cache
+Strict-Transport-Security: max-age=7776000
+X-Frame-Options: DENY
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Content-Security-Policy: default-src *;script-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' https://*.akamaihd.net http://*.akamaihd.net *.atlassolutions.com chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl;style-src * 'unsafe-inline';connect-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.spotilocal.com:* https://*.akamaihd.net ws://*.facebook.com:* http://*.akamaihd.net https://fb.scanandcleanlocal.com:* *.atlassolutions.com http://attachment.fbsbx.com https://attachment.fbsbx.com;
+X-XSS-Protection: 0
+X-Content-Type-Options: nosniff
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Fbadges%2F%3Fref%3Dpf; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fbadges%2F%3Fref%3Dpf; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=Nnl7UxNiKH38aL8fjLvwC3vE; expires=Thu, 19-May-2016 15:48:06 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: FucN1WY4FAdUiw4LChmqhSAnF9PeyOeeB3lAqNQALeY=
+Date: Tue, 20 May 2014 15:48:06 GMT
+Connection: close
+
+15: https://www.facebook.com/directory/people/
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Pragma: no-cache
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Fdirectory%2Fpeople%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fdirectory%2Fpeople%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=Nnl7UzMJyzTfxxgghVhpBI4a; expires=Thu, 19-May-2016 15:48:06 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: aCowN6Mi8wOuZturaTougvlhkap/FFVs0w0LMDLQduQ=
+Date: Tue, 20 May 2014 15:48:06 GMT
+Connection: close
+Content-Length: 21428
+
+16: https://www.facebook.com/directory/pages/
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Pragma: no-cache
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Fdirectory%2Fpages%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fdirectory%2Fpages%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=Nnl7Ux95Y8xwi9rTJgKVIOJ-; expires=Thu, 19-May-2016 15:48:06 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: bV2EVY+JvmxWcoa5hG1XDVzLYXF07rf6Zy80+pfLFus=
+Date: Tue, 20 May 2014 15:48:06 GMT
+Connection: close
+Content-Length: 32231
+
+17: https://www.facebook.com/appcenter/?ref=pf
+Pragma: no-cache
+Strict-Transport-Security: max-age=7776000
+X-Frame-Options: DENY
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Content-Security-Policy: default-src *;script-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' https://*.akamaihd.net http://*.akamaihd.net *.atlassolutions.com chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl;style-src * 'unsafe-inline';connect-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.spotilocal.com:* https://*.akamaihd.net ws://*.facebook.com:* http://*.akamaihd.net https://fb.scanandcleanlocal.com:* *.atlassolutions.com http://attachment.fbsbx.com https://attachment.fbsbx.com;
+X-XSS-Protection: 0
+X-Content-Type-Options: nosniff
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Fappcenter%2F%3Fref%3Dpf; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fappcenter%2F%3Fref%3Dpf; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=Nnl7U3BsCvLyWzBhMAPYfOrR; expires=Thu, 19-May-2016 15:48:06 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: a48MQfGmewMSbRdc7wefpRBsxjHtqpf898Dbq1WjoDg=
+Date: Tue, 20 May 2014 15:48:06 GMT
+Connection: close
+
+18: https://www.facebook.com/appcenter/category/games/?ref=pf
+Pragma: no-cache
+Strict-Transport-Security: max-age=7776000
+X-Frame-Options: DENY
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Content-Security-Policy: default-src *;script-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' https://*.akamaihd.net http://*.akamaihd.net *.atlassolutions.com chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl;style-src * 'unsafe-inline';connect-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.spotilocal.com:* https://*.akamaihd.net ws://*.facebook.com:* http://*.akamaihd.net https://fb.scanandcleanlocal.com:* *.atlassolutions.com http://attachment.fbsbx.com https://attachment.fbsbx.com;
+X-XSS-Protection: 0
+X-Content-Type-Options: nosniff
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Fappcenter%2Fcategory%2Fgames%2F%3Fref%3Dpf; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fappcenter%2Fcategory%2Fgames%2F%3Fref%3Dpf; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=Nnl7U-jxbbl1T6CRc7sQSQpU; expires=Thu, 19-May-2016 15:48:06 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: WTshAkYVm+td6AG6MZZ7yRAmu3rgjvzgPRCaXDXTg54=
+Date: Tue, 20 May 2014 15:48:06 GMT
+Connection: close
+
+19: https://www.facebook.com/appcenter/category/music/?ref=pf
+Pragma: no-cache
+Strict-Transport-Security: max-age=7776000
+X-Frame-Options: DENY
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Content-Security-Policy: default-src *;script-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' https://*.akamaihd.net http://*.akamaihd.net *.atlassolutions.com chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl;style-src * 'unsafe-inline';connect-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.spotilocal.com:* https://*.akamaihd.net ws://*.facebook.com:* http://*.akamaihd.net https://fb.scanandcleanlocal.com:* *.atlassolutions.com http://attachment.fbsbx.com https://attachment.fbsbx.com;
+X-XSS-Protection: 0
+X-Content-Type-Options: nosniff
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Fappcenter%2Fcategory%2Fmusic%2F%3Fref%3Dpf; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fappcenter%2Fcategory%2Fmusic%2F%3Fref%3Dpf; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=Nnl7U8fguYXLGyLGKh3O4_VX; expires=Thu, 19-May-2016 15:48:06 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: 0hPxb7Fr5XPasHxE5mfhRWhNdmaHyom6qrMT+5A7Q5Q=
+Date: Tue, 20 May 2014 15:48:06 GMT
+Connection: close
+
+20: https://www.facebook.com/directory/places/
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Pragma: no-cache
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Fdirectory%2Fplaces%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fdirectory%2Fplaces%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=Nnl7U91G3IdUIlq8ZPSUPLpw; expires=Thu, 19-May-2016 15:48:06 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: Ka6I+TIqs1JkVgpN1PpuSsP8y5k7Jn1D1ydnQ2RYZrs=
+Date: Tue, 20 May 2014 15:48:06 GMT
+Connection: close
+Content-Length: 36861
+
+21: https://www.facebook.com/directory/topics/
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Pragma: no-cache
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Fdirectory%2Ftopics%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fdirectory%2Ftopics%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=N3l7U2z75SBeCjOQ1_jfE3UC; expires=Thu, 19-May-2016 15:48:07 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: UhgbMZvceyqILniksaIAOx+y+eYY8Gkg280L+vStLIM=
+Date: Tue, 20 May 2014 15:48:07 GMT
+Connection: close
+Content-Length: 24474
+
+22: https://www.facebook.com/facebook
+Pragma: no-cache
+Strict-Transport-Security: max-age=7776000
+X-Frame-Options: DENY
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Content-Security-Policy: default-src *;script-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' https://*.akamaihd.net http://*.akamaihd.net *.atlassolutions.com chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl;style-src * 'unsafe-inline';connect-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.spotilocal.com:* https://*.akamaihd.net ws://*.facebook.com:* http://*.akamaihd.net https://fb.scanandcleanlocal.com:* *.atlassolutions.com http://attachment.fbsbx.com https://attachment.fbsbx.com;
+X-XSS-Protection: 0
+X-Content-Type-Options: nosniff
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Ffacebook; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Ffacebook; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=N3l7U2cBkyawdng9JccyFArP; expires=Thu, 19-May-2016 15:48:07 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: amFkVpa2LPwHVKcdAoQ3e6GK8KeQyJP4G5S2oMGditg=
+Date: Tue, 20 May 2014 15:48:07 GMT
+Connection: close
+
+23: https://www.facebook.com/campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+Pragma: no-cache
+Strict-Transport-Security: max-age=7776000
+X-Frame-Options: DENY
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Content-Security-Policy: default-src *;script-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' https://*.akamaihd.net http://*.akamaihd.net *.atlassolutions.com chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl;style-src * 'unsafe-inline';connect-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.spotilocal.com:* https://*.akamaihd.net ws://*.facebook.com:* http://*.akamaihd.net https://fb.scanandcleanlocal.com:* *.atlassolutions.com http://attachment.fbsbx.com https://attachment.fbsbx.com;
+X-XSS-Protection: 0
+X-Content-Type-Options: nosniff
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Fadvertising%2F%3Fcampaign_id%3D402047449186%26placement%3Dpflo%26extra_1%3Dnot-admgr-user; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fadvertising%2F%3Fcampaign_id%3D402047449186%26placement%3Dpflo%26extra_1%3Dnot-admgr-user; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=N3l7U7x-_iVvl1b-HyqFQu4U; expires=Thu, 19-May-2016 15:48:07 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: MNZIF/ExhJOj+ks9b7tviz5QnQ3zy3L6OeQpSfeKZy4=
+Date: Tue, 20 May 2014 15:48:07 GMT
+Connection: close
+
+24: https://www.facebook.com/pages/create/?ref_type=sitefooter
+Pragma: no-cache
+Strict-Transport-Security: max-age=7776000
+X-Frame-Options: DENY
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Content-Security-Policy: default-src *;script-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' https://*.akamaihd.net http://*.akamaihd.net *.atlassolutions.com chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl;style-src * 'unsafe-inline';connect-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.spotilocal.com:* https://*.akamaihd.net ws://*.facebook.com:* http://*.akamaihd.net https://fb.scanandcleanlocal.com:* *.atlassolutions.com http://attachment.fbsbx.com https://attachment.fbsbx.com;
+X-XSS-Protection: 0
+X-Content-Type-Options: nosniff
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Fpages%2Fcreate%2F%3Fref_type%3Dsitefooter; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fpages%2Fcreate%2F%3Fref_type%3Dsitefooter; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=N3l7U2RmTxsyDLnDT8s4_sfY; expires=Thu, 19-May-2016 15:48:07 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: IzgIqG76D6u1sfNowzhDOSEIy12ShOVz9dvyx39qirI=
+Date: Tue, 20 May 2014 15:48:07 GMT
+Connection: close
+
+25: https://developers.facebook.com/?ref=pf
+Pragma: no-cache
+Strict-Transport-Security: max-age=7776000
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Content-Security-Policy: default-src *;script-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' https://*.akamaihd.net http://*.akamaihd.net *.atlassolutions.com chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl;style-src * 'unsafe-inline';connect-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.spotilocal.com:* https://*.akamaihd.net ws://*.facebook.com:* http://*.akamaihd.net https://fb.scanandcleanlocal.com:* *.atlassolutions.com http://attachment.fbsbx.com https://attachment.fbsbx.com;
+X-XSS-Protection: 0
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fdevelopers.facebook.com%2F%3Fref%3Dpf; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fdevelopers.facebook.com%2F%3Fref%3Dpf; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=N3l7UzP21gwMdEiAZ9wyNrmW; expires=Thu, 19-May-2016 15:48:07 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: TjQUtbr8VuBRA047IhIoumfd+5hMx/URrABhcjZugWU=
+Date: Tue, 20 May 2014 15:48:07 GMT
+Connection: close
+
+26: https://www.facebook.com/careers/?ref=pf
+Pragma: no-cache
+Strict-Transport-Security: max-age=7776000
+X-Frame-Options: DENY
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Content-Security-Policy: default-src *;script-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' https://*.akamaihd.net http://*.akamaihd.net *.atlassolutions.com chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl;style-src * 'unsafe-inline';connect-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.spotilocal.com:* https://*.akamaihd.net ws://*.facebook.com:* http://*.akamaihd.net https://fb.scanandcleanlocal.com:* *.atlassolutions.com http://attachment.fbsbx.com https://attachment.fbsbx.com;
+X-XSS-Protection: 0
+X-Content-Type-Options: nosniff
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Fcareers%2F%3Fref%3Dpf; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fcareers%2F%3Fref%3Dpf; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=N3l7U7Qa7D5ZKRx7QTr336-X; expires=Thu, 19-May-2016 15:48:07 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: VgkNKruGFY3lsEd9nk+AqPeiJFJPAbWlNz2mCGgP/74=
+Date: Tue, 20 May 2014 15:48:08 GMT
+Connection: close
+
+27: https://www.facebook.com/privacy/explanation
+Pragma: no-cache
+Strict-Transport-Security: max-age=7776000
+X-Frame-Options: DENY
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Content-Security-Policy: default-src *;script-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' https://*.akamaihd.net http://*.akamaihd.net *.atlassolutions.com chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl;style-src * 'unsafe-inline';connect-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.spotilocal.com:* https://*.akamaihd.net ws://*.facebook.com:* http://*.akamaihd.net https://fb.scanandcleanlocal.com:* *.atlassolutions.com http://attachment.fbsbx.com https://attachment.fbsbx.com;
+X-XSS-Protection: 0
+X-Content-Type-Options: nosniff
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Fabout%2Fprivacy%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fabout%2Fprivacy%2F; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=OHl7U_EMZS4NlzqmMYlN-fX2; expires=Thu, 19-May-2016 15:48:08 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: vvQMfy/asWdImLkzFLmHMEniwLw/jgTLspH/G2H4Fp8=
+Date: Tue, 20 May 2014 15:48:08 GMT
+Connection: close
+
+28: https://www.facebook.com/help/cookies/?ref=sitefooter
+Pragma: no-cache
+Strict-Transport-Security: max-age=7776000
+X-Frame-Options: DENY
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Content-Security-Policy: default-src *;script-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' https://*.akamaihd.net http://*.akamaihd.net *.atlassolutions.com chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl;style-src * 'unsafe-inline';connect-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.spotilocal.com:* https://*.akamaihd.net ws://*.facebook.com:* http://*.akamaihd.net https://fb.scanandcleanlocal.com:* *.atlassolutions.com http://attachment.fbsbx.com https://attachment.fbsbx.com;
+X-XSS-Protection: 0
+X-Content-Type-Options: nosniff
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Fhelp%2Fcookies%2F%3Fref%3Dsitefooter; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fhelp%2Fcookies%2F%3Fref%3Dsitefooter; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=OHl7U2OA79WtuZ7O3R_EjykX; expires=Thu, 19-May-2016 15:48:08 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: mNH/Bno8j+G7CLxT988WYzPwcg+yCwJE3Q2cq6fkn78=
+Date: Tue, 20 May 2014 15:48:08 GMT
+Connection: close
+
+29: https://www.facebook.com/policies/?ref=pf
+Pragma: no-cache
+Strict-Transport-Security: max-age=7776000
+X-Frame-Options: DENY
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Content-Security-Policy: default-src *;script-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' https://*.akamaihd.net http://*.akamaihd.net *.atlassolutions.com chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl;style-src * 'unsafe-inline';connect-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.spotilocal.com:* https://*.akamaihd.net ws://*.facebook.com:* http://*.akamaihd.net https://fb.scanandcleanlocal.com:* *.atlassolutions.com http://attachment.fbsbx.com https://attachment.fbsbx.com;
+X-XSS-Protection: 0
+X-Content-Type-Options: nosniff
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Fpolicies%2F%3Fref%3Dpf; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fpolicies%2F%3Fref%3Dpf; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=OHl7UxHi5pJqytCBqEkrctAU; expires=Thu, 19-May-2016 15:48:08 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: sA3VD4RALz+4O31pU3fpIRqf+M08cCALbsYWdrAHEtM=
+Date: Tue, 20 May 2014 15:48:09 GMT
+Connection: close
+
+30: https://www.facebook.com/help/?ref=pf
+Pragma: no-cache
+Strict-Transport-Security: max-age=7776000
+X-Frame-Options: DENY
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Content-Security-Policy: default-src *;script-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' https://*.akamaihd.net http://*.akamaihd.net *.atlassolutions.com chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl;style-src * 'unsafe-inline';connect-src https://*.facebook.com http://*.facebook.com https://*.fbcdn.net http://*.fbcdn.net *.facebook.net *.spotilocal.com:* https://*.akamaihd.net ws://*.facebook.com:* http://*.akamaihd.net https://fb.scanandcleanlocal.com:* *.atlassolutions.com http://attachment.fbsbx.com https://attachment.fbsbx.com;
+X-XSS-Protection: 0
+X-Content-Type-Options: nosniff
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F%3Fref%3Dpf; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F%3Fref%3Dpf; path=/; domain=.facebook.com
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie: datr=OXl7U6Eb3uzhDmPD1mqgR5NG; expires=Thu, 19-May-2016 15:48:09 GMT; path=/; domain=.facebook.com; httponly
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: 526pVqRB2nucb1yt56tXdlz3lGddakrJS0T7YRYcymI=
+Date: Tue, 20 May 2014 15:48:09 GMT
+Connection: close
+

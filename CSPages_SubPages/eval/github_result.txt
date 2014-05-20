@@ -1,0 +1,284 @@
+1: http://www.github.com
+Server: GitHub.com
+Date: Tue, 20 May 2014 15:48:48 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Status: 200 OK
+Cache-Control: private, max-age=0, must-revalidate
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: deny
+Content-Security-Policy: default-src *; script-src https://assets-cdn.github.com https://ssl.google-analytics.com https://collector-cdn.github.com; style-src 'self' 'unsafe-inline' 'unsafe-eval' https://assets-cdn.github.com; object-src https://assets-cdn.github.com
+Vary: X-PJAX
+Set-Cookie: logged_in=no; domain=.github.com; path=/; expires=Sat, 20-May-2034 15:48:48 GMT; secure; HttpOnly
+Set-Cookie: _gh_sess=eyJzZXNzaW9uX2lkIjoiZWE0OTM2MzU0M2IxZWJiNzZiMzVhZWIwZWU3ODUwZWUiLCJfY3NyZl90b2tlbiI6InRrRlFoRmwya0N5MXJITXF2WXBUcnRmTTFla2t1eWdyOUp4VUJtOXJ5ZWM9In0%3D--ee82e7a547351339e238600169692e59e68d5be0; path=/; secure; HttpOnly
+ETag: "e84e94a775486cc41a1607a219e55691"
+Content-Length: 15461
+X-GitHub-Request-Id: A57C8142:271F:10909DC:537B7960
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Vary: Accept-Encoding
+X-Served-By: 7cc969f65c7ec8d9db2fa57dcc51d323
+
+2: https://github.com/fluidicon.png
+Server: GitHub.com
+Date: Tue, 20 May 2014 15:48:48 GMT
+Content-Type: image/png
+Content-Length: 40976
+Last-Modified: Fri, 16 Aug 2013 09:41:33 GMT
+Connection: close
+Vary: Accept-Encoding
+X-Served-By: 353c3e3783cd5fa717715b8bdf83c23b
+Accept-Ranges: bytes
+
+5: https://github.com/
+Server: GitHub.com
+Date: Tue, 20 May 2014 15:48:49 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Status: 200 OK
+Cache-Control: private, max-age=0, must-revalidate
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: deny
+Content-Security-Policy: default-src *; script-src https://assets-cdn.github.com https://ssl.google-analytics.com https://collector-cdn.github.com; style-src 'self' 'unsafe-inline' 'unsafe-eval' https://assets-cdn.github.com; object-src https://assets-cdn.github.com
+Vary: X-PJAX
+Set-Cookie: logged_in=no; domain=.github.com; path=/; expires=Sat, 20-May-2034 15:48:49 GMT; secure; HttpOnly
+Set-Cookie: _gh_sess=eyJzZXNzaW9uX2lkIjoiZDQ1YzE1NTIzMjhjYTJhN2I3N2Q2ZmI2MzFlYzdhNDEiLCJfY3NyZl90b2tlbiI6InFwRy9meXpkaVB5Z2IvRnhBb1NwSmh6MS9NRmVqZEFiazFQdTFacXMwaDg9In0%3D--918a621f27dd1028612df17843927725743cd674; path=/; secure; HttpOnly
+ETag: "71f5292cb32e250edb67f297c1aafcd6"
+Content-Length: 15454
+X-GitHub-Request-Id: A57C8142:2720:16559D0:537B7961
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Vary: Accept-Encoding
+X-Served-By: b9c2a2d2339d471239b174dbbc6d8be2
+
+6: https://enterprise.github.com/
+Server: GitHub.com
+Date: Tue, 20 May 2014 15:48:50 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Length: 8106
+ETag: "72e2910baac9504db5caa735c3f31cd5"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: _enterprise_web=K2N6RTNGL1R3OUlFU2V4TFdXTEVXSUhXak5jTmNSTHg4NlpkMHY3Y0JGckZteDVBcGJlT1FnYlRUNGNDSjVXWmpYQkw4RjQ5bEhOUlkyWlJxQmc4VzhwamFZYjZTWnRtaEJ3MEFiWi9vMkwySzdnRmlmbmlwV3o1RVkwWHJPS0U2SVZpVXNqVHNEaFoydlNyanJQN21ocERaQ2ZPSlRSdzFmWkQvait5MzdaSXFaT01BcXhZWERtQmRxd0RqRFFOLS1sdFJXcDY4d3czdm9hM2Y1SHFNUGZRPT0%3D--8633aaf83146b33811a994c79024c85bcb4e5965; path=/; expires=Thu, 19 Jun 2014 15:48:50 -0000; secure; HttpOnly
+X-Request-Id: 2af1f21e-42a2-423d-bfb8-812bf0d2a5a1
+X-Runtime: 0.058250
+Timing-Allow-Origin: https://github.com
+Strict-Transport-Security: max-age=31536000
+
+7: https://help.github.com/terms
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: text/html; charset=utf-8
+Date: Tue, 20 May 2014 15:48:51 GMT
+Etag: "c131c5642c3b1b0a26ed68515a79d87b"
+Set-Cookie: _help_session=WVM4eU9lbXU5cG1lMUwvNjFGTTM2Y2hnU2g5ZVROdVV3M0c2WnNFakJnQWFuV1VCemRTYmQyakVJbWhiS0tLR1dpNU51Z0ZjMlJJS0x6TVI1V0c3blNFZnlzbThtc1Rzb2ZVSXlETlVVdmNQYkZ3azdQcklmbVJieHpiRTc1QVRzanhjTnFCVGRsUmg2c2UySVpvM2ZneXR2QWFibk9NaTFOUUErTFZsbkRXMTFzMHBvV3h5bm1JcGhWTlhGcjhGLS03bUIrK0w1aHozZFlpc0p5MGZjVW93PT0%3D--c251b88c261b3aad72e2d716158014bd2522fa98; path=/; expires=Mon, 20 May 2024 15:48:51 -0000; secure; HttpOnly
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Request-Id: 808d8c78-d8ec-4d30-b0f8-c677bf59c95b
+X-Runtime: 0.193738
+X-Xss-Protection: 1; mode=block
+Content-Length: 21292
+Connection: Close
+
+8: https://help.github.com/privacy
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: text/html; charset=utf-8
+Date: Tue, 20 May 2014 15:48:52 GMT
+Etag: "7317c7f3185b04eded62feae98c79a3e"
+Set-Cookie: _help_session=MmE2RGZISWFqUWxiSnIxa0tKczBwMGF1aUw3R1l2azUrRFVHbGdqVjd0Q1pjUi90YUR6Z256T2M3Y1I0VlZpeVZOeityRTFjMEFndU41a0hZYVY3aVlmcjhLcEtmQjVtc0lhQnlTcWdCUXBFdzVmOTI1WHZYWkw4ektvcVRKOUdrYnBGd2lKV1A1dnVQaWpvdGNwZVpsNGNhU3N4Y2JQMVhCaURnYmsxSVZKN09hOHY3c3pJOUxvUE1SNEUvS1h1LS0xdnY0MXM2Y3JSdWhOdjhRMEsrT1V3PT0%3D--1bbd382a1619cbf8261e6bf5295191aed350e8ae; path=/; expires=Mon, 20 May 2024 15:48:52 -0000; secure; HttpOnly
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Request-Id: a241c2e1-22bb-4bad-95f2-526be4da7c34
+X-Runtime: 0.275052
+X-Xss-Protection: 1; mode=block
+Content-Length: 10688
+Connection: Close
+
+9: http://github.com/explore
+Server: GitHub.com
+Date: Tue, 20 May 2014 15:48:52 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Status: 200 OK
+Cache-Control: private, max-age=0, must-revalidate
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: deny
+Content-Security-Policy: default-src *; script-src https://assets-cdn.github.com https://ssl.google-analytics.com https://collector-cdn.github.com; style-src 'self' 'unsafe-inline' 'unsafe-eval' https://assets-cdn.github.com; object-src https://assets-cdn.github.com
+Vary: X-PJAX
+Set-Cookie: logged_in=no; domain=.github.com; path=/; expires=Sat, 20-May-2034 15:48:52 GMT; secure; HttpOnly
+Set-Cookie: _gh_sess=eyJzZXNzaW9uX2lkIjoiNDg2NTBkOGMwN2E0OTMwZWUyNjg0ZDUxMGViMDdiM2QiLCJfY3NyZl90b2tlbiI6ImVaeVVPeUR1OUN2TjZIbnU4TE1oVlZvRjNSTW9wSFdmOVUxekxWTUpOcEE9In0%3D--c6f21417288f45a6cfb8bf855f3b8dcd88a185df; path=/; secure; HttpOnly
+ETag: "84f7dcfa85a6fe751be56ca024bea81c"
+Content-Length: 131754
+X-GitHub-Request-Id: A57C8142:271E:ADE0DD:537B7964
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Vary: Accept-Encoding
+X-Served-By: f0ee042be143fcba78041fc2f69c0aa7
+
+10: https://central.github.com/mac/latest
+x-amz-id-2: LwenHQYrv+4HfJpSlM45DlGG3k4nM3poq2IXroVZVaLmu/25g3+cw4Ij2DnNDhD6
+x-amz-request-id: 256DFB4F68AB6B87
+Date: Tue, 20 May 2014 15:48:54 GMT
+Last-Modified: Fri, 16 May 2014 19:48:25 GMT
+ETag: "5a0dc115ce593273a39e88f52515136d"
+Accept-Ranges: bytes
+Content-Type: application/zip
+Content-Length: 28282683
+Connection: close
+Server: AmazonS3
+
+11: http://mac.github.com
+Date: Tue, 20 May 2014 15:48:53 GMT
+Server: GitHub.com
+Content-Type: text/html; charset=utf-8
+Last-Modified: Thu, 13 Feb 2014 17:17:57 GMT
+Expires: Tue, 20 May 2014 15:58:53 GMT
+Cache-Control: max-age=600
+Content-Length: 4205
+Accept-Ranges: bytes
+Via: 1.1 varnish
+Age: 0
+X-Served-By: cache-d96-DAL
+X-Cache: MISS
+X-Cache-Hits: 0
+Vary: Accept-Encoding
+Connection: close
+
+12: http://windows.github.com
+Date: Tue, 20 May 2014 15:48:53 GMT
+Server: GitHub.com
+Content-Type: text/html; charset=utf-8
+Last-Modified: Wed, 16 Apr 2014 20:14:39 GMT
+Expires: Tue, 20 May 2014 15:56:27 GMT
+Cache-Control: max-age=600
+Content-Length: 4934
+Accept-Ranges: bytes
+Via: 1.1 varnish
+Age: 146
+X-Served-By: cache-d98-DAL
+X-Cache: HIT
+X-Cache-Hits: 1
+Vary: Accept-Encoding
+Connection: close
+
+13: http://eclipse.github.com
+Server: GitHub.com
+Content-Type: text/html; charset=utf-8
+Last-Modified: Tue, 11 Feb 2014 01:43:21 GMT
+Expires: Tue, 20 May 2014 15:58:54 GMT
+Cache-Control: max-age=600
+Content-Length: 9142
+Accept-Ranges: bytes
+Date: Tue, 20 May 2014 15:48:54 GMT
+Via: 1.1 varnish
+Age: 0
+Connection: close
+X-Served-By: cache-d64-DAL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1400600934.065734148,VS0,VE35
+Vary: Accept-Encoding
+
+14: https://enterprise.github.com
+Server: GitHub.com
+Date: Tue, 20 May 2014 15:48:54 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Length: 8106
+ETag: "35ddfcec3b214e26d96150069e350c89"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: _enterprise_web=YS9QeHhRZ2t2cys1emFHd0YwRHd6b1NhckVCOStsbDlTazk4c0NaM21HbC9wVkNGajV2bnV4cnhZeUplWEMvOTFOWEkzbkRLcWJxdEFTTUVOa0tmRUFIK1dpRUJvazYvRDNpV2pPMGZDUVFCMlRIVnFjQk9XcUhsSWFMVDRxa3hCN1A1bTVmd1hKQmFwWGZpSVZTZnZDaURtYVd4MnFnVU9MQTlZNWZBdi91aUZ1c0thYmJPOWFIL01zejg3MDkxLS1HcG9xaHhsOVI4YnBPSlBodFYzM0lBPT0%3D--334806c3d1a4dd3033c12e33d02e2e26a4117fbb; path=/; expires=Thu, 19 Jun 2014 15:48:54 -0000; secure; HttpOnly
+X-Request-Id: 5f88f27e-579a-477e-b0a8-c2fee6363ca9
+X-Runtime: 0.053786
+Timing-Allow-Origin: https://github.com
+Strict-Transport-Security: max-age=31536000
+
+15: https://status.github.com/
+Server: GitHub.com
+Date: Tue, 20 May 2014 15:48:54 GMT
+Content-Type: text/html
+Connection: close
+Status: 200 OK
+Content-Length: 70831
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: rack.session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRiJFNGE0Nzg4YmJmMDI4ZjI2M2NmMmE4%0AZjY2MzVhOWVmY2ZiZjM3NzBlYjhhNWVjZGQyYTBmYWI2NjI4NDRhZmU0ZUki%0ADXRyYWNraW5nBjsARnsISSIUSFRUUF9VU0VSX0FHRU5UBjsARiItZjk0MTU2%0AMTg2NDExMTJmNjI2YjJiNjkxYTI5NmEzNjc1YWFiYTNjYkkiGUhUVFBfQUND%0ARVBUX0VOQ09ESU5HBjsARiItMWRiMDg5YTlmODRlMTRlOTVmMTFkY2I1YzU3%0AZmExMGQ2MGFhODRiYkkiGUhUVFBfQUNDRVBUX0xBTkdVQUdFBjsARiItZGEz%0AOWEzZWU1ZTZiNGIwZDMyNTViZmVmOTU2MDE4OTBhZmQ4MDcwOQ%3D%3D%0A--889405900ae284bda9088aea2c25966a07e3917f; path=/; HttpOnly
+X-OctoStatus-Request-Id: cf8bf5a3-722d-4527-a831-3fb570fdd01a
+Timing-Allow-Origin: https://github.com
+Strict-Transport-Security: max-age=31536000
+
+16: http://developer.github.com
+Date: Tue, 20 May 2014 15:48:54 GMT
+Server: GitHub.com
+Content-Type: text/html; charset=utf-8
+Last-Modified: Mon, 19 May 2014 22:21:07 GMT
+Expires: Tue, 20 May 2014 15:47:32 GMT
+Cache-Control: max-age=600
+Content-Length: 5300
+Accept-Ranges: bytes
+Via: 1.1 varnish
+Age: 683
+X-Served-By: cache-d46-DAL
+X-Cache: MISS
+X-Cache-Hits: 0
+Vary: Accept-Encoding
+Connection: close
+
+17: http://training.github.com
+Server: GitHub.com
+Content-Type: text/html; charset=utf-8
+Last-Modified: Mon, 19 May 2014 19:33:58 GMT
+Expires: Tue, 20 May 2014 15:58:55 GMT
+Cache-Control: max-age=600
+Content-Length: 13380
+Accept-Ranges: bytes
+Date: Tue, 20 May 2014 15:48:55 GMT
+Via: 1.1 varnish
+Age: 0
+Connection: close
+X-Served-By: cache-d98-DAL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1400600935.149290085,VS0,VE35
+Vary: Accept-Encoding
+
+18: http://shop.github.com
+Server: nginx
+Date: Tue, 20 May 2014 15:48:55 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+Status: 200 OK
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-UA-Compatible: chrome=1
+X-ShopId: 514802
+X-ShardId: 0
+X-Stats-Unique-Token: 61fbbc23c856c8134f9778843d5c0e6f205dfffe658ecfae13c7cddc7194beb1
+X-Stats-Visit-Token: 825d5f6b4b3320c495d5f638f765eac1d40e27d2d2b7b0d19ea3c8cbcdfbb5b0
+ETag: cacheable:bbfe271275d5d53696b2ae6be921d62c
+X-Alternate-Cache-Key: cacheable:4c98049c1b6dcddda3bfd37805625fe2
+X-Cache: hit, server
+Set-Cookie: _shopify_y=61fbbc23c856c8134f9778843d5c0e6f205dfffe658ecfae13c7cddc7194beb1; path=/; expires=Sat, 20 May 2034 15:48:55 -0000
+Set-Cookie: _shopify_s=825d5f6b4b3320c495d5f638f765eac1d40e27d2d2b7b0d19ea3c8cbcdfbb5b0; path=/; expires=Tue, 20 May 2014 16:18:55 -0000
+Set-Cookie: cacheable_token=f0d1c5e2-d1cf-4271-a43e-3401533eaa68; path=/; expires=Sat, 20 May 2034 15:48:55 -0000; HttpOnly
+Set-Cookie: request_method=GET; path=/
+Set-Cookie: _session_id=468be20805320196908e29b081c31d37; path=/; HttpOnly
+X-Request-Id: 63fb177a-14b7-463e-be08-7b6edf5a2f9a
+P3P: CP="NOI DSP COR NID ADMa OPTa OUR NOR"
+

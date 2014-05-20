@@ -1,0 +1,48 @@
+1: http://www.searchfunmoods.com
+Server: nginx
+Date: Tue, 20 May 2014 15:55:04 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: fm=YT0mdXJlZj0mY2Q9JmNyPSY%3D; expires=Thu, 19-Jun-2014 15:55:04 GMT
+Set-Cookie: fm_language=en; expires=Thu, 19-Jun-2014 15:55:04 GMT
+Cache-Control: max-age=86400
+Expires: Wed, 21 May 2014 15:55:04 GMT
+X-Content-Security-Policy: default-src *; script-src 'self' http://www.google-analytics.com http://suggest.infospace.com http://api.autocompleteplus.com http://www.googletagservices.com  http://d.yimg.com https://completr.appspot.com; frame-src 'self'  http://*.yhs4.search.yahoo.com  http://ad.adserver-pro.net; font-src 'none' ; connect-src 'self'; media-src 'self'; object-src 'none'; style-src 'self' ;
+Content-Security-Policy: default-src *; script-src 'self' http://www.google-analytics.com http://suggest.infospace.com http://api.autocompleteplus.com http://www.googletagservices.com  http://d.yimg.com https://completr.appspot.com; frame-src 'self'  http://*.yhs4.search.yahoo.com  http://ad.adserver-pro.net; font-src 'none' ; connect-src 'self'; media-src 'self'; object-src 'none'; style-src 'self' ;
+X-WebKit-CSP: default-src *; script-src 'self' http://www.google-analytics.com http://suggest.infospace.com http://api.autocompleteplus.com http://www.googletagservices.com  http://d.yimg.com https://completr.appspot.com; frame-src 'self'  http://*.yhs4.search.yahoo.com  http://ad.adserver-pro.net; font-src 'none' ; connect-src 'self'; media-src 'self'; object-src 'none'; style-src 'self' ;
+
+2: http://games.funmoods.com/
+Content-Type: text/html
+Date: Tue, 20 May 2014 15:55:04 GMT
+Vary: Accept-Encoding
+transfer-encoding: chunked
+Connection: Close
+
+3: http://funmoods.com/about
+Server: nginx/1.0.10
+Date: Tue, 20 May 2014 15:55:04 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+X-Powered-By: PHP/5.3.7RC3
+
+4: http://funmoods.com/privacypolicy
+Server: nginx/1.0.10
+Date: Tue, 20 May 2014 15:55:04 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+X-Powered-By: PHP/5.3.7RC3
+
+5: http://support.funmoods.com/customer/portal/emails/new?customer[custom_affiliate]=
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: text/html; charset=utf-8
+Date: Tue, 20 May 2014 15:55:06 GMT
+Set-Cookie: _assistly_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFVEkiJWU5ZTQ5NTBjOWFkZjg2NzI4OGM2OWQ2OTg5N2Q2MGY3BjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXJEQ08yalVJcDNxcUZaTEtEUTdTb1dweWlNc1VsQXJvNlRwYUprQWM5bjg9BjsARkkiDHJjY19lcnIGOwBGSSIABjsAVA%3D%3D--147d4de412b6e21de0eba79c597c82bca5ef4241; path=/; HttpOnly
+Status: 200 OK
+Vary: Accept-Encoding
+X-Request-Id: 4f4ce85ea28e489cd389f831b6c0f8a7
+transfer-encoding: chunked
+Connection: Close
+

@@ -1,0 +1,497 @@
+1: http://www.dnb.no
+connection: close
+content-language: en-US
+content-type: text/html;charset=UTF-8
+date: Tue, 20 May 2014 15:47:05 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+cache-control: no-cache, no-store, must-revalidate
+was7: true
+content-security-policy: default-src 'self' *.bbs.no *.dnb.no *.dnb.se *.dnb.sg *.edb.com *.bankid.no themes.googleusercontent.com ssl.google-analytics.com fonts.googleapis.com csi.gstatic.com http://finncdn.no *.investtech.com *.morningstar.com *.qbrick.com adserver.adtech.de b2b.edb.com nettbankdrift.edb.com *.nets.no bedriftservice.no bilfinansonline.se carporten.dnbfinans.se carporten.nu connect.facebook.net designer.tagmycard.com dev.participant.com dnb.socialcee.com dnbnor.bankavstemming.no dnbnor.easycruit.com dnbnor.enterprisebanker.com dnbnorfeed.com www.deltager.no www.dnbfinans.net fidstest.dnbfinans.no get.adobe.com innbo.livesite.no itunes.apple.com ajax.googleapis.com googleads.g.doubleclick.net mts.googleapis.com mts0.googleapis.com mts1.googleapis.com maps-api-ssl.google.com maps.googleapis.com maps.gstatic.com plus.google.com apis.google.com www.google.no www.googleadservices.com new.livestream.com thomsonreuters.com tools.euroland.com track.adform.net *.easyresearch.se webcastclients.s3.amazonaws.com www.adobe.com www.euroland.com www.newsweb.no www.nordic-online.net www.nordlandsbanken.no www.sandnes-sparebank.no www.slideshare.net www.soliditet.no www.ssf.no www.youtube.com www.youtube-nocookie.com www2.anleger-fernsehen.de wss://*.dnb.no wss://*.edb.com labeladmin.carporten.nu code.jquery.com no.bankid.app://* data: chrome-extension: chromeinvoke: chromeinvokeimmediate: chromenull: 'unsafe-inline' 'unsafe-eval'; media-src 'self' *.dnb.no *.youtube.com:* *.vimeo.com:*; font-src 'self' themes.googleusercontent.com; report-uri https://www.dnb.no/portalfront/csp/cspreportlog.php
+strict-transport-security: max-age=31536000; includeSubDomains
+pragma: no-cache
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: NorSegdOpSites1SessionID=00005rdQfEJrX7tLur7FePuyo1n:FYkrvozT; Path=/
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22bb312292-457b-45ad-b69f-e2484f8ae4fc%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:04 GMT; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22bb312292-457b-45ad-b69f-e2484f8ae4fc%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:04 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22bb312292-457b-45ad-b69f-e2484f8ae4fc%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:04 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22bb312292-457b-45ad-b69f-e2484f8ae4fc%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:04 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22bb312292-457b-45ad-b69f-e2484f8ae4fc%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:04 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%2C%22usercontext%22%3A%22rolecustomer%3DnotCustomer%3Alocation_region%3DILLINOIS%3Alocation_city%3DCHICAGO%3Alocation_country%3DUS%3A%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: deviceInfo=""; Path=/; Secure
+Set-Cookie: dnbnorsession=DNB_NO-24DA4D781799E6CCE94AA12F4503A86A; Path=/; Secure
+Set-Cookie: dnbnorlanguage=EN; Path=/; Secure
+
+2: https://www.dnb.no/?la=NO&site=DNB_NO
+connection: close
+content-language: en-US
+content-type: text/html;charset=UTF-8
+date: Tue, 20 May 2014 15:47:06 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+cache-control: no-cache, no-store, must-revalidate
+was7: true
+content-security-policy: default-src 'self' *.bbs.no *.dnb.no *.dnb.se *.dnb.sg *.edb.com *.bankid.no themes.googleusercontent.com ssl.google-analytics.com fonts.googleapis.com csi.gstatic.com http://finncdn.no *.investtech.com *.morningstar.com *.qbrick.com adserver.adtech.de b2b.edb.com nettbankdrift.edb.com *.nets.no bedriftservice.no bilfinansonline.se carporten.dnbfinans.se carporten.nu connect.facebook.net designer.tagmycard.com dev.participant.com dnb.socialcee.com dnbnor.bankavstemming.no dnbnor.easycruit.com dnbnor.enterprisebanker.com dnbnorfeed.com www.deltager.no www.dnbfinans.net fidstest.dnbfinans.no get.adobe.com innbo.livesite.no itunes.apple.com ajax.googleapis.com googleads.g.doubleclick.net mts.googleapis.com mts0.googleapis.com mts1.googleapis.com maps-api-ssl.google.com maps.googleapis.com maps.gstatic.com plus.google.com apis.google.com www.google.no www.googleadservices.com new.livestream.com thomsonreuters.com tools.euroland.com track.adform.net *.easyresearch.se webcastclients.s3.amazonaws.com www.adobe.com www.euroland.com www.newsweb.no www.nordic-online.net www.nordlandsbanken.no www.sandnes-sparebank.no www.slideshare.net www.soliditet.no www.ssf.no www.youtube.com www.youtube-nocookie.com www2.anleger-fernsehen.de wss://*.dnb.no wss://*.edb.com labeladmin.carporten.nu code.jquery.com no.bankid.app://* data: chrome-extension: chromeinvoke: chromeinvokeimmediate: chromenull: 'unsafe-inline' 'unsafe-eval'; media-src 'self' *.dnb.no *.youtube.com:* *.vimeo.com:*; font-src 'self' themes.googleusercontent.com; report-uri https://www.dnb.no/portalfront/csp/cspreportlog.php
+strict-transport-security: max-age=31536000; includeSubDomains
+pragma: no-cache
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: NorSegdOpSites1SessionID=0000-FGcahHOaPxXf2JFMStMR4P:iZdrDmRS; Path=/
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22fa4aeb17-4798-4c6d-8831-fb5dd7f331f1%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:06 GMT; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22fa4aeb17-4798-4c6d-8831-fb5dd7f331f1%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:06 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DNO%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22fa4aeb17-4798-4c6d-8831-fb5dd7f331f1%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:06 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DNO%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22fa4aeb17-4798-4c6d-8831-fb5dd7f331f1%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:06 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DNO%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22fa4aeb17-4798-4c6d-8831-fb5dd7f331f1%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:06 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DNO%22%2C%22usercontext%22%3A%22rolecustomer%3DnotCustomer%3Alocation_region%3DILLINOIS%3Alocation_city%3DEVANSTON%3Alocation_country%3DUS%3A%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: deviceInfo=""; Path=/; Secure
+Set-Cookie: dnbnorsession=DNB_NO-A0AA23E1FAFC62D79C5FF56C9A887622; Path=/; Secure
+Set-Cookie: dnbnorlanguage=NO; Path=/; Secure
+
+3: https://www.dnb.no/?la=EN&site=DNB_NO
+connection: close
+content-language: en-US
+content-type: text/html;charset=UTF-8
+date: Tue, 20 May 2014 15:47:08 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+cache-control: no-cache, no-store, must-revalidate
+was7: true
+content-security-policy: default-src 'self' *.bbs.no *.dnb.no *.dnb.se *.dnb.sg *.edb.com *.bankid.no themes.googleusercontent.com ssl.google-analytics.com fonts.googleapis.com csi.gstatic.com http://finncdn.no *.investtech.com *.morningstar.com *.qbrick.com adserver.adtech.de b2b.edb.com nettbankdrift.edb.com *.nets.no bedriftservice.no bilfinansonline.se carporten.dnbfinans.se carporten.nu connect.facebook.net designer.tagmycard.com dev.participant.com dnb.socialcee.com dnbnor.bankavstemming.no dnbnor.easycruit.com dnbnor.enterprisebanker.com dnbnorfeed.com www.deltager.no www.dnbfinans.net fidstest.dnbfinans.no get.adobe.com innbo.livesite.no itunes.apple.com ajax.googleapis.com googleads.g.doubleclick.net mts.googleapis.com mts0.googleapis.com mts1.googleapis.com maps-api-ssl.google.com maps.googleapis.com maps.gstatic.com plus.google.com apis.google.com www.google.no www.googleadservices.com new.livestream.com thomsonreuters.com tools.euroland.com track.adform.net *.easyresearch.se webcastclients.s3.amazonaws.com www.adobe.com www.euroland.com www.newsweb.no www.nordic-online.net www.nordlandsbanken.no www.sandnes-sparebank.no www.slideshare.net www.soliditet.no www.ssf.no www.youtube.com www.youtube-nocookie.com www2.anleger-fernsehen.de wss://*.dnb.no wss://*.edb.com labeladmin.carporten.nu code.jquery.com no.bankid.app://* data: chrome-extension: chromeinvoke: chromeinvokeimmediate: chromenull: 'unsafe-inline' 'unsafe-eval'; media-src 'self' *.dnb.no *.youtube.com:* *.vimeo.com:*; font-src 'self' themes.googleusercontent.com; report-uri https://www.dnb.no/portalfront/csp/cspreportlog.php
+strict-transport-security: max-age=31536000; includeSubDomains
+pragma: no-cache
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: NorSegdOpSites1SessionID=0000OMAoMgKl8wp5AzQbLtSMvlC:4Zdewnkm; Path=/
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%2222dc9985-881a-4ac1-baff-99fd0b30113c%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:08 GMT; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%2222dc9985-881a-4ac1-baff-99fd0b30113c%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:08 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%2222dc9985-881a-4ac1-baff-99fd0b30113c%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:08 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%2222dc9985-881a-4ac1-baff-99fd0b30113c%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:08 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%2222dc9985-881a-4ac1-baff-99fd0b30113c%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:08 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%2C%22usercontext%22%3A%22rolecustomer%3DnotCustomer%3Alocation_region%3DILLINOIS%3Alocation_city%3DCHICAGO%3Alocation_country%3DUS%3A%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: deviceInfo=""; Path=/; Secure
+Set-Cookie: dnbnorsession=DNB_NO-DB0F5AB241B057029EA52B09F82E3746; Path=/; Secure
+Set-Cookie: dnbnorlanguage=EN; Path=/; Secure
+
+4: https://www.dnb.no/?la=DA&site=DNB_DK
+connection: close
+content-language: en-US
+content-type: text/html;charset=UTF-8
+date: Tue, 20 May 2014 15:47:10 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+x-old-content-length: 21909
+cache-control: no-cache, no-store, must-revalidate
+was7: true
+content-security-policy: default-src 'self' *.bbs.no *.dnb.no *.dnb.se *.dnb.sg *.edb.com *.bankid.no themes.googleusercontent.com ssl.google-analytics.com fonts.googleapis.com csi.gstatic.com http://finncdn.no *.investtech.com *.morningstar.com *.qbrick.com adserver.adtech.de b2b.edb.com nettbankdrift.edb.com *.nets.no bedriftservice.no bilfinansonline.se carporten.dnbfinans.se carporten.nu connect.facebook.net designer.tagmycard.com dev.participant.com dnb.socialcee.com dnbnor.bankavstemming.no dnbnor.easycruit.com dnbnor.enterprisebanker.com dnbnorfeed.com www.deltager.no www.dnbfinans.net fidstest.dnbfinans.no get.adobe.com innbo.livesite.no itunes.apple.com ajax.googleapis.com googleads.g.doubleclick.net mts.googleapis.com mts0.googleapis.com mts1.googleapis.com maps-api-ssl.google.com maps.googleapis.com maps.gstatic.com plus.google.com apis.google.com www.google.no www.googleadservices.com new.livestream.com thomsonreuters.com tools.euroland.com track.adform.net *.easyresearch.se webcastclients.s3.amazonaws.com www.adobe.com www.euroland.com www.newsweb.no www.nordic-online.net www.nordlandsbanken.no www.sandnes-sparebank.no www.slideshare.net www.soliditet.no www.ssf.no www.youtube.com www.youtube-nocookie.com www2.anleger-fernsehen.de wss://*.dnb.no wss://*.edb.com labeladmin.carporten.nu code.jquery.com no.bankid.app://* data: chrome-extension: chromeinvoke: chromeinvokeimmediate: chromenull: 'unsafe-inline' 'unsafe-eval'; media-src 'self' *.dnb.no *.youtube.com:* *.vimeo.com:*; font-src 'self' themes.googleusercontent.com; report-uri https://www.dnb.no/portalfront/csp/cspreportlog.php
+strict-transport-security: max-age=31536000; includeSubDomains
+pragma: no-cache
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: NorSegdOpSites1SessionID=0000rYDL2d1J3kZwVsJYRw2K6qw:4Zdewnkm; Path=/
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%223f3adb73-5f7d-400d-8ca6-f19644bfaf80%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:10 GMT; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%223f3adb73-5f7d-400d-8ca6-f19644bfaf80%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:10 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_DK%3DDA%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%223f3adb73-5f7d-400d-8ca6-f19644bfaf80%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:10 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_DK%3DDA%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%223f3adb73-5f7d-400d-8ca6-f19644bfaf80%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:10 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_DK%3DDA%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%223f3adb73-5f7d-400d-8ca6-f19644bfaf80%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:10 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_DK%3DDA%22%2C%22usercontext%22%3A%22rolecustomer%3DnotCustomer%3Alocation_region%3DILLINOIS%3Alocation_city%3DCHICAGO%3Alocation_country%3DUS%3A%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: deviceInfo=""; Path=/; Secure
+Set-Cookie: dnbnorsession=DNB_DK-B69FB1355BFFA3B79FD0943C3FB22668; Path=/; Secure
+Set-Cookie: dnbnor_dk_language=DA; Path=/; Secure
+
+5: https://www.dnb.se/?la=SV&site=DNB_SE
+connection: close
+content-language: en-US
+content-type: text/html;charset=UTF-8
+date: Tue, 20 May 2014 15:47:13 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+x-old-content-length: 31578
+cache-control: no-cache, no-store, must-revalidate
+was7: true
+content-security-policy: default-src 'self' *.bbs.no *.dnb.no *.dnb.se *.dnb.sg *.edb.com *.bankid.no themes.googleusercontent.com ssl.google-analytics.com fonts.googleapis.com csi.gstatic.com http://finncdn.no *.investtech.com *.morningstar.com *.qbrick.com adserver.adtech.de b2b.edb.com nettbankdrift.edb.com *.nets.no bedriftservice.no bilfinansonline.se carporten.dnbfinans.se carporten.nu connect.facebook.net designer.tagmycard.com dev.participant.com dnb.socialcee.com dnbnor.bankavstemming.no dnbnor.easycruit.com dnbnor.enterprisebanker.com dnbnorfeed.com www.deltager.no www.dnbfinans.net fidstest.dnbfinans.no get.adobe.com innbo.livesite.no itunes.apple.com ajax.googleapis.com googleads.g.doubleclick.net mts.googleapis.com mts0.googleapis.com mts1.googleapis.com maps-api-ssl.google.com maps.googleapis.com maps.gstatic.com plus.google.com apis.google.com www.google.no www.googleadservices.com new.livestream.com thomsonreuters.com tools.euroland.com track.adform.net *.easyresearch.se webcastclients.s3.amazonaws.com www.adobe.com www.euroland.com www.newsweb.no www.nordic-online.net www.nordlandsbanken.no www.sandnes-sparebank.no www.slideshare.net www.soliditet.no www.ssf.no www.youtube.com www.youtube-nocookie.com www2.anleger-fernsehen.de wss://*.dnb.no wss://*.edb.com labeladmin.carporten.nu code.jquery.com no.bankid.app://* data: chrome-extension: chromeinvoke: chromeinvokeimmediate: chromenull: 'unsafe-inline' 'unsafe-eval'; media-src 'self' *.dnb.no *.youtube.com:* *.vimeo.com:*; font-src 'self' themes.googleusercontent.com; report-uri https://www.dnb.no/portalfront/csp/cspreportlog.php
+strict-transport-security: max-age=31536000; includeSubDomains
+pragma: no-cache
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: NorSegdOpSites1SessionID=0000cIbmh3pHLdkAlAa-PIUfhgW:4Zdewnkm; Path=/
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22ad8f2d95-bcdc-42d4-b180-71b5ad2ab3e8%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:13 GMT; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22ad8f2d95-bcdc-42d4-b180-71b5ad2ab3e8%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:13 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_SE%3DSV%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22ad8f2d95-bcdc-42d4-b180-71b5ad2ab3e8%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:13 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_SE%3DSV%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22ad8f2d95-bcdc-42d4-b180-71b5ad2ab3e8%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:13 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_SE%3DSV%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22ad8f2d95-bcdc-42d4-b180-71b5ad2ab3e8%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:13 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_SE%3DSV%22%2C%22usercontext%22%3A%22rolecustomer%3DnotCustomer%3Alocation_region%3DILLINOIS%3Alocation_city%3DCHICAGO%3Alocation_country%3DUS%3A%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: deviceInfo=""; Path=/; Secure
+Set-Cookie: dnbnorsession=DNB_SE-2835550BAD6E95529F5B29B9A1240EE7; Path=/; Secure
+Set-Cookie: dnbnor_se_language=SV; Path=/; Secure
+
+6: https://www.dnb.no/?la=NO&site=DNB_LU
+connection: close
+content-language: en-US
+content-type: text/html;charset=UTF-8
+date: Tue, 20 May 2014 15:47:16 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+x-old-content-length: 21751
+cache-control: no-cache, no-store, must-revalidate
+was7: true
+content-security-policy: default-src 'self' *.bbs.no *.dnb.no *.dnb.se *.dnb.sg *.edb.com *.bankid.no themes.googleusercontent.com ssl.google-analytics.com fonts.googleapis.com csi.gstatic.com http://finncdn.no *.investtech.com *.morningstar.com *.qbrick.com adserver.adtech.de b2b.edb.com nettbankdrift.edb.com *.nets.no bedriftservice.no bilfinansonline.se carporten.dnbfinans.se carporten.nu connect.facebook.net designer.tagmycard.com dev.participant.com dnb.socialcee.com dnbnor.bankavstemming.no dnbnor.easycruit.com dnbnor.enterprisebanker.com dnbnorfeed.com www.deltager.no www.dnbfinans.net fidstest.dnbfinans.no get.adobe.com innbo.livesite.no itunes.apple.com ajax.googleapis.com googleads.g.doubleclick.net mts.googleapis.com mts0.googleapis.com mts1.googleapis.com maps-api-ssl.google.com maps.googleapis.com maps.gstatic.com plus.google.com apis.google.com www.google.no www.googleadservices.com new.livestream.com thomsonreuters.com tools.euroland.com track.adform.net *.easyresearch.se webcastclients.s3.amazonaws.com www.adobe.com www.euroland.com www.newsweb.no www.nordic-online.net www.nordlandsbanken.no www.sandnes-sparebank.no www.slideshare.net www.soliditet.no www.ssf.no www.youtube.com www.youtube-nocookie.com www2.anleger-fernsehen.de wss://*.dnb.no wss://*.edb.com labeladmin.carporten.nu code.jquery.com no.bankid.app://* data: chrome-extension: chromeinvoke: chromeinvokeimmediate: chromenull: 'unsafe-inline' 'unsafe-eval'; media-src 'self' *.dnb.no *.youtube.com:* *.vimeo.com:*; font-src 'self' themes.googleusercontent.com; report-uri https://www.dnb.no/portalfront/csp/cspreportlog.php
+strict-transport-security: max-age=31536000; includeSubDomains
+pragma: no-cache
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: NorSegdOpSites1SessionID=00001NSt1J0YqbrvDzBswukvCvI:FYkrvozT; Path=/
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22cd631f3a-faa0-4e69-af1e-cf0897c6b3de%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:15 GMT; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22cd631f3a-faa0-4e69-af1e-cf0897c6b3de%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:15 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_LU%3DNO%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22cd631f3a-faa0-4e69-af1e-cf0897c6b3de%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:15 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_LU%3DNO%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22cd631f3a-faa0-4e69-af1e-cf0897c6b3de%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:15 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_LU%3DNO%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22cd631f3a-faa0-4e69-af1e-cf0897c6b3de%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:15 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_LU%3DNO%22%2C%22usercontext%22%3A%22rolecustomer%3DnotCustomer%3Alocation_region%3DILLINOIS%3Alocation_city%3DCHICAGO%3Alocation_country%3DUS%3A%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: deviceInfo=""; Path=/; Secure
+Set-Cookie: dnbnorsession=DNB_LU-A96963FAB30FA2ECE88EC392E0ED1C69; Path=/; Secure
+Set-Cookie: dnbnor_lu_language=NO; Path=/; Secure
+
+7: https://www.dnb.no/?la=EN&site=DNB_LU
+connection: close
+content-language: en-US
+content-type: text/html;charset=UTF-8
+date: Tue, 20 May 2014 15:47:18 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+x-old-content-length: 21234
+cache-control: no-cache, no-store, must-revalidate
+was7: true
+content-security-policy: default-src 'self' *.bbs.no *.dnb.no *.dnb.se *.dnb.sg *.edb.com *.bankid.no themes.googleusercontent.com ssl.google-analytics.com fonts.googleapis.com csi.gstatic.com http://finncdn.no *.investtech.com *.morningstar.com *.qbrick.com adserver.adtech.de b2b.edb.com nettbankdrift.edb.com *.nets.no bedriftservice.no bilfinansonline.se carporten.dnbfinans.se carporten.nu connect.facebook.net designer.tagmycard.com dev.participant.com dnb.socialcee.com dnbnor.bankavstemming.no dnbnor.easycruit.com dnbnor.enterprisebanker.com dnbnorfeed.com www.deltager.no www.dnbfinans.net fidstest.dnbfinans.no get.adobe.com innbo.livesite.no itunes.apple.com ajax.googleapis.com googleads.g.doubleclick.net mts.googleapis.com mts0.googleapis.com mts1.googleapis.com maps-api-ssl.google.com maps.googleapis.com maps.gstatic.com plus.google.com apis.google.com www.google.no www.googleadservices.com new.livestream.com thomsonreuters.com tools.euroland.com track.adform.net *.easyresearch.se webcastclients.s3.amazonaws.com www.adobe.com www.euroland.com www.newsweb.no www.nordic-online.net www.nordlandsbanken.no www.sandnes-sparebank.no www.slideshare.net www.soliditet.no www.ssf.no www.youtube.com www.youtube-nocookie.com www2.anleger-fernsehen.de wss://*.dnb.no wss://*.edb.com labeladmin.carporten.nu code.jquery.com no.bankid.app://* data: chrome-extension: chromeinvoke: chromeinvokeimmediate: chromenull: 'unsafe-inline' 'unsafe-eval'; media-src 'self' *.dnb.no *.youtube.com:* *.vimeo.com:*; font-src 'self' themes.googleusercontent.com; report-uri https://www.dnb.no/portalfront/csp/cspreportlog.php
+strict-transport-security: max-age=31536000; includeSubDomains
+pragma: no-cache
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: NorSegdOpSites1SessionID=0000aeZ7n2HfOLG_BNf8ZQgy-zO:iZdrDmRS; Path=/
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22f3901b3b-d2b2-4b93-b072-62ae046bfe27%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:17 GMT; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22f3901b3b-d2b2-4b93-b072-62ae046bfe27%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:17 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_LU%3DEN%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22f3901b3b-d2b2-4b93-b072-62ae046bfe27%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:17 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_LU%3DEN%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22f3901b3b-d2b2-4b93-b072-62ae046bfe27%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:17 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_LU%3DEN%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22f3901b3b-d2b2-4b93-b072-62ae046bfe27%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:17 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_LU%3DEN%22%2C%22usercontext%22%3A%22rolecustomer%3DnotCustomer%3Alocation_region%3DILLINOIS%3Alocation_city%3DEVANSTON%3Alocation_country%3DUS%3A%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: deviceInfo=""; Path=/; Secure
+Set-Cookie: dnbnorsession=DNB_LU-76A1B2D5E32C9B7AA0F61E80CC15612A; Path=/; Secure
+Set-Cookie: dnbnor_lu_language=EN; Path=/; Secure
+
+8: https://www.dnb.no/?la=DE&site=DNB_LU
+connection: close
+content-language: en-US
+content-type: text/html;charset=UTF-8
+date: Tue, 20 May 2014 15:47:20 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+x-old-content-length: 18781
+cache-control: no-cache, no-store, must-revalidate
+was7: true
+content-security-policy: default-src 'self' *.bbs.no *.dnb.no *.dnb.se *.dnb.sg *.edb.com *.bankid.no themes.googleusercontent.com ssl.google-analytics.com fonts.googleapis.com csi.gstatic.com http://finncdn.no *.investtech.com *.morningstar.com *.qbrick.com adserver.adtech.de b2b.edb.com nettbankdrift.edb.com *.nets.no bedriftservice.no bilfinansonline.se carporten.dnbfinans.se carporten.nu connect.facebook.net designer.tagmycard.com dev.participant.com dnb.socialcee.com dnbnor.bankavstemming.no dnbnor.easycruit.com dnbnor.enterprisebanker.com dnbnorfeed.com www.deltager.no www.dnbfinans.net fidstest.dnbfinans.no get.adobe.com innbo.livesite.no itunes.apple.com ajax.googleapis.com googleads.g.doubleclick.net mts.googleapis.com mts0.googleapis.com mts1.googleapis.com maps-api-ssl.google.com maps.googleapis.com maps.gstatic.com plus.google.com apis.google.com www.google.no www.googleadservices.com new.livestream.com thomsonreuters.com tools.euroland.com track.adform.net *.easyresearch.se webcastclients.s3.amazonaws.com www.adobe.com www.euroland.com www.newsweb.no www.nordic-online.net www.nordlandsbanken.no www.sandnes-sparebank.no www.slideshare.net www.soliditet.no www.ssf.no www.youtube.com www.youtube-nocookie.com www2.anleger-fernsehen.de wss://*.dnb.no wss://*.edb.com labeladmin.carporten.nu code.jquery.com no.bankid.app://* data: chrome-extension: chromeinvoke: chromeinvokeimmediate: chromenull: 'unsafe-inline' 'unsafe-eval'; media-src 'self' *.dnb.no *.youtube.com:* *.vimeo.com:*; font-src 'self' themes.googleusercontent.com; report-uri https://www.dnb.no/portalfront/csp/cspreportlog.php
+strict-transport-security: max-age=31536000; includeSubDomains
+pragma: no-cache
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: NorSegdOpSites1SessionID=0000WKPRY9KAHN_AAaB6SYKvMlG:4Zdewnkm; Path=/
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%221b9b8eff-3999-4624-8823-27c65552c355%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:19 GMT; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%221b9b8eff-3999-4624-8823-27c65552c355%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:19 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_LU%3DDE%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%221b9b8eff-3999-4624-8823-27c65552c355%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:19 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_LU%3DDE%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%221b9b8eff-3999-4624-8823-27c65552c355%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:19 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_LU%3DDE%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%221b9b8eff-3999-4624-8823-27c65552c355%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:19 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_LU%3DDE%22%2C%22usercontext%22%3A%22rolecustomer%3DnotCustomer%3Alocation_region%3DILLINOIS%3Alocation_city%3DCHICAGO%3Alocation_country%3DUS%3A%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: deviceInfo=""; Path=/; Secure
+Set-Cookie: dnbnorsession=DNB_LU-E5D18B0645436BCD9DE36E7FD8F6F6E4; Path=/; Secure
+Set-Cookie: dnbnor_lu_language=DE; Path=/; Secure
+
+9: https://www.dnb.se/se/sv/markets.html?la=SV&site=DNB_SE
+connection: close
+content-language: en-US
+content-type: text/html;charset=UTF-8
+date: Tue, 20 May 2014 15:47:21 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+x-old-content-length: 30195
+cache-control: no-cache, no-store, must-revalidate
+was7: true
+content-security-policy: default-src 'self' *.bbs.no *.dnb.no *.dnb.se *.dnb.sg *.edb.com *.bankid.no themes.googleusercontent.com ssl.google-analytics.com fonts.googleapis.com csi.gstatic.com http://finncdn.no *.investtech.com *.morningstar.com *.qbrick.com adserver.adtech.de b2b.edb.com nettbankdrift.edb.com *.nets.no bedriftservice.no bilfinansonline.se carporten.dnbfinans.se carporten.nu connect.facebook.net designer.tagmycard.com dev.participant.com dnb.socialcee.com dnbnor.bankavstemming.no dnbnor.easycruit.com dnbnor.enterprisebanker.com dnbnorfeed.com www.deltager.no www.dnbfinans.net fidstest.dnbfinans.no get.adobe.com innbo.livesite.no itunes.apple.com ajax.googleapis.com googleads.g.doubleclick.net mts.googleapis.com mts0.googleapis.com mts1.googleapis.com maps-api-ssl.google.com maps.googleapis.com maps.gstatic.com plus.google.com apis.google.com www.google.no www.googleadservices.com new.livestream.com thomsonreuters.com tools.euroland.com track.adform.net *.easyresearch.se webcastclients.s3.amazonaws.com www.adobe.com www.euroland.com www.newsweb.no www.nordic-online.net www.nordlandsbanken.no www.sandnes-sparebank.no www.slideshare.net www.soliditet.no www.ssf.no www.youtube.com www.youtube-nocookie.com www2.anleger-fernsehen.de wss://*.dnb.no wss://*.edb.com labeladmin.carporten.nu code.jquery.com no.bankid.app://* data: chrome-extension: chromeinvoke: chromeinvokeimmediate: chromenull: 'unsafe-inline' 'unsafe-eval'; media-src 'self' *.dnb.no *.youtube.com:* *.vimeo.com:*; font-src 'self' themes.googleusercontent.com; report-uri https://www.dnb.no/portalfront/csp/cspreportlog.php
+strict-transport-security: max-age=31536000; includeSubDomains
+pragma: no-cache
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: NorSegdOpSites1SessionID=0000cNBO1TyFx3rthfrQ4-s42rC:4Zdewnkm; Path=/
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22292ab6d7-b191-4809-8bca-b4bb4f20b37d%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:20 GMT; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22292ab6d7-b191-4809-8bca-b4bb4f20b37d%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:20 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_SE%3DSV%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22292ab6d7-b191-4809-8bca-b4bb4f20b37d%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:20 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_SE%3DSV%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22292ab6d7-b191-4809-8bca-b4bb4f20b37d%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:20 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_SE%3DSV%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22292ab6d7-b191-4809-8bca-b4bb4f20b37d%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:20 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_SE%3DSV%22%2C%22usercontext%22%3A%22rolecustomer%3DnotCustomer%3Alocation_region%3DILLINOIS%3Alocation_city%3DCHICAGO%3Alocation_country%3DUS%3A%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: deviceInfo=""; Path=/; Secure
+Set-Cookie: dnbnorsession=DNB_SE-CE2B0CEFAC171F6A101DC5A4256C9EA; Path=/; Secure
+Set-Cookie: dnbnor_se_language=SV; Path=/; Secure
+
+10: https://www.dnb.se/se/sv/markets.html?la=SV&site=DNB_SE
+connection: close
+content-language: en-US
+content-type: text/html;charset=UTF-8
+date: Tue, 20 May 2014 15:47:22 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+x-old-content-length: 30195
+cache-control: no-cache, no-store, must-revalidate
+was7: true
+content-security-policy: default-src 'self' *.bbs.no *.dnb.no *.dnb.se *.dnb.sg *.edb.com *.bankid.no themes.googleusercontent.com ssl.google-analytics.com fonts.googleapis.com csi.gstatic.com http://finncdn.no *.investtech.com *.morningstar.com *.qbrick.com adserver.adtech.de b2b.edb.com nettbankdrift.edb.com *.nets.no bedriftservice.no bilfinansonline.se carporten.dnbfinans.se carporten.nu connect.facebook.net designer.tagmycard.com dev.participant.com dnb.socialcee.com dnbnor.bankavstemming.no dnbnor.easycruit.com dnbnor.enterprisebanker.com dnbnorfeed.com www.deltager.no www.dnbfinans.net fidstest.dnbfinans.no get.adobe.com innbo.livesite.no itunes.apple.com ajax.googleapis.com googleads.g.doubleclick.net mts.googleapis.com mts0.googleapis.com mts1.googleapis.com maps-api-ssl.google.com maps.googleapis.com maps.gstatic.com plus.google.com apis.google.com www.google.no www.googleadservices.com new.livestream.com thomsonreuters.com tools.euroland.com track.adform.net *.easyresearch.se webcastclients.s3.amazonaws.com www.adobe.com www.euroland.com www.newsweb.no www.nordic-online.net www.nordlandsbanken.no www.sandnes-sparebank.no www.slideshare.net www.soliditet.no www.ssf.no www.youtube.com www.youtube-nocookie.com www2.anleger-fernsehen.de wss://*.dnb.no wss://*.edb.com labeladmin.carporten.nu code.jquery.com no.bankid.app://* data: chrome-extension: chromeinvoke: chromeinvokeimmediate: chromenull: 'unsafe-inline' 'unsafe-eval'; media-src 'self' *.dnb.no *.youtube.com:* *.vimeo.com:*; font-src 'self' themes.googleusercontent.com; report-uri https://www.dnb.no/portalfront/csp/cspreportlog.php
+strict-transport-security: max-age=31536000; includeSubDomains
+pragma: no-cache
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: NorSegdOpSites1SessionID=00001xPQz7u3fysEMc1Ze1s_Cm2:sBZqj2cx; Path=/
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22b2532530-f223-4d79-9dae-cb7545e66572%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:21 GMT; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22b2532530-f223-4d79-9dae-cb7545e66572%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:21 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_SE%3DSV%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22b2532530-f223-4d79-9dae-cb7545e66572%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:21 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_SE%3DSV%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22b2532530-f223-4d79-9dae-cb7545e66572%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:21 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_SE%3DSV%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22b2532530-f223-4d79-9dae-cb7545e66572%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:21 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_SE%3DSV%22%2C%22usercontext%22%3A%22rolecustomer%3DnotCustomer%3Alocation_region%3DILLINOIS%3Alocation_city%3DEVANSTON%3Alocation_country%3DUS%3A%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: deviceInfo=""; Path=/; Secure
+Set-Cookie: dnbnorsession=DNB_SE-AF33A3D79E9D3833A0170756053A9AE8; Path=/; Secure
+Set-Cookie: dnbnor_se_language=SV; Path=/; Secure
+
+11: https://www.dnb.no/en/business/markets/markets.html?la=EN&site=DNB_NO
+connection: close
+content-language: en-US
+content-type: text/html;charset=UTF-8
+date: Tue, 20 May 2014 15:47:23 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+cache-control: no-cache, no-store, must-revalidate
+was7: true
+content-security-policy: default-src 'self' *.bbs.no *.dnb.no *.dnb.se *.dnb.sg *.edb.com *.bankid.no themes.googleusercontent.com ssl.google-analytics.com fonts.googleapis.com csi.gstatic.com http://finncdn.no *.investtech.com *.morningstar.com *.qbrick.com adserver.adtech.de b2b.edb.com nettbankdrift.edb.com *.nets.no bedriftservice.no bilfinansonline.se carporten.dnbfinans.se carporten.nu connect.facebook.net designer.tagmycard.com dev.participant.com dnb.socialcee.com dnbnor.bankavstemming.no dnbnor.easycruit.com dnbnor.enterprisebanker.com dnbnorfeed.com www.deltager.no www.dnbfinans.net fidstest.dnbfinans.no get.adobe.com innbo.livesite.no itunes.apple.com ajax.googleapis.com googleads.g.doubleclick.net mts.googleapis.com mts0.googleapis.com mts1.googleapis.com maps-api-ssl.google.com maps.googleapis.com maps.gstatic.com plus.google.com apis.google.com www.google.no www.googleadservices.com new.livestream.com thomsonreuters.com tools.euroland.com track.adform.net *.easyresearch.se webcastclients.s3.amazonaws.com www.adobe.com www.euroland.com www.newsweb.no www.nordic-online.net www.nordlandsbanken.no www.sandnes-sparebank.no www.slideshare.net www.soliditet.no www.ssf.no www.youtube.com www.youtube-nocookie.com www2.anleger-fernsehen.de wss://*.dnb.no wss://*.edb.com labeladmin.carporten.nu code.jquery.com no.bankid.app://* data: chrome-extension: chromeinvoke: chromeinvokeimmediate: chromenull: 'unsafe-inline' 'unsafe-eval'; media-src 'self' *.dnb.no *.youtube.com:* *.vimeo.com:*; font-src 'self' themes.googleusercontent.com; report-uri https://www.dnb.no/portalfront/csp/cspreportlog.php
+strict-transport-security: max-age=31536000; includeSubDomains
+pragma: no-cache
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: NorSegdOpSites1SessionID=0000i3vXLaEK-HGoRWCys67OiJR:4Zdewnkm; Path=/
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%224524306d-703a-4605-85cc-4952d8dd8389%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:23 GMT; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%224524306d-703a-4605-85cc-4952d8dd8389%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:23 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%224524306d-703a-4605-85cc-4952d8dd8389%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:23 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%224524306d-703a-4605-85cc-4952d8dd8389%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:23 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%224524306d-703a-4605-85cc-4952d8dd8389%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:23 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%2C%22usercontext%22%3A%22rolecustomer%3DnotCustomer%3Alocation_region%3DILLINOIS%3Alocation_city%3DCHICAGO%3Alocation_country%3DUS%3A%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: deviceInfo=""; Path=/; Secure
+Set-Cookie: dnbnorsession=DNB_NO-E85DD220D843889D9B69628EE72ADE60; Path=/; Secure
+Set-Cookie: dnbnorlanguage=EN; Path=/; Secure
+
+12: https://www.dnb.no/segm/appo/bov/open
+connection: close
+content-language: en-US
+content-type: text/html;charset=UTF-8
+date: Tue, 20 May 2014 15:47:24 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+cache-control: no-cache, no-store, must-revalidate
+was7: true
+content-security-policy: default-src 'self' *.bbs.no *.dnb.no *.dnb.se *.dnb.sg *.edb.com *.bankid.no themes.googleusercontent.com ssl.google-analytics.com fonts.googleapis.com csi.gstatic.com http://finncdn.no *.investtech.com *.morningstar.com *.qbrick.com adserver.adtech.de b2b.edb.com nettbankdrift.edb.com *.nets.no bedriftservice.no bilfinansonline.se carporten.dnbfinans.se carporten.nu connect.facebook.net designer.tagmycard.com dev.participant.com dnb.socialcee.com dnbnor.bankavstemming.no dnbnor.easycruit.com dnbnor.enterprisebanker.com dnbnorfeed.com www.deltager.no www.dnbfinans.net fidstest.dnbfinans.no get.adobe.com innbo.livesite.no itunes.apple.com ajax.googleapis.com googleads.g.doubleclick.net mts.googleapis.com mts0.googleapis.com mts1.googleapis.com maps-api-ssl.google.com maps.googleapis.com maps.gstatic.com plus.google.com apis.google.com www.google.no www.googleadservices.com new.livestream.com thomsonreuters.com tools.euroland.com track.adform.net *.easyresearch.se webcastclients.s3.amazonaws.com www.adobe.com www.euroland.com www.newsweb.no www.nordic-online.net www.nordlandsbanken.no www.sandnes-sparebank.no www.slideshare.net www.soliditet.no www.ssf.no www.youtube.com www.youtube-nocookie.com www2.anleger-fernsehen.de wss://*.dnb.no wss://*.edb.com labeladmin.carporten.nu code.jquery.com no.bankid.app://* data: chrome-extension: chromeinvoke: chromeinvokeimmediate: chromenull: 'unsafe-inline' 'unsafe-eval'; media-src 'self' *.dnb.no *.youtube.com:* *.vimeo.com:*; font-src 'self' themes.googleusercontent.com; report-uri https://www.dnb.no/portalfront/csp/cspreportlog.php
+strict-transport-security: max-age=31536000; includeSubDomains
+pragma: no-cache
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: NorSegmOpCommonapps1SessionID=0000FhOfYG8obLS2oYCG4dmrN9A:SmZHbNTC; Path=/
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22c842f8a2-815b-4c84-b0c5-0a2845cd48a8%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:24 GMT; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22c842f8a2-815b-4c84-b0c5-0a2845cd48a8%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:24 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22c842f8a2-815b-4c84-b0c5-0a2845cd48a8%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:24 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22c842f8a2-815b-4c84-b0c5-0a2845cd48a8%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:24 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%2C%22usercontext%22%3A%22rolecustomer%3DnotCustomer%3Alocation_region%3DILLINOIS%3Alocation_city%3DCHICAGO%3Alocation_country%3DUS%3A%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: deviceInfo=""; Path=/; Secure
+Set-Cookie: dnbnorsession=DNB_NO-997F1F01A70A957F9B57C5C7B5C8C140; Path=/; Secure
+Set-Cookie: dnbnorlanguage=EN; Path=/; Secure
+
+13: https://www.dnb.no/en/corporate-and-institutions/investment-banking.html
+connection: close
+content-language: en-US
+content-type: text/html;charset=UTF-8
+date: Tue, 20 May 2014 15:47:25 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+cache-control: no-cache, no-store, must-revalidate
+was7: true
+content-security-policy: default-src 'self' *.bbs.no *.dnb.no *.dnb.se *.dnb.sg *.edb.com *.bankid.no themes.googleusercontent.com ssl.google-analytics.com fonts.googleapis.com csi.gstatic.com http://finncdn.no *.investtech.com *.morningstar.com *.qbrick.com adserver.adtech.de b2b.edb.com nettbankdrift.edb.com *.nets.no bedriftservice.no bilfinansonline.se carporten.dnbfinans.se carporten.nu connect.facebook.net designer.tagmycard.com dev.participant.com dnb.socialcee.com dnbnor.bankavstemming.no dnbnor.easycruit.com dnbnor.enterprisebanker.com dnbnorfeed.com www.deltager.no www.dnbfinans.net fidstest.dnbfinans.no get.adobe.com innbo.livesite.no itunes.apple.com ajax.googleapis.com googleads.g.doubleclick.net mts.googleapis.com mts0.googleapis.com mts1.googleapis.com maps-api-ssl.google.com maps.googleapis.com maps.gstatic.com plus.google.com apis.google.com www.google.no www.googleadservices.com new.livestream.com thomsonreuters.com tools.euroland.com track.adform.net *.easyresearch.se webcastclients.s3.amazonaws.com www.adobe.com www.euroland.com www.newsweb.no www.nordic-online.net www.nordlandsbanken.no www.sandnes-sparebank.no www.slideshare.net www.soliditet.no www.ssf.no www.youtube.com www.youtube-nocookie.com www2.anleger-fernsehen.de wss://*.dnb.no wss://*.edb.com labeladmin.carporten.nu code.jquery.com no.bankid.app://* data: chrome-extension: chromeinvoke: chromeinvokeimmediate: chromenull: 'unsafe-inline' 'unsafe-eval'; media-src 'self' *.dnb.no *.youtube.com:* *.vimeo.com:*; font-src 'self' themes.googleusercontent.com; report-uri https://www.dnb.no/portalfront/csp/cspreportlog.php
+strict-transport-security: max-age=31536000; includeSubDomains
+pragma: no-cache
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: NorSegdOpSites1SessionID=0000Pt3qlCfH7e6-q2CHfQnDJHP:sBZqj2cx; Path=/
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22078a5024-54a5-43c7-a4ad-5010c2e10fe1%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:24 GMT; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22078a5024-54a5-43c7-a4ad-5010c2e10fe1%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:24 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22078a5024-54a5-43c7-a4ad-5010c2e10fe1%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:24 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22078a5024-54a5-43c7-a4ad-5010c2e10fe1%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:24 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22078a5024-54a5-43c7-a4ad-5010c2e10fe1%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:24 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%2C%22usercontext%22%3A%22rolecustomer%3DnotCustomer%3Alocation_region%3DILLINOIS%3Alocation_city%3DEVANSTON%3Alocation_country%3DUS%3A%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: deviceInfo=""; Path=/; Secure
+Set-Cookie: dnbnorsession=DNB_NO-BCA12C11DAD828669D1BD308FE9F0223; Path=/; Secure
+Set-Cookie: dnbnorlanguage=EN; Path=/; Secure
+
+14: https://www.dnb.no/en/corporate-and-institutions/global-markets.html
+connection: close
+content-language: en-US
+content-type: text/html;charset=UTF-8
+date: Tue, 20 May 2014 15:47:26 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+cache-control: no-cache, no-store, must-revalidate
+was7: true
+content-security-policy: default-src 'self' *.bbs.no *.dnb.no *.dnb.se *.dnb.sg *.edb.com *.bankid.no themes.googleusercontent.com ssl.google-analytics.com fonts.googleapis.com csi.gstatic.com http://finncdn.no *.investtech.com *.morningstar.com *.qbrick.com adserver.adtech.de b2b.edb.com nettbankdrift.edb.com *.nets.no bedriftservice.no bilfinansonline.se carporten.dnbfinans.se carporten.nu connect.facebook.net designer.tagmycard.com dev.participant.com dnb.socialcee.com dnbnor.bankavstemming.no dnbnor.easycruit.com dnbnor.enterprisebanker.com dnbnorfeed.com www.deltager.no www.dnbfinans.net fidstest.dnbfinans.no get.adobe.com innbo.livesite.no itunes.apple.com ajax.googleapis.com googleads.g.doubleclick.net mts.googleapis.com mts0.googleapis.com mts1.googleapis.com maps-api-ssl.google.com maps.googleapis.com maps.gstatic.com plus.google.com apis.google.com www.google.no www.googleadservices.com new.livestream.com thomsonreuters.com tools.euroland.com track.adform.net *.easyresearch.se webcastclients.s3.amazonaws.com www.adobe.com www.euroland.com www.newsweb.no www.nordic-online.net www.nordlandsbanken.no www.sandnes-sparebank.no www.slideshare.net www.soliditet.no www.ssf.no www.youtube.com www.youtube-nocookie.com www2.anleger-fernsehen.de wss://*.dnb.no wss://*.edb.com labeladmin.carporten.nu code.jquery.com no.bankid.app://* data: chrome-extension: chromeinvoke: chromeinvokeimmediate: chromenull: 'unsafe-inline' 'unsafe-eval'; media-src 'self' *.dnb.no *.youtube.com:* *.vimeo.com:*; font-src 'self' themes.googleusercontent.com; report-uri https://www.dnb.no/portalfront/csp/cspreportlog.php
+strict-transport-security: max-age=31536000; includeSubDomains
+pragma: no-cache
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: NorSegdOpSites1SessionID=0000ZzbxzroJ99729ZV351OA4w_:iZdrDmRS; Path=/
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22cb1e6cfa-4789-4f68-bfd4-6b23ccf13a48%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:26 GMT; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22cb1e6cfa-4789-4f68-bfd4-6b23ccf13a48%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:26 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22cb1e6cfa-4789-4f68-bfd4-6b23ccf13a48%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:26 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22cb1e6cfa-4789-4f68-bfd4-6b23ccf13a48%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:26 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22cb1e6cfa-4789-4f68-bfd4-6b23ccf13a48%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:26 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%2C%22usercontext%22%3A%22rolecustomer%3DnotCustomer%3Alocation_region%3DILLINOIS%3Alocation_city%3DEVANSTON%3Alocation_country%3DUS%3A%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: deviceInfo=""; Path=/; Secure
+Set-Cookie: dnbnorsession=DNB_NO-1711D85954427C8B9C2B1F1806621EC1; Path=/; Secure
+Set-Cookie: dnbnorlanguage=EN; Path=/; Secure
+
+15: https://www.dnb.no/en/corporate-and-institutions/global-markets.html
+connection: close
+content-language: en-US
+content-type: text/html;charset=UTF-8
+date: Tue, 20 May 2014 15:47:27 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+cache-control: no-cache, no-store, must-revalidate
+was7: true
+content-security-policy: default-src 'self' *.bbs.no *.dnb.no *.dnb.se *.dnb.sg *.edb.com *.bankid.no themes.googleusercontent.com ssl.google-analytics.com fonts.googleapis.com csi.gstatic.com http://finncdn.no *.investtech.com *.morningstar.com *.qbrick.com adserver.adtech.de b2b.edb.com nettbankdrift.edb.com *.nets.no bedriftservice.no bilfinansonline.se carporten.dnbfinans.se carporten.nu connect.facebook.net designer.tagmycard.com dev.participant.com dnb.socialcee.com dnbnor.bankavstemming.no dnbnor.easycruit.com dnbnor.enterprisebanker.com dnbnorfeed.com www.deltager.no www.dnbfinans.net fidstest.dnbfinans.no get.adobe.com innbo.livesite.no itunes.apple.com ajax.googleapis.com googleads.g.doubleclick.net mts.googleapis.com mts0.googleapis.com mts1.googleapis.com maps-api-ssl.google.com maps.googleapis.com maps.gstatic.com plus.google.com apis.google.com www.google.no www.googleadservices.com new.livestream.com thomsonreuters.com tools.euroland.com track.adform.net *.easyresearch.se webcastclients.s3.amazonaws.com www.adobe.com www.euroland.com www.newsweb.no www.nordic-online.net www.nordlandsbanken.no www.sandnes-sparebank.no www.slideshare.net www.soliditet.no www.ssf.no www.youtube.com www.youtube-nocookie.com www2.anleger-fernsehen.de wss://*.dnb.no wss://*.edb.com labeladmin.carporten.nu code.jquery.com no.bankid.app://* data: chrome-extension: chromeinvoke: chromeinvokeimmediate: chromenull: 'unsafe-inline' 'unsafe-eval'; media-src 'self' *.dnb.no *.youtube.com:* *.vimeo.com:*; font-src 'self' themes.googleusercontent.com; report-uri https://www.dnb.no/portalfront/csp/cspreportlog.php
+strict-transport-security: max-age=31536000; includeSubDomains
+pragma: no-cache
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: NorSegdOpSites1SessionID=0000QjqFK3YHK-npWsQy8TXNmyj:iZdrDmRS; Path=/
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22b5a9d0bf-38ba-4b30-9672-cfb32c80f295%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:27 GMT; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22b5a9d0bf-38ba-4b30-9672-cfb32c80f295%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:27 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22b5a9d0bf-38ba-4b30-9672-cfb32c80f295%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:27 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22b5a9d0bf-38ba-4b30-9672-cfb32c80f295%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:27 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22b5a9d0bf-38ba-4b30-9672-cfb32c80f295%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:27 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%2C%22usercontext%22%3A%22rolecustomer%3DnotCustomer%3Alocation_region%3DILLINOIS%3Alocation_city%3DEVANSTON%3Alocation_country%3DUS%3A%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: deviceInfo=""; Path=/; Secure
+Set-Cookie: dnbnorsession=DNB_NO-8D5D7BE6AA07D0709E938E42C6CC1A26; Path=/; Secure
+Set-Cookie: dnbnorlanguage=EN; Path=/; Secure
+
+16: https://www.dnb.no/en/corporate-and-institutions/corporate-banking.html
+connection: close
+content-language: en-US
+content-type: text/html;charset=UTF-8
+date: Tue, 20 May 2014 15:47:28 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+cache-control: no-cache, no-store, must-revalidate
+was7: true
+content-security-policy: default-src 'self' *.bbs.no *.dnb.no *.dnb.se *.dnb.sg *.edb.com *.bankid.no themes.googleusercontent.com ssl.google-analytics.com fonts.googleapis.com csi.gstatic.com http://finncdn.no *.investtech.com *.morningstar.com *.qbrick.com adserver.adtech.de b2b.edb.com nettbankdrift.edb.com *.nets.no bedriftservice.no bilfinansonline.se carporten.dnbfinans.se carporten.nu connect.facebook.net designer.tagmycard.com dev.participant.com dnb.socialcee.com dnbnor.bankavstemming.no dnbnor.easycruit.com dnbnor.enterprisebanker.com dnbnorfeed.com www.deltager.no www.dnbfinans.net fidstest.dnbfinans.no get.adobe.com innbo.livesite.no itunes.apple.com ajax.googleapis.com googleads.g.doubleclick.net mts.googleapis.com mts0.googleapis.com mts1.googleapis.com maps-api-ssl.google.com maps.googleapis.com maps.gstatic.com plus.google.com apis.google.com www.google.no www.googleadservices.com new.livestream.com thomsonreuters.com tools.euroland.com track.adform.net *.easyresearch.se webcastclients.s3.amazonaws.com www.adobe.com www.euroland.com www.newsweb.no www.nordic-online.net www.nordlandsbanken.no www.sandnes-sparebank.no www.slideshare.net www.soliditet.no www.ssf.no www.youtube.com www.youtube-nocookie.com www2.anleger-fernsehen.de wss://*.dnb.no wss://*.edb.com labeladmin.carporten.nu code.jquery.com no.bankid.app://* data: chrome-extension: chromeinvoke: chromeinvokeimmediate: chromenull: 'unsafe-inline' 'unsafe-eval'; media-src 'self' *.dnb.no *.youtube.com:* *.vimeo.com:*; font-src 'self' themes.googleusercontent.com; report-uri https://www.dnb.no/portalfront/csp/cspreportlog.php
+strict-transport-security: max-age=31536000; includeSubDomains
+pragma: no-cache
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: NorSegdOpSites1SessionID=0000O5XA3TDEYN0t2Ah0H_WZyS1:FYkrvozT; Path=/
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%223ac888f9-0b8a-4cfa-956f-8b6584624d82%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:27 GMT; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%223ac888f9-0b8a-4cfa-956f-8b6584624d82%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:27 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%223ac888f9-0b8a-4cfa-956f-8b6584624d82%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:27 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%223ac888f9-0b8a-4cfa-956f-8b6584624d82%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:27 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%223ac888f9-0b8a-4cfa-956f-8b6584624d82%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:27 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%2C%22usercontext%22%3A%22rolecustomer%3DnotCustomer%3Alocation_region%3DILLINOIS%3Alocation_city%3DCHICAGO%3Alocation_country%3DUS%3A%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: deviceInfo=""; Path=/; Secure
+Set-Cookie: dnbnorsession=DNB_NO-5AA8969AFCD42894998DD999B1D1CBFD; Path=/; Secure
+Set-Cookie: dnbnorlanguage=EN; Path=/; Secure
+
+17: https://www.dnb.no/en/corporate-and-institutions/corporate-banking.html
+connection: close
+content-language: en-US
+content-type: text/html;charset=UTF-8
+date: Tue, 20 May 2014 15:47:29 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+cache-control: no-cache, no-store, must-revalidate
+was7: true
+content-security-policy: default-src 'self' *.bbs.no *.dnb.no *.dnb.se *.dnb.sg *.edb.com *.bankid.no themes.googleusercontent.com ssl.google-analytics.com fonts.googleapis.com csi.gstatic.com http://finncdn.no *.investtech.com *.morningstar.com *.qbrick.com adserver.adtech.de b2b.edb.com nettbankdrift.edb.com *.nets.no bedriftservice.no bilfinansonline.se carporten.dnbfinans.se carporten.nu connect.facebook.net designer.tagmycard.com dev.participant.com dnb.socialcee.com dnbnor.bankavstemming.no dnbnor.easycruit.com dnbnor.enterprisebanker.com dnbnorfeed.com www.deltager.no www.dnbfinans.net fidstest.dnbfinans.no get.adobe.com innbo.livesite.no itunes.apple.com ajax.googleapis.com googleads.g.doubleclick.net mts.googleapis.com mts0.googleapis.com mts1.googleapis.com maps-api-ssl.google.com maps.googleapis.com maps.gstatic.com plus.google.com apis.google.com www.google.no www.googleadservices.com new.livestream.com thomsonreuters.com tools.euroland.com track.adform.net *.easyresearch.se webcastclients.s3.amazonaws.com www.adobe.com www.euroland.com www.newsweb.no www.nordic-online.net www.nordlandsbanken.no www.sandnes-sparebank.no www.slideshare.net www.soliditet.no www.ssf.no www.youtube.com www.youtube-nocookie.com www2.anleger-fernsehen.de wss://*.dnb.no wss://*.edb.com labeladmin.carporten.nu code.jquery.com no.bankid.app://* data: chrome-extension: chromeinvoke: chromeinvokeimmediate: chromenull: 'unsafe-inline' 'unsafe-eval'; media-src 'self' *.dnb.no *.youtube.com:* *.vimeo.com:*; font-src 'self' themes.googleusercontent.com; report-uri https://www.dnb.no/portalfront/csp/cspreportlog.php
+strict-transport-security: max-age=31536000; includeSubDomains
+pragma: no-cache
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: NorSegdOpSites1SessionID=0000yxSa5nUqsCMc47DTqPLl9-7:sBZqj2cx; Path=/
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22e5b876f6-df13-4846-b2ad-e161fae74a2e%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:28 GMT; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22e5b876f6-df13-4846-b2ad-e161fae74a2e%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:28 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22e5b876f6-df13-4846-b2ad-e161fae74a2e%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:28 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22e5b876f6-df13-4846-b2ad-e161fae74a2e%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:28 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22e5b876f6-df13-4846-b2ad-e161fae74a2e%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:28 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%2C%22usercontext%22%3A%22rolecustomer%3DnotCustomer%3Alocation_region%3DILLINOIS%3Alocation_city%3DEVANSTON%3Alocation_country%3DUS%3A%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: deviceInfo=""; Path=/; Secure
+Set-Cookie: dnbnorsession=DNB_NO-2E7B5304F72DFCBA069384B41047829; Path=/; Secure
+Set-Cookie: dnbnorlanguage=EN; Path=/; Secure
+
+18: https://www.dnb.no/en/about-us/offices/kontorer.html
+connection: close
+content-language: en-US
+content-type: text/html;charset=UTF-8
+date: Tue, 20 May 2014 15:47:30 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+cache-control: no-cache, no-store, must-revalidate
+was7: true
+content-security-policy: default-src 'self' *.bbs.no *.dnb.no *.dnb.se *.dnb.sg *.edb.com *.bankid.no themes.googleusercontent.com ssl.google-analytics.com fonts.googleapis.com csi.gstatic.com http://finncdn.no *.investtech.com *.morningstar.com *.qbrick.com adserver.adtech.de b2b.edb.com nettbankdrift.edb.com *.nets.no bedriftservice.no bilfinansonline.se carporten.dnbfinans.se carporten.nu connect.facebook.net designer.tagmycard.com dev.participant.com dnb.socialcee.com dnbnor.bankavstemming.no dnbnor.easycruit.com dnbnor.enterprisebanker.com dnbnorfeed.com www.deltager.no www.dnbfinans.net fidstest.dnbfinans.no get.adobe.com innbo.livesite.no itunes.apple.com ajax.googleapis.com googleads.g.doubleclick.net mts.googleapis.com mts0.googleapis.com mts1.googleapis.com maps-api-ssl.google.com maps.googleapis.com maps.gstatic.com plus.google.com apis.google.com www.google.no www.googleadservices.com new.livestream.com thomsonreuters.com tools.euroland.com track.adform.net *.easyresearch.se webcastclients.s3.amazonaws.com www.adobe.com www.euroland.com www.newsweb.no www.nordic-online.net www.nordlandsbanken.no www.sandnes-sparebank.no www.slideshare.net www.soliditet.no www.ssf.no www.youtube.com www.youtube-nocookie.com www2.anleger-fernsehen.de wss://*.dnb.no wss://*.edb.com labeladmin.carporten.nu code.jquery.com no.bankid.app://* data: chrome-extension: chromeinvoke: chromeinvokeimmediate: chromenull: 'unsafe-inline' 'unsafe-eval'; media-src 'self' *.dnb.no *.youtube.com:* *.vimeo.com:*; font-src 'self' themes.googleusercontent.com; report-uri https://www.dnb.no/portalfront/csp/cspreportlog.php
+strict-transport-security: max-age=31536000; includeSubDomains
+pragma: no-cache
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: NorSegdOpSites1SessionID=0000OGBGxCiOSWUDbHH9uFbUKFH:FYkrvozT; Path=/
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22619f8693-b71d-4704-b95e-0c1134a49c30%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:29 GMT; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22619f8693-b71d-4704-b95e-0c1134a49c30%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:29 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22619f8693-b71d-4704-b95e-0c1134a49c30%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:29 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22619f8693-b71d-4704-b95e-0c1134a49c30%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:29 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22619f8693-b71d-4704-b95e-0c1134a49c30%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:29 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%2C%22usercontext%22%3A%22rolecustomer%3DnotCustomer%3Alocation_region%3DILLINOIS%3Alocation_city%3DCHICAGO%3Alocation_country%3DUS%3A%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: deviceInfo=""; Path=/; Secure
+Set-Cookie: dnbnorsession=DNB_NO-3064F12F7660C0999C25402C4B416A61; Path=/; Secure
+Set-Cookie: dnbnorlanguage=EN; Path=/; Secure
+
+19: https://www.dnb.no/segm/appo/bov/open
+connection: close
+content-language: en-US
+content-type: text/html;charset=UTF-8
+date: Tue, 20 May 2014 15:47:31 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+cache-control: no-cache, no-store, must-revalidate
+was7: true
+content-security-policy: default-src 'self' *.bbs.no *.dnb.no *.dnb.se *.dnb.sg *.edb.com *.bankid.no themes.googleusercontent.com ssl.google-analytics.com fonts.googleapis.com csi.gstatic.com http://finncdn.no *.investtech.com *.morningstar.com *.qbrick.com adserver.adtech.de b2b.edb.com nettbankdrift.edb.com *.nets.no bedriftservice.no bilfinansonline.se carporten.dnbfinans.se carporten.nu connect.facebook.net designer.tagmycard.com dev.participant.com dnb.socialcee.com dnbnor.bankavstemming.no dnbnor.easycruit.com dnbnor.enterprisebanker.com dnbnorfeed.com www.deltager.no www.dnbfinans.net fidstest.dnbfinans.no get.adobe.com innbo.livesite.no itunes.apple.com ajax.googleapis.com googleads.g.doubleclick.net mts.googleapis.com mts0.googleapis.com mts1.googleapis.com maps-api-ssl.google.com maps.googleapis.com maps.gstatic.com plus.google.com apis.google.com www.google.no www.googleadservices.com new.livestream.com thomsonreuters.com tools.euroland.com track.adform.net *.easyresearch.se webcastclients.s3.amazonaws.com www.adobe.com www.euroland.com www.newsweb.no www.nordic-online.net www.nordlandsbanken.no www.sandnes-sparebank.no www.slideshare.net www.soliditet.no www.ssf.no www.youtube.com www.youtube-nocookie.com www2.anleger-fernsehen.de wss://*.dnb.no wss://*.edb.com labeladmin.carporten.nu code.jquery.com no.bankid.app://* data: chrome-extension: chromeinvoke: chromeinvokeimmediate: chromenull: 'unsafe-inline' 'unsafe-eval'; media-src 'self' *.dnb.no *.youtube.com:* *.vimeo.com:*; font-src 'self' themes.googleusercontent.com; report-uri https://www.dnb.no/portalfront/csp/cspreportlog.php
+strict-transport-security: max-age=31536000; includeSubDomains
+pragma: no-cache
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: NorSegmOpCommonapps1SessionID=0000E4vXo64TOZyDJEqKyUu22Df:SmZHbNTC; Path=/
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22493cc826-4a4d-495a-aec0-106e83bc4985%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:31 GMT; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22493cc826-4a4d-495a-aec0-106e83bc4985%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:31 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22493cc826-4a4d-495a-aec0-106e83bc4985%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:31 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: portal_persistent=%7B%22webid%22%3A%22493cc826-4a4d-495a-aec0-106e83bc4985%22%7D; Path=/; Expires=Fri, 19-May-17 15:47:31 GMT; Secure
+Set-Cookie: portal_scriptable=%7B%22portallanguage%22%3A%22DNB_NO%3DEN%22%2C%22usercontext%22%3A%22rolecustomer%3DnotCustomer%3Alocation_region%3DILLINOIS%3Alocation_city%3DCHICAGO%3Alocation_country%3DUS%3A%22%2C%22portalsegmentation%22%3A%22%22%7D; Path=/; Secure
+Set-Cookie: deviceInfo=""; Path=/; Secure
+Set-Cookie: dnbnorsession=DNB_NO-731DD28FF9953119BE4ABFE40D9AA41; Path=/; Secure
+Set-Cookie: dnbnorlanguage=EN; Path=/; Secure
+
